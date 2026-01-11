@@ -1,0 +1,175 @@
+/*
+ * blazeSkin - FinTV Custom Skin (Compiled)
+ * Author: A20Labs
+ * Version: 1.0.0
+ * 
+ * This file is loaded via @import
+ */
+
+/* ============================================
+   LIVE TV CHANNEL GRID ENHANCEMENTS
+   ============================================ */
+
+.card[data-type="TvChannel"],
+.listItem[data-type="TvChannel"] {
+  cursor: pointer !important;
+  transition: transform 0.2s ease, box-shadow 0.2s ease !important;
+  position: relative !important;
+}
+
+.card[data-type="TvChannel"]:hover,
+.listItem[data-type="TvChannel"]:hover {
+  transform: scale(1.05) !important;
+  box-shadow: 0 8px 25px rgba(255, 107, 0, 0.4) !important;
+}
+
+/* Play indicator on hover */
+.card[data-type="TvChannel"]:hover .cardImageContainer::after {
+  content: "▶" !important;
+  position: absolute !important;
+  top: 50% !important;
+  left: 50% !important;
+  transform: translate(-50%, -50%) !important;
+  font-size: 3rem !important;
+  color: rgba(255, 255, 255, 0.95) !important;
+  text-shadow: 0 0 20px rgba(0, 0, 0, 0.9) !important;
+  pointer-events: none !important;
+  z-index: 10 !important;
+}
+
+.card[data-type="TvChannel"] .cardImageContainer {
+  position: relative !important;
+}
+
+/* ============================================
+   INFO BUTTON
+   ============================================ */
+
+.blazeSkin-infoBtn {
+  position: absolute !important;
+  top: 8px !important;
+  right: 8px !important;
+  width: 28px !important;
+  height: 28px !important;
+  background: rgba(0, 0, 0, 0.8) !important;
+  border: 2px solid rgba(255, 255, 255, 0.7) !important;
+  border-radius: 50% !important;
+  color: white !important;
+  font-size: 16px !important;
+  font-weight: bold !important;
+  cursor: pointer !important;
+  display: flex !important;
+  align-items: center !important;
+  justify-content: center !important;
+  z-index: 100 !important;
+  transition: all 0.2s ease !important;
+  opacity: 0 !important;
+}
+
+.card[data-type="TvChannel"]:hover .blazeSkin-infoBtn,
+.listItem[data-type="TvChannel"]:hover .blazeSkin-infoBtn {
+  opacity: 1 !important;
+}
+
+.blazeSkin-infoBtn:hover {
+  background: rgba(255, 107, 0, 0.95) !important;
+  border-color: white !important;
+  transform: scale(1.15) !important;
+}
+
+/* ============================================
+   ACCENT COLOR - BLAZE ORANGE (#FF6B00)
+   ============================================ */
+
+.skinHeader {
+  background-color: #1a1a1a !important;
+  border-bottom: 2px solid #FF6B00 !important;
+}
+
+.navMenuOption.navMenuOption-selected,
+.emby-tab-button-active {
+  color: #FF6B00 !important;
+  border-bottom-color: #FF6B00 !important;
+}
+
+.itemProgressBar-inner {
+  background-color: #FF6B00 !important;
+}
+
+.button-submit,
+.emby-button.raised.emby-button-accent {
+  background-color: #FF6B00 !important;
+}
+
+a:hover,
+.button-link:hover {
+  color: #FF6B00 !important;
+}
+
+/* ============================================
+   LIVE TV GUIDE
+   ============================================ */
+
+.guide-programCell.guide-activeProgram {
+  background: linear-gradient(135deg, #FF6B00 0%, #FF8C00 100%) !important;
+}
+
+.guide-channelHeaderCell img {
+  max-height: 50px !important;
+  object-fit: contain !important;
+}
+
+/* ============================================
+   NOW PLAYING INDICATOR
+   ============================================ */
+
+.card[data-type="TvChannel"].blazeSkin-playing {
+  border: 3px solid #FF6B00 !important;
+  box-shadow: 0 0 20px rgba(255, 107, 0, 0.7) !important;
+}
+
+/* ============================================
+   TOAST NOTIFICATION
+   ============================================ */
+
+.blazeSkin-toast {
+  position: fixed !important;
+  bottom: 100px !important;
+  left: 50% !important;
+  transform: translateX(-50%) !important;
+  background: rgba(20, 20, 20, 0.95) !important;
+  color: white !important;
+  padding: 15px 30px !important;
+  border-radius: 8px !important;
+  border-left: 4px solid #FF6B00 !important;
+  z-index: 99999 !important;
+  font-size: 16px !important;
+  animation: blazeToastIn 0.3s ease !important;
+}
+
+@keyframes blazeToastIn {
+  from {
+    opacity: 0;
+    transform: translateX(-50%) translateY(20px);
+  }
+  to {
+    opacity: 1;
+    transform: translateX(-50%) translateY(0);
+  }
+}
+
+/* ============================================
+   RESPONSIVE
+   ============================================ */
+
+@media (max-width: 768px) {
+  .blazeSkin-infoBtn {
+    width: 24px !important;
+    height: 24px !important;
+    font-size: 14px !important;
+  }
+  
+  .card[data-type="TvChannel"]:hover .cardImageContainer::after {
+    font-size: 2rem !important;
+  }
+}
