@@ -5,8 +5,8 @@
 .pageTitleWithDefaultLogo img,.adminDrawerLogo img,.splashLogo img,h1.logoImage img,h3.logoImage img,.logoImage img,.headerLogo img{opacity:0!important;visibility:hidden!important}
 .pageTitleWithDefaultLogo,.adminDrawerLogo,.splashLogo,h1.logoImage,h3.logoImage,.logoImage,.headerLogo{min-width:120px!important;min-height:50px!important}
 .splashLogo{min-width:200px!important;min-height:100px!important}
-h1.logoImage::after,h3.logoImage::after,.pageTitleWithDefaultLogo::after{content:"BSyd"!important;font-size:1.8rem!important;font-weight:700!important;color:#fff!important;margin-left:10px!important;letter-spacing:1px!important}
-.headerLogo::after{content:"BSyd"!important;font-size:1.2rem!important;font-weight:600!important;color:#fff!important;margin-left:8px!important}
+h1.logoImage::after,h3.logoImage::after,.pageTitleWithDefaultLogo::after{content:"Bsyd Media"!important;font-size:1.8rem!important;font-weight:700!important;color:#fff!important;margin-left:10px!important;letter-spacing:1px!important}
+.headerLogo::after{content:"Bsyd Media"!important;font-size:1.2rem!important;font-weight:600!important;color:#fff!important;margin-left:8px!important}
 
 .headerLeft{display:flex!important;align-items:center!important}
 .pageTitle.pageTitleWithDefaultLogo{display:flex!important;align-items:center!important}
