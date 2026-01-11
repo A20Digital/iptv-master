@@ -10,3 +10,7 @@ h1.logoImage::after,h3.logoImage::after,.pageTitleWithDefaultLogo::after{content
 
 .headerLeft{display:flex!important;align-items:center!important}
 .pageTitle.pageTitleWithDefaultLogo{display:flex!important;align-items:center!important}
+
+/* Fix logo position - logo left, BSyd right */
+.pageTitleWithDefaultLogo,.pageTitle.imgLogoIcon{background-position:left center!important;padding-left:60px!important}
+h1.logoImage::after,h3.logoImage::after,.pageTitleWithDefaultLogo::after{margin-left:0!important}
