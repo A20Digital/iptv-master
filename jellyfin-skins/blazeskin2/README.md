@@ -1,14 +1,16 @@
 # blazeskin2
 
-A modern, sleek Jellyfin theme with purple accents. Inspired by ElegantFin.
+A beautiful Jellyfin theme based on [ElegantFin](https://github.com/lscambo13/ElegantFin) with custom purple branding and "BSyd" logo.
 
 ## ✨ Features
 
-- Modern dark theme with purple accents (#692a8d)
+- **Based on ElegantFin v25.12.31** - Full styling parity with ElegantFin
+- Custom purple color scheme (#692a8d)
+- Custom "B" logo replacing Jellyfin branding
+- "BSyd" text branding throughout
+- Modern dark theme with glass-effect blur
 - Rounded corners and smooth transitions
-- Glass-effect blur backgrounds
-- Optimized Live TV guide width (4.42em)
-- Clean sidebar and navigation styling
+- Optimized Live TV guide
 - Material Icons Round support
 - Mobile and TV responsive design
 
