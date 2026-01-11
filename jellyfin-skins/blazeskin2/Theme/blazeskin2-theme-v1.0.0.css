@@ -614,6 +614,35 @@ html {
     margin: .5em auto 0em !important;
 }
 
+/* Custom logo - replace Jellyfin branding */
+.pageTitleWithDefaultLogo {
+    background-image: url("https://raw.githubusercontent.com/A20Digital/iptv-master/main/jellyfin-skins/blazeskin2/Theme/assets/img/logo.png") !important;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 120px !important;
+    width: 120px !important;
+}
+
+.pageTitleWithDefaultLogo .pageTitle {
+    visibility: hidden;
+}
+
+/* Hide default Jellyfin logo text */
+.logoImage {
+    content: url("https://raw.githubusercontent.com/A20Digital/iptv-master/main/jellyfin-skins/blazeskin2/Theme/assets/img/logo.png") !important;
+    max-height: 100px;
+}
+
+/* Drawer/sidebar logo */
+.adminDrawerLogo,
+.drawerLogo {
+    background-image: url("https://raw.githubusercontent.com/A20Digital/iptv-master/main/jellyfin-skins/blazeskin2/Theme/assets/img/logo.png") !important;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
 #loginPage .padded-left.padded-right.padded-bottom-page {
     margin: 2em auto 0;
     width: 28em;
