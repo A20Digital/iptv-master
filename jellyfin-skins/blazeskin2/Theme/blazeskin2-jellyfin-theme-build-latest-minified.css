@@ -16,4 +16,4 @@ h1.logoImage::after,h3.logoImage::after,.pageTitleWithDefaultLogo::after{content
 h1.logoImage::after,h3.logoImage::after,.pageTitleWithDefaultLogo::after{margin-left:0!important}
 
 /* Round edges 20px for all images and media */
-img,.cardImageContainer,.cardImage,.itemBackdrop,.detailImageContainer img,.primaryImageWrapper img,.cardContent,.listItemImage,.nowPlayingPageImage,.nowPlayingImage,.backdropImage,.detailLogo,.chapterCardImageContainer,.guideChannelImage,.headerUserButton img,.MuiAvatar-img,video,.videoOsdBottom video{border-radius:20px!important}
+img,.cardImageContainer,.cardImage,.itemBackdrop,.detailImageContainer img,.primaryImageWrapper img,.cardContent,.listItemImage,.nowPlayingPageImage,.nowPlayingImage,.backdropImage,.detailLogo,.chapterCardImageContainer,.guideChannelImage,.headerUserButton img,.MuiAvatar-img,video,.videoOsdBottom video{border-radius:50px!important}
