@@ -449,6 +449,11 @@ html {
     box-shadow: 0 2px 10px var(--accentColorAlpha);
 }
 
+.channelPrograms,
+.guide-channelHeaderCell {
+    width: 4.42em !important;
+}
+
 .guide-channelHeaderCell img {
     max-height: 50px !important;
     object-fit: contain !important;
