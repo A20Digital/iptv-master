@@ -1,0 +1,771 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="94617daa923628efcb02ab245cf81a73" tvg-chno="100" tvg-name="NBC News NOW" tvg-logo="https://fintv.a20labs.com/Items/94617daa923628efcb02ab245cf81a73/Images/Primary?api_key=8b6b2ddee71a4c2685625862dae21eb1" group-title="Live TV",NBC News NOW
+https://fintv.a20labs.com/LiveTv/Channels/94617daa923628efcb02ab245cf81a73/stream.m3u8?api_key=8b6b2ddee71a4c2685625862dae21eb1
+#EXTINF:-1 tvg-id="1464cdab42031bec7f3ea74147307a96" tvg-chno="101" tvg-name="ABC News Live" tvg-logo="https://fintv.a20labs.com/Items/1464cdab42031bec7f3ea74147307a96/Images/Primary?api_key=8b6b2ddee71a4c2685625862dae21eb1" group-title="Live TV",ABC News Live
+https://fintv.a20labs.com/LiveTv/Channels/1464cdab42031bec7f3ea74147307a96/stream.m3u8?api_key=8b6b2ddee71a4c2685625862dae21eb1
+#EXTINF:-1 tvg-id="55164818b9a5f12f7d99f95703e74e78" tvg-chno="102" tvg-name="CBS News 24/7" tvg-logo="https://fintv.a20labs.com/Items/55164818b9a5f12f7d99f95703e74e78/Images/Primary?api_key=8b6b2ddee71a4c2685625862dae21eb1" group-title="Live TV",CBS News 24/7
+https://fintv.a20labs.com/LiveTv/Channels/55164818b9a5f12f7d99f95703e74e78/stream.m3u8?api_key=8b6b2ddee71a4c2685625862dae21eb1
+#EXTINF:-1 tvg-id="651ff3c87e7295fed3a0e04b2f2f88bc" tvg-chno="103" tvg-name="LiveNOW from FOX" tvg-logo="https://fintv.a20labs.com/Items/651ff3c87e7295fed3a0e04b2f2f88bc/Images/Primary?api_key=8b6b2ddee71a4c2685625862dae21eb1" group-title="Live TV",LiveNOW from FOX
+https://fintv.a20labs.com/LiveTv/Channels/651ff3c87e7295fed3a0e04b2f2f88bc/stream.m3u8?api_key=8b6b2ddee71a4c2685625862dae21eb1
+#EXTINF:-1 tvg-id="a7872eae2e0af118ba61bb1df42b6e60" tvg-chno="104" tvg-name="Local Now" tvg-logo="https://fintv.a20labs.com/Items/a7872eae2e0af118ba61bb1df42b6e60/Images/Primary?api_key=8b6b2ddee71a4c2685625862dae21eb1" group-title="Live TV",Local Now
+https://fintv.a20labs.com/LiveTv/Channels/a7872eae2e0af118ba61bb1df42b6e60/stream.m3u8?api_key=8b6b2ddee71a4c2685625862dae21eb1
+#EXTINF:-1 tvg-id="ec25ac7e26def97da4175728782af210" tvg-chno="105" tvg-name="TODAY All Day" tvg-logo="https://fintv.a20labs.com/Items/ec25ac7e26def97da4175728782af210/Images/Primary?api_key=8b6b2ddee71a4c2685625862dae21eb1" group-title="Live TV",TODAY All Day
+https://fintv.a20labs.com/LiveTv/Channels/ec25ac7e26def97da4175728782af210/stream.m3u8?api_key=8b6b2ddee71a4c2685625862dae21eb1
+#EXTINF:-1 tvg-id="2c0d32b401eea9a36dd52066e7e90fb7" tvg-chno="106" tvg-name="Reuters 60" tvg-logo="https://fintv.a20labs.com/Items/2c0d32b401eea9a36dd52066e7e90fb7/Images/Primary?api_key=8b6b2ddee71a4c2685625862dae21eb1" group-title="Live TV",Reuters 60
+https://fintv.a20labs.com/LiveTv/Channels/2c0d32b401eea9a36dd52066e7e90fb7/stream.m3u8?api_key=8b6b2ddee71a4c2685625862dae21eb1
+#EXTINF:-1 tvg-id="b09f6954dc604f6576b293de39ff3e87" tvg-chno="107" tvg-name="Sky News" tvg-logo="https://fintv.a20labs.com/Items/b09f6954dc604f6576b293de39ff3e87/Images/Primary?api_key=8b6b2ddee71a4c2685625862dae21eb1" group-title="Live TV",Sky News
+https://fintv.a20labs.com/LiveTv/Channels/b09f6954dc604f6576b293de39ff3e87/stream.m3u8?api_key=8b6b2ddee71a4c2685625862dae21eb1
+#EXTINF:-1 tvg-id="ccbd76e91735ff453fc9ff3d32d90688" tvg-chno="108" tvg-name="Scripps News" tvg-logo="https://fintv.a20labs.com/Items/ccbd76e91735ff453fc9ff3d32d90688/Images/Primary?api_key=8b6b2ddee71a4c2685625862dae21eb1" group-title="Live TV",Scripps News
+https://fintv.a20labs.com/LiveTv/Channels/ccbd76e91735ff453fc9ff3d32d90688/stream.m3u8?api_key=8b6b2ddee71a4c2685625862dae21eb1
+#EXTINF:-1 tvg-id="63ac06ee058f575bcdfeb4426c343be0" tvg-chno="109" tvg-name="Newsmax2" tvg-logo="https://fintv.a20labs.com/Items/63ac06ee058f575bcdfeb4426c343be0/Images/Primary?api_key=8b6b2ddee71a4c2685625862dae21eb1" group-title="Live TV",Newsmax2
+https://fintv.a20labs.com/LiveTv/Channels/63ac06ee058f575bcdfeb4426c343be0/stream.m3u8?api_key=8b6b2ddee71a4c2685625862dae21eb1
+#EXTINF:-1 tvg-id="e2d8c528ed356c0dadc9f8baa414dbaa" tvg-chno="110" tvg-name="CBC News" tvg-logo="https://fintv.a20labs.com/Items/e2d8c528ed356c0dadc9f8baa414dbaa/Images/Primary?api_key=8b6b2ddee71a4c2685625862dae21eb1" group-title="Live TV",CBC News
+https://fintv.a20labs.com/LiveTv/Channels/e2d8c528ed356c0dadc9f8baa414dbaa/stream.m3u8?api_key=8b6b2ddee71a4c2685625862dae21eb1
+#EXTINF:-1 tvg-id="198bc66773b3bc409edbddce196c1a58" tvg-chno="111" tvg-name="TYT" tvg-logo="https://fintv.a20labs.com/Items/198bc66773b3bc409edbddce196c1a58/Images/Primary?api_key=8b6b2ddee71a4c2685625862dae21eb1" group-title="Live TV",TYT
+https://fintv.a20labs.com/LiveTv/Channels/198bc66773b3bc409edbddce196c1a58/stream.m3u8?api_key=8b6b2ddee71a4c2685625862dae21eb1
+#EXTINF:-1 tvg-id="7577b10f52e37954735c86e18001aa2a" tvg-chno="112" tvg-name="Cheddar News" tvg-logo="https://fintv.a20labs.com/Items/7577b10f52e37954735c86e18001aa2a/Images/Primary?api_key=8b6b2ddee71a4c2685625862dae21eb1" group-title="Live TV",Cheddar News
+https://fintv.a20labs.com/LiveTv/Channels/7577b10f52e37954735c86e18001aa2a/stream.m3u8?api_key=8b6b2ddee71a4c2685625862dae21eb1
+#EXTINF:-1 tvg-id="725ac842afa3f1148593e83ced8239c6" tvg-chno="113" tvg-name="Salem News Channel" tvg-logo="https://fintv.a20labs.com/Items/725ac842afa3f1148593e83ced8239c6/Images/Primary?api_key=8b6b2ddee71a4c2685625862dae21eb1" group-title="Live TV",Salem News Channel
+https://fintv.a20labs.com/LiveTv/Channels/725ac842afa3f1148593e83ced8239c6/stream.m3u8?api_key=8b6b2ddee71a4c2685625862dae21eb1
+#EXTINF:-1 tvg-id="c0f66d9e9818424d592867133af12349" tvg-chno="114" tvg-name="BBC News" tvg-logo="https://fintv.a20labs.com/Items/c0f66d9e9818424d592867133af12349/Images/Primary?api_key=8b6b2ddee71a4c2685625862dae21eb1" group-title="Live TV",BBC News
+https://fintv.a20labs.com/LiveTv/Channels/c0f66d9e9818424d592867133af12349/stream.m3u8?api_key=8b6b2ddee71a4c2685625862dae21eb1
+#EXTINF:-1 tvg-id="3cf1e14f996b55e2a57725fb9b6c82a8" tvg-chno="115" tvg-name="Spectrum News+" tvg-logo="https://fintv.a20labs.com/Items/3cf1e14f996b55e2a57725fb9b6c82a8/Images/Primary?api_key=8b6b2ddee71a4c2685625862dae21eb1" group-title="Live TV",Spectrum News+
+https://fintv.a20labs.com/LiveTv/Channels/3cf1e14f996b55e2a57725fb9b6c82a8/stream.m3u8?api_key=8b6b2ddee71a4c2685625862dae21eb1
+#EXTINF:-1 tvg-id="1db33d20ba5153e2c5b012ed77b131dd" tvg-chno="116" tvg-name="Fox Weather" tvg-logo="https://fintv.a20labs.com/Items/1db33d20ba5153e2c5b012ed77b131dd/Images/Primary?api_key=8b6b2ddee71a4c2685625862dae21eb1" group-title="Live TV",Fox Weather
+https://fintv.a20labs.com/LiveTv/Channels/1db33d20ba5153e2c5b012ed77b131dd/stream.m3u8?api_key=8b6b2ddee71a4c2685625862dae21eb1
+#EXTINF:-1 tvg-id="d075d13bfb5ca4995eb80bf5ed97bfa6" tvg-chno="117" tvg-name="AccuWeather NOW" tvg-logo="https://fintv.a20labs.com/Items/d075d13bfb5ca4995eb80bf5ed97bfa6/Images/Primary?api_key=8b6b2ddee71a4c2685625862dae21eb1" group-title="Live TV",AccuWeather NOW
+https://fintv.a20labs.com/LiveTv/Channels/d075d13bfb5ca4995eb80bf5ed97bfa6/stream.m3u8?api_key=8b6b2ddee71a4c2685625862dae21eb1
+#EXTINF:-1 tvg-id="14b364ce8596e9548a5140c5f07f1087" tvg-chno="118" tvg-name="OAN Plus" tvg-logo="https://fintv.a20labs.com/Items/14b364ce8596e9548a5140c5f07f1087/Images/Primary?api_key=8b6b2ddee71a4c2685625862dae21eb1" group-title="Live TV",OAN Plus
+https://fintv.a20labs.com/LiveTv/Channels/14b364ce8596e9548a5140c5f07f1087/stream.m3u8?api_key=8b6b2ddee71a4c2685625862dae21eb1
+#EXTINF:-1 tvg-id="dc99a36d2348bb99fb155cc2c8c2e6d3" tvg-chno="119" tvg-name="CNN Headlines" tvg-logo="https://fintv.a20labs.com/Items/dc99a36d2348bb99fb155cc2c8c2e6d3/Images/Primary?api_key=8b6b2ddee71a4c2685625862dae21eb1" group-title="Live TV",CNN Headlines
+https://fintv.a20labs.com/LiveTv/Channels/dc99a36d2348bb99fb155cc2c8c2e6d3/stream.m3u8?api_key=8b6b2ddee71a4c2685625862dae21eb1
+#EXTINF:-1 tvg-id="3e1106b0cf8e01cb5a8f5068b48a58f3" tvg-chno="120" tvg-name="Hallmark Movies & More" tvg-logo="https://fintv.a20labs.com/Items/3e1106b0cf8e01cb5a8f5068b48a58f3/Images/Primary?api_key=8b6b2ddee71a4c2685625862dae21eb1" group-title="Live TV",Hallmark Movies & More
+https://fintv.a20labs.com/LiveTv/Channels/3e1106b0cf8e01cb5a8f5068b48a58f3/stream.m3u8?api_key=8b6b2ddee71a4c2685625862dae21eb1
+#EXTINF:-1 tvg-id="0d08e8a3bf152244f56106b5f5dca0e9" tvg-chno="121" tvg-name="MovieSphere by Lionsgate" tvg-logo="https://fintv.a20labs.com/Items/0d08e8a3bf152244f56106b5f5dca0e9/Images/Primary?api_key=8b6b2ddee71a4c2685625862dae21eb1" group-title="Live TV",MovieSphere by Lionsgate
+https://fintv.a20labs.com/LiveTv/Channels/0d08e8a3bf152244f56106b5f5dca0e9/stream.m3u8?api_key=8b6b2ddee71a4c2685625862dae21eb1
+#EXTINF:-1 tvg-id="1ae467288678a81d8d813862bbd4af2e" tvg-chno="122" tvg-name="Hi-Yah!" tvg-logo="https://fintv.a20labs.com/Items/1ae467288678a81d8d813862bbd4af2e/Images/Primary?api_key=8b6b2ddee71a4c2685625862dae21eb1" group-title="Live TV",Hi-Yah!
+https://fintv.a20labs.com/LiveTv/Channels/1ae467288678a81d8d813862bbd4af2e/stream.m3u8?api_key=8b6b2ddee71a4c2685625862dae21eb1
+#EXTINF:-1 tvg-id="a94e1cddfc4d353a9fad93ef8d024bb1" tvg-chno="123" tvg-name="Shades of Black" tvg-logo="https://fintv.a20labs.com/Items/a94e1cddfc4d353a9fad93ef8d024bb1/Images/Primary?api_key=8b6b2ddee71a4c2685625862dae21eb1" group-title="Live TV",Shades of Black
+https://fintv.a20labs.com/LiveTv/Channels/a94e1cddfc4d353a9fad93ef8d024bb1/stream.m3u8?api_key=8b6b2ddee71a4c2685625862dae21eb1
+#EXTINF:-1 tvg-id="1c5b10087f0d0f4d5417810dc434019f" tvg-chno="124" tvg-name="Gravitas Movies" tvg-logo="https://fintv.a20labs.com/Items/1c5b10087f0d0f4d5417810dc434019f/Images/Primary?api_key=8b6b2ddee71a4c2685625862dae21eb1" group-title="Live TV",Gravitas Movies
+https://fintv.a20labs.com/LiveTv/Channels/1c5b10087f0d0f4d5417810dc434019f/stream.m3u8?api_key=8b6b2ddee71a4c2685625862dae21eb1
+#EXTINF:-1 tvg-id="04203e8e66caa4307a59c325381eb3f0" tvg-chno="125" tvg-name="DOCUMENTARY+" tvg-logo="https://fintv.a20labs.com/Items/04203e8e66caa4307a59c325381eb3f0/Images/Primary?api_key=8b6b2ddee71a4c2685625862dae21eb1" group-title="Live TV",DOCUMENTARY+
+https://fintv.a20labs.com/LiveTv/Channels/04203e8e66caa4307a59c325381eb3f0/stream.m3u8?api_key=8b6b2ddee71a4c2685625862dae21eb1
+#EXTINF:-1 tvg-id="094708360911dbbd9cb677cfa835c39d" tvg-chno="126" tvg-name="CineLife" tvg-logo="https://fintv.a20labs.com/Items/094708360911dbbd9cb677cfa835c39d/Images/Primary?api_key=8b6b2ddee71a4c2685625862dae21eb1" group-title="Live TV",CineLife
+https://fintv.a20labs.com/LiveTv/Channels/094708360911dbbd9cb677cfa835c39d/stream.m3u8?api_key=8b6b2ddee71a4c2685625862dae21eb1
+#EXTINF:-1 tvg-id="c0f13e607743da0168b2233cac7f74da" tvg-chno="127" tvg-name="Stash TV" tvg-logo="https://fintv.a20labs.com/Items/c0f13e607743da0168b2233cac7f74da/Images/Primary?api_key=8b6b2ddee71a4c2685625862dae21eb1" group-title="Live TV",Stash TV
+https://fintv.a20labs.com/LiveTv/Channels/c0f13e607743da0168b2233cac7f74da/stream.m3u8?api_key=8b6b2ddee71a4c2685625862dae21eb1
+#EXTINF:-1 tvg-id="b25c6358efeb364a69b1ea7db0eb26a0" tvg-chno="128" tvg-name="The Wu Tang Collection TV" tvg-logo="https://fintv.a20labs.com/Items/b25c6358efeb364a69b1ea7db0eb26a0/Images/Primary?api_key=8b6b2ddee71a4c2685625862dae21eb1" group-title="Live TV",The Wu Tang Collection TV
+https://fintv.a20labs.com/LiveTv/Channels/b25c6358efeb364a69b1ea7db0eb26a0/stream.m3u8?api_key=8b6b2ddee71a4c2685625862dae21eb1
+#EXTINF:-1 tvg-id="84e491157055cc2fe9e1e43b0725bdd9" tvg-chno="129" tvg-name="Ebony TV by Lionsgate" tvg-logo="https://fintv.a20labs.com/Items/84e491157055cc2fe9e1e43b0725bdd9/Images/Primary?api_key=8b6b2ddee71a4c2685625862dae21eb1" group-title="Live TV",Ebony TV by Lionsgate
+https://fintv.a20labs.com/LiveTv/Channels/84e491157055cc2fe9e1e43b0725bdd9/stream.m3u8?api_key=8b6b2ddee71a4c2685625862dae21eb1
+#EXTINF:-1 tvg-id="0d1604f66656c9947a745ab8587cfc44" tvg-chno="130" tvg-name="Xumo Free Bollywood & Indian Cinema" tvg-logo="https://fintv.a20labs.com/Items/0d1604f66656c9947a745ab8587cfc44/Images/Primary?api_key=8b6b2ddee71a4c2685625862dae21eb1" group-title="Live TV",Xumo Free Bollywood & Indian Cinema
+https://fintv.a20labs.com/LiveTv/Channels/0d1604f66656c9947a745ab8587cfc44/stream.m3u8?api_key=8b6b2ddee71a4c2685625862dae21eb1
+#EXTINF:-1 tvg-id="ece33bb257cb38d9cb98e007f25b6b87" tvg-chno="131" tvg-name="FilmRise Action" tvg-logo="https://fintv.a20labs.com/Items/ece33bb257cb38d9cb98e007f25b6b87/Images/Primary?api_key=8b6b2ddee71a4c2685625862dae21eb1" group-title="Live TV",FilmRise Action
+https://fintv.a20labs.com/LiveTv/Channels/ece33bb257cb38d9cb98e007f25b6b87/stream.m3u8?api_key=8b6b2ddee71a4c2685625862dae21eb1
+#EXTINF:-1 tvg-id="b253ac93dca9c4b48885a052feb1904a" tvg-chno="132" tvg-name="Maverick Black Cinema" tvg-logo="https://fintv.a20labs.com/Items/b253ac93dca9c4b48885a052feb1904a/Images/Primary?api_key=8b6b2ddee71a4c2685625862dae21eb1" group-title="Live TV",Maverick Black Cinema
+https://fintv.a20labs.com/LiveTv/Channels/b253ac93dca9c4b48885a052feb1904a/stream.m3u8?api_key=8b6b2ddee71a4c2685625862dae21eb1
+#EXTINF:-1 tvg-id="aa58443bba81473e10ccc4e276d1cf77" tvg-chno="133" tvg-name="Universal Movies" tvg-logo="https://fintv.a20labs.com/Items/aa58443bba81473e10ccc4e276d1cf77/Images/Primary?api_key=8b6b2ddee71a4c2685625862dae21eb1" group-title="Live TV",Universal Movies
+https://fintv.a20labs.com/LiveTv/Channels/aa58443bba81473e10ccc4e276d1cf77/stream.m3u8?api_key=8b6b2ddee71a4c2685625862dae21eb1
+#EXTINF:-1 tvg-id="183d6041085896b26f20df2e2dab3be5" tvg-chno="134" tvg-name="HerSphere by Lionsgate" tvg-logo="https://fintv.a20labs.com/Items/183d6041085896b26f20df2e2dab3be5/Images/Primary?api_key=8b6b2ddee71a4c2685625862dae21eb1" group-title="Live TV",HerSphere by Lionsgate
+https://fintv.a20labs.com/LiveTv/Channels/183d6041085896b26f20df2e2dab3be5/stream.m3u8?api_key=8b6b2ddee71a4c2685625862dae21eb1
+#EXTINF:-1 tvg-id="e7f2bf3d43752b3698b38f69fa24ed0b" tvg-chno="135" tvg-name="Shout! Movies" tvg-logo="https://fintv.a20labs.com/Items/e7f2bf3d43752b3698b38f69fa24ed0b/Images/Primary?api_key=8b6b2ddee71a4c2685625862dae21eb1" group-title="Live TV",Shout! Movies
+https://fintv.a20labs.com/LiveTv/Channels/e7f2bf3d43752b3698b38f69fa24ed0b/stream.m3u8?api_key=8b6b2ddee71a4c2685625862dae21eb1
+#EXTINF:-1 tvg-id="9791553e544eab24fe056dda6a3f89d7" tvg-chno="136" tvg-name="Murder; She Wrote" tvg-logo="https://fintv.a20labs.com/Items/9791553e544eab24fe056dda6a3f89d7/Images/Primary?api_key=8b6b2ddee71a4c2685625862dae21eb1" group-title="Live TV",Murder; She Wrote
+https://fintv.a20labs.com/LiveTv/Channels/9791553e544eab24fe056dda6a3f89d7/stream.m3u8?api_key=8b6b2ddee71a4c2685625862dae21eb1
+#EXTINF:-1 tvg-id="725cf18c6bd84370f362a66e1c1230da" tvg-chno="137" tvg-name="Ghost Hunters Channel" tvg-logo="https://fintv.a20labs.com/Items/725cf18c6bd84370f362a66e1c1230da/Images/Primary?api_key=8b6b2ddee71a4c2685625862dae21eb1" group-title="Live TV",Ghost Hunters Channel
+https://fintv.a20labs.com/LiveTv/Channels/725cf18c6bd84370f362a66e1c1230da/stream.m3u8?api_key=8b6b2ddee71a4c2685625862dae21eb1
+#EXTINF:-1 tvg-id="0d0e5c30e1ba23a34b605468be322269" tvg-chno="138" tvg-name="Xumo Free Nature & Wildlife TV" tvg-logo="https://fintv.a20labs.com/Items/0d0e5c30e1ba23a34b605468be322269/Images/Primary?api_key=8b6b2ddee71a4c2685625862dae21eb1" group-title="Live TV",Xumo Free Nature & Wildlife TV
+https://fintv.a20labs.com/LiveTv/Channels/0d0e5c30e1ba23a34b605468be322269/stream.m3u8?api_key=8b6b2ddee71a4c2685625862dae21eb1
+#EXTINF:-1 tvg-id="dddf0a5c4163487c9ee729a0d319d748" tvg-chno="139" tvg-name="Deal Or No Deal" tvg-logo="https://fintv.a20labs.com/Items/dddf0a5c4163487c9ee729a0d319d748/Images/Primary?api_key=8b6b2ddee71a4c2685625862dae21eb1" group-title="Live TV",Deal Or No Deal
+https://fintv.a20labs.com/LiveTv/Channels/dddf0a5c4163487c9ee729a0d319d748/stream.m3u8?api_key=8b6b2ddee71a4c2685625862dae21eb1
+#EXTINF:-1 tvg-id="ccdaab1a2d820c5738face229546a0b9" tvg-chno="140" tvg-name="Anger Management Channel" tvg-logo="https://fintv.a20labs.com/Items/ccdaab1a2d820c5738face229546a0b9/Images/Primary?api_key=8b6b2ddee71a4c2685625862dae21eb1" group-title="Live TV",Anger Management Channel
+https://fintv.a20labs.com/LiveTv/Channels/ccdaab1a2d820c5738face229546a0b9/stream.m3u8?api_key=8b6b2ddee71a4c2685625862dae21eb1
+#EXTINF:-1 tvg-id="47e978109a368d0edcacf938992af45d" tvg-chno="141" tvg-name="The Lone Ranger" tvg-logo="https://fintv.a20labs.com/Items/47e978109a368d0edcacf938992af45d/Images/Primary?api_key=8b6b2ddee71a4c2685625862dae21eb1" group-title="Live TV",The Lone Ranger
+https://fintv.a20labs.com/LiveTv/Channels/47e978109a368d0edcacf938992af45d/stream.m3u8?api_key=8b6b2ddee71a4c2685625862dae21eb1
+#EXTINF:-1 tvg-id="fb7577dc979edf1d6b84c04f6eb9520c" tvg-chno="142" tvg-name="ION" tvg-logo="https://fintv.a20labs.com/Items/fb7577dc979edf1d6b84c04f6eb9520c/Images/Primary?api_key=8b6b2ddee71a4c2685625862dae21eb1" group-title="Live TV",ION
+https://fintv.a20labs.com/LiveTv/Channels/fb7577dc979edf1d6b84c04f6eb9520c/stream.m3u8?api_key=8b6b2ddee71a4c2685625862dae21eb1
+#EXTINF:-1 tvg-id="d8b5e3ad2123784b5e7c8e54aa3092ff" tvg-chno="143" tvg-name="The Walking Dead Universe" tvg-logo="https://fintv.a20labs.com/Items/d8b5e3ad2123784b5e7c8e54aa3092ff/Images/Primary?api_key=8b6b2ddee71a4c2685625862dae21eb1" group-title="Live TV",The Walking Dead Universe
+https://fintv.a20labs.com/LiveTv/Channels/d8b5e3ad2123784b5e7c8e54aa3092ff/stream.m3u8?api_key=8b6b2ddee71a4c2685625862dae21eb1
+#EXTINF:-1 tvg-id="326d2bc2b849f051576e6430e2eafcc5" tvg-chno="144" tvg-name="Classic Doctor Who" tvg-logo="https://fintv.a20labs.com/Items/326d2bc2b849f051576e6430e2eafcc5/Images/Primary?api_key=8b6b2ddee71a4c2685625862dae21eb1" group-title="Live TV",Classic Doctor Who
+https://fintv.a20labs.com/LiveTv/Channels/326d2bc2b849f051576e6430e2eafcc5/stream.m3u8?api_key=8b6b2ddee71a4c2685625862dae21eb1
+#EXTINF:-1 tvg-id="1cd550a40ead048a6620a98db663c1e5" tvg-chno="145" tvg-name="OuterSphere by Lionsgate" tvg-logo="https://fintv.a20labs.com/Items/1cd550a40ead048a6620a98db663c1e5/Images/Primary?api_key=8b6b2ddee71a4c2685625862dae21eb1" group-title="Live TV",OuterSphere by Lionsgate
+https://fintv.a20labs.com/LiveTv/Channels/1cd550a40ead048a6620a98db663c1e5/stream.m3u8?api_key=8b6b2ddee71a4c2685625862dae21eb1
+#EXTINF:-1 tvg-id="ed10990b08ecb5defa7f4466aede7e70" tvg-chno="146" tvg-name="Alfred Hitchcock Presents" tvg-logo="https://fintv.a20labs.com/Items/ed10990b08ecb5defa7f4466aede7e70/Images/Primary?api_key=8b6b2ddee71a4c2685625862dae21eb1" group-title="Live TV",Alfred Hitchcock Presents
+https://fintv.a20labs.com/LiveTv/Channels/ed10990b08ecb5defa7f4466aede7e70/stream.m3u8?api_key=8b6b2ddee71a4c2685625862dae21eb1
+#EXTINF:-1 tvg-id="5347e4d31151b2e4a1d2e8a1b67fb2e7" tvg-chno="147" tvg-name="Alien Nation by DUST" tvg-logo="https://fintv.a20labs.com/Items/5347e4d31151b2e4a1d2e8a1b67fb2e7/Images/Primary?api_key=8b6b2ddee71a4c2685625862dae21eb1" group-title="Live TV",Alien Nation by DUST
+https://fintv.a20labs.com/LiveTv/Channels/5347e4d31151b2e4a1d2e8a1b67fb2e7/stream.m3u8?api_key=8b6b2ddee71a4c2685625862dae21eb1
+#EXTINF:-1 tvg-id="6648d4b74737bca1a3a141ffddf50ec5" tvg-chno="148" tvg-name="The Asylum" tvg-logo="https://fintv.a20labs.com/Items/6648d4b74737bca1a3a141ffddf50ec5/Images/Primary?api_key=8b6b2ddee71a4c2685625862dae21eb1" group-title="Live TV",The Asylum
+https://fintv.a20labs.com/LiveTv/Channels/6648d4b74737bca1a3a141ffddf50ec5/stream.m3u8?api_key=8b6b2ddee71a4c2685625862dae21eb1
+#EXTINF:-1 tvg-id="956d0bc42671563ebfc0790bee0a87e4" tvg-chno="149" tvg-name="Dark Matter TV" tvg-logo="https://fintv.a20labs.com/Items/956d0bc42671563ebfc0790bee0a87e4/Images/Primary?api_key=8b6b2ddee71a4c2685625862dae21eb1" group-title="Live TV",Dark Matter TV
+https://fintv.a20labs.com/LiveTv/Channels/956d0bc42671563ebfc0790bee0a87e4/stream.m3u8?api_key=8b6b2ddee71a4c2685625862dae21eb1
+#EXTINF:-1 tvg-id="5b8d59032ff57c503b33f7dce5ea6353" tvg-chno="150" tvg-name="Paranormal Files" tvg-logo="https://fintv.a20labs.com/Items/5b8d59032ff57c503b33f7dce5ea6353/Images/Primary?api_key=8b6b2ddee71a4c2685625862dae21eb1" group-title="Live TV",Paranormal Files
+https://fintv.a20labs.com/LiveTv/Channels/5b8d59032ff57c503b33f7dce5ea6353/stream.m3u8?api_key=8b6b2ddee71a4c2685625862dae21eb1
+#EXTINF:-1 tvg-id="cd919e7825efe1e2212c8b9bf9fb5672" tvg-chno="151" tvg-name="Universal Monsters" tvg-logo="https://fintv.a20labs.com/Items/cd919e7825efe1e2212c8b9bf9fb5672/Images/Primary?api_key=8b6b2ddee71a4c2685625862dae21eb1" group-title="Live TV",Universal Monsters
+https://fintv.a20labs.com/LiveTv/Channels/cd919e7825efe1e2212c8b9bf9fb5672/stream.m3u8?api_key=8b6b2ddee71a4c2685625862dae21eb1
+#EXTINF:-1 tvg-id="1bdef911d4f9cf193e41ac565b58f54c" tvg-chno="152" tvg-name="Scares by Shudder" tvg-logo="https://fintv.a20labs.com/Items/1bdef911d4f9cf193e41ac565b58f54c/Images/Primary?api_key=8b6b2ddee71a4c2685625862dae21eb1" group-title="Live TV",Scares by Shudder
+https://fintv.a20labs.com/LiveTv/Channels/1bdef911d4f9cf193e41ac565b58f54c/stream.m3u8?api_key=8b6b2ddee71a4c2685625862dae21eb1
+#EXTINF:-1 tvg-id="c7c38fddb379c16fc3ddd6f2cc506237" tvg-chno="153" tvg-name="Haunt TV" tvg-logo="https://fintv.a20labs.com/Items/c7c38fddb379c16fc3ddd6f2cc506237/Images/Primary?api_key=8b6b2ddee71a4c2685625862dae21eb1" group-title="Live TV",Haunt TV
+https://fintv.a20labs.com/LiveTv/Channels/c7c38fddb379c16fc3ddd6f2cc506237/stream.m3u8?api_key=8b6b2ddee71a4c2685625862dae21eb1
+#EXTINF:-1 tvg-id="f44b0de8a9c2d53ed1176bc93f8d3c3a" tvg-chno="154" tvg-name="AMC Thrillers" tvg-logo="https://fintv.a20labs.com/Items/f44b0de8a9c2d53ed1176bc93f8d3c3a/Images/Primary?api_key=8b6b2ddee71a4c2685625862dae21eb1" group-title="Live TV",AMC Thrillers
+https://fintv.a20labs.com/LiveTv/Channels/f44b0de8a9c2d53ed1176bc93f8d3c3a/stream.m3u8?api_key=8b6b2ddee71a4c2685625862dae21eb1
+#EXTINF:-1 tvg-id="30a02ba87dfe0daa2cb602a304987684" tvg-chno="155" tvg-name="Ghosts Are Real" tvg-logo="https://fintv.a20labs.com/Items/30a02ba87dfe0daa2cb602a304987684/Images/Primary?api_key=8b6b2ddee71a4c2685625862dae21eb1" group-title="Live TV",Ghosts Are Real
+https://fintv.a20labs.com/LiveTv/Channels/30a02ba87dfe0daa2cb602a304987684/stream.m3u8?api_key=8b6b2ddee71a4c2685625862dae21eb1
+#EXTINF:-1 tvg-id="541831c11cf60f0f975392ae28ca759a" tvg-chno="156" tvg-name="Mysterious Worlds" tvg-logo="https://fintv.a20labs.com/Items/541831c11cf60f0f975392ae28ca759a/Images/Primary?api_key=8b6b2ddee71a4c2685625862dae21eb1" group-title="Live TV",Mysterious Worlds
+https://fintv.a20labs.com/LiveTv/Channels/541831c11cf60f0f975392ae28ca759a/stream.m3u8?api_key=8b6b2ddee71a4c2685625862dae21eb1
+#EXTINF:-1 tvg-id="5365fa5991122f3e7759a14f222e4a4a" tvg-chno="157" tvg-name="Dungeons & Dragons Adventures" tvg-logo="https://fintv.a20labs.com/Items/5365fa5991122f3e7759a14f222e4a4a/Images/Primary?api_key=8b6b2ddee71a4c2685625862dae21eb1" group-title="Live TV",Dungeons & Dragons Adventures
+https://fintv.a20labs.com/LiveTv/Channels/5365fa5991122f3e7759a14f222e4a4a/stream.m3u8?api_key=8b6b2ddee71a4c2685625862dae21eb1
+#EXTINF:-1 tvg-id="7b4ecdf9d4a8b2b4770d1520853eb932" tvg-chno="158" tvg-name="Ancient Aliens" tvg-logo="https://fintv.a20labs.com/Items/7b4ecdf9d4a8b2b4770d1520853eb932/Images/Primary?api_key=8b6b2ddee71a4c2685625862dae21eb1" group-title="Live TV",Ancient Aliens
+https://fintv.a20labs.com/LiveTv/Channels/7b4ecdf9d4a8b2b4770d1520853eb932/stream.m3u8?api_key=8b6b2ddee71a4c2685625862dae21eb1
+#EXTINF:-1 tvg-id="2d0bf2f6e7dc317b926ec5e7dffdba2a" tvg-chno="159" tvg-name="NBC Sports NOW" tvg-logo="https://fintv.a20labs.com/Items/2d0bf2f6e7dc317b926ec5e7dffdba2a/Images/Primary?api_key=8b6b2ddee71a4c2685625862dae21eb1" group-title="Live TV",NBC Sports NOW
+https://fintv.a20labs.com/LiveTv/Channels/2d0bf2f6e7dc317b926ec5e7dffdba2a/stream.m3u8?api_key=8b6b2ddee71a4c2685625862dae21eb1
+#EXTINF:-1 tvg-id="37300164d7f6568d28bfc1b719a1a4dc" tvg-chno="160" tvg-name="FOX Sports" tvg-logo="https://fintv.a20labs.com/Items/37300164d7f6568d28bfc1b719a1a4dc/Images/Primary?api_key=8b6b2ddee71a4c2685625862dae21eb1" group-title="Live TV",FOX Sports
+https://fintv.a20labs.com/LiveTv/Channels/37300164d7f6568d28bfc1b719a1a4dc/stream.m3u8?api_key=8b6b2ddee71a4c2685625862dae21eb1
+#EXTINF:-1 tvg-id="50cc480676ad353afaf8f84be3bf3697" tvg-chno="161" tvg-name="CBS Sports HQ" tvg-logo="https://fintv.a20labs.com/Items/50cc480676ad353afaf8f84be3bf3697/Images/Primary?api_key=8b6b2ddee71a4c2685625862dae21eb1" group-title="Live TV",CBS Sports HQ
+https://fintv.a20labs.com/LiveTv/Channels/50cc480676ad353afaf8f84be3bf3697/stream.m3u8?api_key=8b6b2ddee71a4c2685625862dae21eb1
+#EXTINF:-1 tvg-id="382e714d82b5dda81bfdd5e5abaaebca" tvg-chno="162" tvg-name="NFL Channel" tvg-logo="https://fintv.a20labs.com/Items/382e714d82b5dda81bfdd5e5abaaebca/Images/Primary?api_key=8b6b2ddee71a4c2685625862dae21eb1" group-title="Live TV",NFL Channel
+https://fintv.a20labs.com/LiveTv/Channels/382e714d82b5dda81bfdd5e5abaaebca/stream.m3u8?api_key=8b6b2ddee71a4c2685625862dae21eb1
+#EXTINF:-1 tvg-id="5e3c8a18422ec4b0473bad2247a485ea" tvg-chno="163" tvg-name="Team USA TV" tvg-logo="https://fintv.a20labs.com/Items/5e3c8a18422ec4b0473bad2247a485ea/Images/Primary?api_key=8b6b2ddee71a4c2685625862dae21eb1" group-title="Live TV",Team USA TV
+https://fintv.a20labs.com/LiveTv/Channels/5e3c8a18422ec4b0473bad2247a485ea/stream.m3u8?api_key=8b6b2ddee71a4c2685625862dae21eb1
+#EXTINF:-1 tvg-id="a909b1f9c713397ffefa326eb595b453" tvg-chno="164" tvg-name="PGA TOUR" tvg-logo="https://fintv.a20labs.com/Items/a909b1f9c713397ffefa326eb595b453/Images/Primary?api_key=8b6b2ddee71a4c2685625862dae21eb1" group-title="Live TV",PGA TOUR
+https://fintv.a20labs.com/LiveTv/Channels/a909b1f9c713397ffefa326eb595b453/stream.m3u8?api_key=8b6b2ddee71a4c2685625862dae21eb1
+#EXTINF:-1 tvg-id="351f363ca763ed2e71c2b61f84f2d573" tvg-chno="165" tvg-name="Bowling TV" tvg-logo="https://fintv.a20labs.com/Items/351f363ca763ed2e71c2b61f84f2d573/Images/Primary?api_key=8b6b2ddee71a4c2685625862dae21eb1" group-title="Live TV",Bowling TV
+https://fintv.a20labs.com/LiveTv/Channels/351f363ca763ed2e71c2b61f84f2d573/stream.m3u8?api_key=8b6b2ddee71a4c2685625862dae21eb1
+#EXTINF:-1 tvg-id="d00641409cd9f2d277a682e1ef04b7bf" tvg-chno="166" tvg-name="ACC Digital Network" tvg-logo="https://fintv.a20labs.com/Items/d00641409cd9f2d277a682e1ef04b7bf/Images/Primary?api_key=8b6b2ddee71a4c2685625862dae21eb1" group-title="Live TV",ACC Digital Network
+https://fintv.a20labs.com/LiveTv/Channels/d00641409cd9f2d277a682e1ef04b7bf/stream.m3u8?api_key=8b6b2ddee71a4c2685625862dae21eb1
+#EXTINF:-1 tvg-id="9ba458c118d284d99fcd8503bccabec5" tvg-chno="167" tvg-name="World Poker Tour" tvg-logo="https://fintv.a20labs.com/Items/9ba458c118d284d99fcd8503bccabec5/Images/Primary?api_key=8b6b2ddee71a4c2685625862dae21eb1" group-title="Live TV",World Poker Tour
+https://fintv.a20labs.com/LiveTv/Channels/9ba458c118d284d99fcd8503bccabec5/stream.m3u8?api_key=8b6b2ddee71a4c2685625862dae21eb1
+#EXTINF:-1 tvg-id="eb5b4a0b6e6e0375c8d652f6c52a38ff" tvg-chno="168" tvg-name="WaypointTV" tvg-logo="https://fintv.a20labs.com/Items/eb5b4a0b6e6e0375c8d652f6c52a38ff/Images/Primary?api_key=8b6b2ddee71a4c2685625862dae21eb1" group-title="Live TV",WaypointTV
+https://fintv.a20labs.com/LiveTv/Channels/eb5b4a0b6e6e0375c8d652f6c52a38ff/stream.m3u8?api_key=8b6b2ddee71a4c2685625862dae21eb1
+#EXTINF:-1 tvg-id="00afae60a7e93629813c24dccac7047b" tvg-chno="169" tvg-name="Outdoor America" tvg-logo="https://fintv.a20labs.com/Items/00afae60a7e93629813c24dccac7047b/Images/Primary?api_key=8b6b2ddee71a4c2685625862dae21eb1" group-title="Live TV",Outdoor America
+https://fintv.a20labs.com/LiveTv/Channels/00afae60a7e93629813c24dccac7047b/stream.m3u8?api_key=8b6b2ddee71a4c2685625862dae21eb1
+#EXTINF:-1 tvg-id="7d39a4581e6a84ac654f08d35043f675" tvg-chno="170" tvg-name="beIN SPORTS XTRA" tvg-logo="https://fintv.a20labs.com/Items/7d39a4581e6a84ac654f08d35043f675/Images/Primary?api_key=8b6b2ddee71a4c2685625862dae21eb1" group-title="Live TV",beIN SPORTS XTRA
+https://fintv.a20labs.com/LiveTv/Channels/7d39a4581e6a84ac654f08d35043f675/stream.m3u8?api_key=8b6b2ddee71a4c2685625862dae21eb1
+#EXTINF:-1 tvg-id="6d9c19c2f95edc7f25dec2f74995199e" tvg-chno="171" tvg-name="PokerGO" tvg-logo="https://fintv.a20labs.com/Items/6d9c19c2f95edc7f25dec2f74995199e/Images/Primary?api_key=8b6b2ddee71a4c2685625862dae21eb1" group-title="Live TV",PokerGO
+https://fintv.a20labs.com/LiveTv/Channels/6d9c19c2f95edc7f25dec2f74995199e/stream.m3u8?api_key=8b6b2ddee71a4c2685625862dae21eb1
+#EXTINF:-1 tvg-id="641cb36f6474665835c7606d89a4d2dc" tvg-chno="172" tvg-name="Billiard TV" tvg-logo="https://fintv.a20labs.com/Items/641cb36f6474665835c7606d89a4d2dc/Images/Primary?api_key=8b6b2ddee71a4c2685625862dae21eb1" group-title="Live TV",Billiard TV
+https://fintv.a20labs.com/LiveTv/Channels/641cb36f6474665835c7606d89a4d2dc/stream.m3u8?api_key=8b6b2ddee71a4c2685625862dae21eb1
+#EXTINF:-1 tvg-id="b381f20f3b4976230ba99e86866161b3" tvg-chno="173" tvg-name="DraftKings Network" tvg-logo="https://fintv.a20labs.com/Items/b381f20f3b4976230ba99e86866161b3/Images/Primary?api_key=8b6b2ddee71a4c2685625862dae21eb1" group-title="Live TV",DraftKings Network
+https://fintv.a20labs.com/LiveTv/Channels/b381f20f3b4976230ba99e86866161b3/stream.m3u8?api_key=8b6b2ddee71a4c2685625862dae21eb1
+#EXTINF:-1 tvg-id="157625900b1bc86416a131359f331fae" tvg-chno="174" tvg-name="FanDuel TV Extra" tvg-logo="https://fintv.a20labs.com/Items/157625900b1bc86416a131359f331fae/Images/Primary?api_key=8b6b2ddee71a4c2685625862dae21eb1" group-title="Live TV",FanDuel TV Extra
+https://fintv.a20labs.com/LiveTv/Channels/157625900b1bc86416a131359f331fae/stream.m3u8?api_key=8b6b2ddee71a4c2685625862dae21eb1
+#EXTINF:-1 tvg-id="a039bb5d44a4cb0150b4ed95af2569ee" tvg-chno="175" tvg-name="PursuitUp" tvg-logo="https://fintv.a20labs.com/Items/a039bb5d44a4cb0150b4ed95af2569ee/Images/Primary?api_key=8b6b2ddee71a4c2685625862dae21eb1" group-title="Live TV",PursuitUp
+https://fintv.a20labs.com/LiveTv/Channels/a039bb5d44a4cb0150b4ed95af2569ee/stream.m3u8?api_key=8b6b2ddee71a4c2685625862dae21eb1
+#EXTINF:-1 tvg-id="f8d6eede42bec7a6c141db03364ef9ee" tvg-chno="176" tvg-name="GOLFPASS" tvg-logo="https://fintv.a20labs.com/Items/f8d6eede42bec7a6c141db03364ef9ee/Images/Primary?api_key=8b6b2ddee71a4c2685625862dae21eb1" group-title="Live TV",GOLFPASS
+https://fintv.a20labs.com/LiveTv/Channels/f8d6eede42bec7a6c141db03364ef9ee/stream.m3u8?api_key=8b6b2ddee71a4c2685625862dae21eb1
+#EXTINF:-1 tvg-id="95617931021401fe18b1cffd3cbff2df" tvg-chno="177" tvg-name="Strongman Champions League" tvg-logo="https://fintv.a20labs.com/Items/95617931021401fe18b1cffd3cbff2df/Images/Primary?api_key=8b6b2ddee71a4c2685625862dae21eb1" group-title="Live TV",Strongman Champions League
+https://fintv.a20labs.com/LiveTv/Channels/95617931021401fe18b1cffd3cbff2df/stream.m3u8?api_key=8b6b2ddee71a4c2685625862dae21eb1
+#EXTINF:-1 tvg-id="605c83c1d45e5347cf2ff0487fc6c1eb" tvg-chno="178" tvg-name="Big 12 Studios" tvg-logo="https://fintv.a20labs.com/Items/605c83c1d45e5347cf2ff0487fc6c1eb/Images/Primary?api_key=8b6b2ddee71a4c2685625862dae21eb1" group-title="Live TV",Big 12 Studios
+https://fintv.a20labs.com/LiveTv/Channels/605c83c1d45e5347cf2ff0487fc6c1eb/stream.m3u8?api_key=8b6b2ddee71a4c2685625862dae21eb1
+#EXTINF:-1 tvg-id="f346f4568621014e91bf1de4afbbcb9e" tvg-chno="179" tvg-name="Unbeaten Sports Channel" tvg-logo="https://fintv.a20labs.com/Items/f346f4568621014e91bf1de4afbbcb9e/Images/Primary?api_key=8b6b2ddee71a4c2685625862dae21eb1" group-title="Live TV",Unbeaten Sports Channel
+https://fintv.a20labs.com/LiveTv/Channels/f346f4568621014e91bf1de4afbbcb9e/stream.m3u8?api_key=8b6b2ddee71a4c2685625862dae21eb1
+#EXTINF:-1 tvg-id="055c1855157611c66650095148a18285" tvg-chno="180" tvg-name="Ryz Sports Network" tvg-logo="https://fintv.a20labs.com/Items/055c1855157611c66650095148a18285/Images/Primary?api_key=8b6b2ddee71a4c2685625862dae21eb1" group-title="Live TV",Ryz Sports Network
+https://fintv.a20labs.com/LiveTv/Channels/055c1855157611c66650095148a18285/stream.m3u8?api_key=8b6b2ddee71a4c2685625862dae21eb1
+#EXTINF:-1 tvg-id="f6c734a9befdf81c900d4b8d0d994a5b" tvg-chno="181" tvg-name="Real Madrid TV" tvg-logo="https://fintv.a20labs.com/Items/f6c734a9befdf81c900d4b8d0d994a5b/Images/Primary?api_key=8b6b2ddee71a4c2685625862dae21eb1" group-title="Live TV",Real Madrid TV
+https://fintv.a20labs.com/LiveTv/Channels/f6c734a9befdf81c900d4b8d0d994a5b/stream.m3u8?api_key=8b6b2ddee71a4c2685625862dae21eb1
+#EXTINF:-1 tvg-id="3e3817693fb9c877cf4adfefec7a0e86" tvg-chno="182" tvg-name="TennisChannel 2" tvg-logo="https://fintv.a20labs.com/Items/3e3817693fb9c877cf4adfefec7a0e86/Images/Primary?api_key=8b6b2ddee71a4c2685625862dae21eb1" group-title="Live TV",TennisChannel 2
+https://fintv.a20labs.com/LiveTv/Channels/3e3817693fb9c877cf4adfefec7a0e86/stream.m3u8?api_key=8b6b2ddee71a4c2685625862dae21eb1
+#EXTINF:-1 tvg-id="78143d8cb2955a46fce418be34227a46" tvg-chno="183" tvg-name="PickleballTV" tvg-logo="https://fintv.a20labs.com/Items/78143d8cb2955a46fce418be34227a46/Images/Primary?api_key=8b6b2ddee71a4c2685625862dae21eb1" group-title="Live TV",PickleballTV
+https://fintv.a20labs.com/LiveTv/Channels/78143d8cb2955a46fce418be34227a46/stream.m3u8?api_key=8b6b2ddee71a4c2685625862dae21eb1
+#EXTINF:-1 tvg-id="8a35e57f04881f6a9c4d81ee5630de87" tvg-chno="184" tvg-name="The NBA Channel" tvg-logo="https://fintv.a20labs.com/Items/8a35e57f04881f6a9c4d81ee5630de87/Images/Primary?api_key=8b6b2ddee71a4c2685625862dae21eb1" group-title="Live TV",The NBA Channel
+https://fintv.a20labs.com/LiveTv/Channels/8a35e57f04881f6a9c4d81ee5630de87/stream.m3u8?api_key=8b6b2ddee71a4c2685625862dae21eb1
+#EXTINF:-1 tvg-id="a4a48c8032b1309213cbb9c3a724a00e" tvg-chno="185" tvg-name="Willow Sports" tvg-logo="https://fintv.a20labs.com/Items/a4a48c8032b1309213cbb9c3a724a00e/Images/Primary?api_key=8b6b2ddee71a4c2685625862dae21eb1" group-title="Live TV",Willow Sports
+https://fintv.a20labs.com/LiveTv/Channels/a4a48c8032b1309213cbb9c3a724a00e/stream.m3u8?api_key=8b6b2ddee71a4c2685625862dae21eb1
+#EXTINF:-1 tvg-id="c3e4f253fe07a99da05dd0f83faee67d" tvg-chno="186" tvg-name="PBR RidePass" tvg-logo="https://fintv.a20labs.com/Items/c3e4f253fe07a99da05dd0f83faee67d/Images/Primary?api_key=8b6b2ddee71a4c2685625862dae21eb1" group-title="Live TV",PBR RidePass
+https://fintv.a20labs.com/LiveTv/Channels/c3e4f253fe07a99da05dd0f83faee67d/stream.m3u8?api_key=8b6b2ddee71a4c2685625862dae21eb1
+#EXTINF:-1 tvg-id="bcb30e3383045698aa7454d8662b91b9" tvg-chno="187" tvg-name="UFC" tvg-logo="https://fintv.a20labs.com/Items/bcb30e3383045698aa7454d8662b91b9/Images/Primary?api_key=8b6b2ddee71a4c2685625862dae21eb1" group-title="Live TV",UFC
+https://fintv.a20labs.com/LiveTv/Channels/bcb30e3383045698aa7454d8662b91b9/stream.m3u8?api_key=8b6b2ddee71a4c2685625862dae21eb1
+#EXTINF:-1 tvg-id="611ab341f3533361e6df464f6b407d7b" tvg-chno="188" tvg-name="PFL MMA" tvg-logo="https://fintv.a20labs.com/Items/611ab341f3533361e6df464f6b407d7b/Images/Primary?api_key=8b6b2ddee71a4c2685625862dae21eb1" group-title="Live TV",PFL MMA
+https://fintv.a20labs.com/LiveTv/Channels/611ab341f3533361e6df464f6b407d7b/stream.m3u8?api_key=8b6b2ddee71a4c2685625862dae21eb1
+#EXTINF:-1 tvg-id="9683642b4a893f7038fab226c25c6847" tvg-chno="189" tvg-name="GLORY Kickboxing" tvg-logo="https://fintv.a20labs.com/Items/9683642b4a893f7038fab226c25c6847/Images/Primary?api_key=8b6b2ddee71a4c2685625862dae21eb1" group-title="Live TV",GLORY Kickboxing
+https://fintv.a20labs.com/LiveTv/Channels/9683642b4a893f7038fab226c25c6847/stream.m3u8?api_key=8b6b2ddee71a4c2685625862dae21eb1
+#EXTINF:-1 tvg-id="6a8d916427324ac976e815ed3b867393" tvg-chno="190" tvg-name="TNA Wrestling Channel" tvg-logo="https://fintv.a20labs.com/Items/6a8d916427324ac976e815ed3b867393/Images/Primary?api_key=8b6b2ddee71a4c2685625862dae21eb1" group-title="Live TV",TNA Wrestling Channel
+https://fintv.a20labs.com/LiveTv/Channels/6a8d916427324ac976e815ed3b867393/stream.m3u8?api_key=8b6b2ddee71a4c2685625862dae21eb1
+#EXTINF:-1 tvg-id="12ae5022711f9a1db09cf20bd1fbf9f8" tvg-chno="191" tvg-name="Swerve Combat" tvg-logo="https://fintv.a20labs.com/Items/12ae5022711f9a1db09cf20bd1fbf9f8/Images/Primary?api_key=8b6b2ddee71a4c2685625862dae21eb1" group-title="Live TV",Swerve Combat
+https://fintv.a20labs.com/LiveTv/Channels/12ae5022711f9a1db09cf20bd1fbf9f8/stream.m3u8?api_key=8b6b2ddee71a4c2685625862dae21eb1
+#EXTINF:-1 tvg-id="ba2e43cd67bf0e1ccb3eba8b52550077" tvg-chno="192" tvg-name="HBO Boxing" tvg-logo="https://fintv.a20labs.com/Items/ba2e43cd67bf0e1ccb3eba8b52550077/Images/Primary?api_key=8b6b2ddee71a4c2685625862dae21eb1" group-title="Live TV",HBO Boxing
+https://fintv.a20labs.com/LiveTv/Channels/ba2e43cd67bf0e1ccb3eba8b52550077/stream.m3u8?api_key=8b6b2ddee71a4c2685625862dae21eb1
+#EXTINF:-1 tvg-id="14abc83e890ffaccb7add488d7203e2e" tvg-chno="193" tvg-name="Discovery Turbo TV" tvg-logo="https://fintv.a20labs.com/Items/14abc83e890ffaccb7add488d7203e2e/Images/Primary?api_key=8b6b2ddee71a4c2685625862dae21eb1" group-title="Live TV",Discovery Turbo TV
+https://fintv.a20labs.com/LiveTv/Channels/14abc83e890ffaccb7add488d7203e2e/stream.m3u8?api_key=8b6b2ddee71a4c2685625862dae21eb1
+#EXTINF:-1 tvg-id="93b02485385b9fab2738828071c2dc39" tvg-chno="194" tvg-name="PowerNation" tvg-logo="https://fintv.a20labs.com/Items/93b02485385b9fab2738828071c2dc39/Images/Primary?api_key=8b6b2ddee71a4c2685625862dae21eb1" group-title="Live TV",PowerNation
+https://fintv.a20labs.com/LiveTv/Channels/93b02485385b9fab2738828071c2dc39/stream.m3u8?api_key=8b6b2ddee71a4c2685625862dae21eb1
+#EXTINF:-1 tvg-id="1532a7b56bf56ffa22c2844fa62fa8ca" tvg-chno="195" tvg-name="Motorvision" tvg-logo="https://fintv.a20labs.com/Items/1532a7b56bf56ffa22c2844fa62fa8ca/Images/Primary?api_key=8b6b2ddee71a4c2685625862dae21eb1" group-title="Live TV",Motorvision
+https://fintv.a20labs.com/LiveTv/Channels/1532a7b56bf56ffa22c2844fa62fa8ca/stream.m3u8?api_key=8b6b2ddee71a4c2685625862dae21eb1
+#EXTINF:-1 tvg-id="52c15a343d807f5ac82937931355d9ae" tvg-chno="196" tvg-name="Fifth Gear" tvg-logo="https://fintv.a20labs.com/Items/52c15a343d807f5ac82937931355d9ae/Images/Primary?api_key=8b6b2ddee71a4c2685625862dae21eb1" group-title="Live TV",Fifth Gear
+https://fintv.a20labs.com/LiveTv/Channels/52c15a343d807f5ac82937931355d9ae/stream.m3u8?api_key=8b6b2ddee71a4c2685625862dae21eb1
+#EXTINF:-1 tvg-id="a9c7946633f1abf88f5b49b82588becb" tvg-chno="197" tvg-name="Top Gear" tvg-logo="https://fintv.a20labs.com/Items/a9c7946633f1abf88f5b49b82588becb/Images/Primary?api_key=8b6b2ddee71a4c2685625862dae21eb1" group-title="Live TV",Top Gear
+https://fintv.a20labs.com/LiveTv/Channels/a9c7946633f1abf88f5b49b82588becb/stream.m3u8?api_key=8b6b2ddee71a4c2685625862dae21eb1
+#EXTINF:-1 tvg-id="298eb5f1bd30d07b71bae33376953b29" tvg-chno="198" tvg-name="SPEEDVISION" tvg-logo="https://fintv.a20labs.com/Items/298eb5f1bd30d07b71bae33376953b29/Images/Primary?api_key=8b6b2ddee71a4c2685625862dae21eb1" group-title="Live TV",SPEEDVISION
+https://fintv.a20labs.com/LiveTv/Channels/298eb5f1bd30d07b71bae33376953b29/stream.m3u8?api_key=8b6b2ddee71a4c2685625862dae21eb1
+#EXTINF:-1 tvg-id="ce111b4d2f614ca9274f6e472c88dcda" tvg-chno="199" tvg-name="RACER Select" tvg-logo="https://fintv.a20labs.com/Items/ce111b4d2f614ca9274f6e472c88dcda/Images/Primary?api_key=8b6b2ddee71a4c2685625862dae21eb1" group-title="Live TV",RACER Select
+https://fintv.a20labs.com/LiveTv/Channels/ce111b4d2f614ca9274f6e472c88dcda/stream.m3u8?api_key=8b6b2ddee71a4c2685625862dae21eb1
+#EXTINF:-1 tvg-id="f26d2217df6fe3e1afa0b3ac3b9e7abb" tvg-chno="200" tvg-name="NASCAR Channel" tvg-logo="https://fintv.a20labs.com/Items/f26d2217df6fe3e1afa0b3ac3b9e7abb/Images/Primary?api_key=8b6b2ddee71a4c2685625862dae21eb1" group-title="Live TV",NASCAR Channel
+https://fintv.a20labs.com/LiveTv/Channels/f26d2217df6fe3e1afa0b3ac3b9e7abb/stream.m3u8?api_key=8b6b2ddee71a4c2685625862dae21eb1
+#EXTINF:-1 tvg-id="f361bd9c24b5b7747b24e9f8d6c2df73" tvg-chno="201" tvg-name="Classic Car Auctions by History" tvg-logo="https://fintv.a20labs.com/Items/f361bd9c24b5b7747b24e9f8d6c2df73/Images/Primary?api_key=8b6b2ddee71a4c2685625862dae21eb1" group-title="Live TV",Classic Car Auctions by History
+https://fintv.a20labs.com/LiveTv/Channels/f361bd9c24b5b7747b24e9f8d6c2df73/stream.m3u8?api_key=8b6b2ddee71a4c2685625862dae21eb1
+#EXTINF:-1 tvg-id="a724603d0bbbc4076268aa7f51c1003c" tvg-chno="202" tvg-name="Xumo Free Crime TV" tvg-logo="https://fintv.a20labs.com/Items/a724603d0bbbc4076268aa7f51c1003c/Images/Primary?api_key=8b6b2ddee71a4c2685625862dae21eb1" group-title="Live TV",Xumo Free Crime TV
+https://fintv.a20labs.com/LiveTv/Channels/a724603d0bbbc4076268aa7f51c1003c/stream.m3u8?api_key=8b6b2ddee71a4c2685625862dae21eb1
+#EXTINF:-1 tvg-id="298c7624d6e9d48363c4c7d47820a613" tvg-chno="203" tvg-name="Dateline 24/7" tvg-logo="https://fintv.a20labs.com/Items/298c7624d6e9d48363c4c7d47820a613/Images/Primary?api_key=8b6b2ddee71a4c2685625862dae21eb1" group-title="Live TV",Dateline 24/7
+https://fintv.a20labs.com/LiveTv/Channels/298c7624d6e9d48363c4c7d47820a613/stream.m3u8?api_key=8b6b2ddee71a4c2685625862dae21eb1
+#EXTINF:-1 tvg-id="c1e39af5b99331d31ec78f17f32f8af7" tvg-chno="204" tvg-name="Unsolved Mysteries" tvg-logo="https://fintv.a20labs.com/Items/c1e39af5b99331d31ec78f17f32f8af7/Images/Primary?api_key=8b6b2ddee71a4c2685625862dae21eb1" group-title="Live TV",Unsolved Mysteries
+https://fintv.a20labs.com/LiveTv/Channels/c1e39af5b99331d31ec78f17f32f8af7/stream.m3u8?api_key=8b6b2ddee71a4c2685625862dae21eb1
+#EXTINF:-1 tvg-id="d0be3106f9296cc8b4733690716f712b" tvg-chno="205" tvg-name="Oxygen True Crime Archives" tvg-logo="https://fintv.a20labs.com/Items/d0be3106f9296cc8b4733690716f712b/Images/Primary?api_key=8b6b2ddee71a4c2685625862dae21eb1" group-title="Live TV",Oxygen True Crime Archives
+https://fintv.a20labs.com/LiveTv/Channels/d0be3106f9296cc8b4733690716f712b/stream.m3u8?api_key=8b6b2ddee71a4c2685625862dae21eb1
+#EXTINF:-1 tvg-id="1ac971830d90edf6e77c5ec520fec487" tvg-chno="206" tvg-name="Universal Crime" tvg-logo="https://fintv.a20labs.com/Items/1ac971830d90edf6e77c5ec520fec487/Images/Primary?api_key=8b6b2ddee71a4c2685625862dae21eb1" group-title="Live TV",Universal Crime
+https://fintv.a20labs.com/LiveTv/Channels/1ac971830d90edf6e77c5ec520fec487/stream.m3u8?api_key=8b6b2ddee71a4c2685625862dae21eb1
+#EXTINF:-1 tvg-id="035d3c073438f34e7f80a23cfb1b4357" tvg-chno="207" tvg-name="American Crimes" tvg-logo="https://fintv.a20labs.com/Items/035d3c073438f34e7f80a23cfb1b4357/Images/Primary?api_key=8b6b2ddee71a4c2685625862dae21eb1" group-title="Live TV",American Crimes
+https://fintv.a20labs.com/LiveTv/Channels/035d3c073438f34e7f80a23cfb1b4357/stream.m3u8?api_key=8b6b2ddee71a4c2685625862dae21eb1
+#EXTINF:-1 tvg-id="29bd2812aadb08f4f31f6d9046f48c3a" tvg-chno="208" tvg-name="Law&Crime" tvg-logo="https://fintv.a20labs.com/Items/29bd2812aadb08f4f31f6d9046f48c3a/Images/Primary?api_key=8b6b2ddee71a4c2685625862dae21eb1" group-title="Live TV",Law&Crime
+https://fintv.a20labs.com/LiveTv/Channels/29bd2812aadb08f4f31f6d9046f48c3a/stream.m3u8?api_key=8b6b2ddee71a4c2685625862dae21eb1
+#EXTINF:-1 tvg-id="47f8d1a235bb1c6a208d05f1aec97401" tvg-chno="209" tvg-name="Law & Order" tvg-logo="https://fintv.a20labs.com/Items/47f8d1a235bb1c6a208d05f1aec97401/Images/Primary?api_key=8b6b2ddee71a4c2685625862dae21eb1" group-title="Live TV",Law & Order
+https://fintv.a20labs.com/LiveTv/Channels/47f8d1a235bb1c6a208d05f1aec97401/stream.m3u8?api_key=8b6b2ddee71a4c2685625862dae21eb1
+#EXTINF:-1 tvg-id="61593113d8aa39802262d1a237ec318d" tvg-chno="210" tvg-name="Forensic Files" tvg-logo="https://fintv.a20labs.com/Items/61593113d8aa39802262d1a237ec318d/Images/Primary?api_key=8b6b2ddee71a4c2685625862dae21eb1" group-title="Live TV",Forensic Files
+https://fintv.a20labs.com/LiveTv/Channels/61593113d8aa39802262d1a237ec318d/stream.m3u8?api_key=8b6b2ddee71a4c2685625862dae21eb1
+#EXTINF:-1 tvg-id="aec41ef88d337f3146b77bfe43b5e098" tvg-chno="211" tvg-name="REELZ Famous & Infamous" tvg-logo="https://fintv.a20labs.com/Items/aec41ef88d337f3146b77bfe43b5e098/Images/Primary?api_key=8b6b2ddee71a4c2685625862dae21eb1" group-title="Live TV",REELZ Famous & Infamous
+https://fintv.a20labs.com/LiveTv/Channels/aec41ef88d337f3146b77bfe43b5e098/stream.m3u8?api_key=8b6b2ddee71a4c2685625862dae21eb1
+#EXTINF:-1 tvg-id="afa2866780d147f8196a2c95cc242f17" tvg-chno="212" tvg-name="ION Mystery" tvg-logo="https://fintv.a20labs.com/Items/afa2866780d147f8196a2c95cc242f17/Images/Primary?api_key=8b6b2ddee71a4c2685625862dae21eb1" group-title="Live TV",ION Mystery
+https://fintv.a20labs.com/LiveTv/Channels/afa2866780d147f8196a2c95cc242f17/stream.m3u8?api_key=8b6b2ddee71a4c2685625862dae21eb1
+#EXTINF:-1 tvg-id="4af655bbab32d97543146f1015d5b35d" tvg-chno="213" tvg-name="Court TV" tvg-logo="https://fintv.a20labs.com/Items/4af655bbab32d97543146f1015d5b35d/Images/Primary?api_key=8b6b2ddee71a4c2685625862dae21eb1" group-title="Live TV",Court TV
+https://fintv.a20labs.com/LiveTv/Channels/4af655bbab32d97543146f1015d5b35d/stream.m3u8?api_key=8b6b2ddee71a4c2685625862dae21eb1
+#EXTINF:-1 tvg-id="9f3405d04b56f8efbd98cb1075799b32" tvg-chno="214" tvg-name="Midsomer Murders" tvg-logo="https://fintv.a20labs.com/Items/9f3405d04b56f8efbd98cb1075799b32/Images/Primary?api_key=8b6b2ddee71a4c2685625862dae21eb1" group-title="Live TV",Midsomer Murders
+https://fintv.a20labs.com/LiveTv/Channels/9f3405d04b56f8efbd98cb1075799b32/stream.m3u8?api_key=8b6b2ddee71a4c2685625862dae21eb1
+#EXTINF:-1 tvg-id="eab2daa961f3a6a2a530e3715a7cd42c" tvg-chno="215" tvg-name="Court TV Legendary Trials" tvg-logo="https://fintv.a20labs.com/Items/eab2daa961f3a6a2a530e3715a7cd42c/Images/Primary?api_key=8b6b2ddee71a4c2685625862dae21eb1" group-title="Live TV",Court TV Legendary Trials
+https://fintv.a20labs.com/LiveTv/Channels/eab2daa961f3a6a2a530e3715a7cd42c/stream.m3u8?api_key=8b6b2ddee71a4c2685625862dae21eb1
+#EXTINF:-1 tvg-id="1fa2d167affbbb0b7a6adaf823c28b2e" tvg-chno="216" tvg-name="BritBox Mysteries" tvg-logo="https://fintv.a20labs.com/Items/1fa2d167affbbb0b7a6adaf823c28b2e/Images/Primary?api_key=8b6b2ddee71a4c2685625862dae21eb1" group-title="Live TV",BritBox Mysteries
+https://fintv.a20labs.com/LiveTv/Channels/1fa2d167affbbb0b7a6adaf823c28b2e/stream.m3u8?api_key=8b6b2ddee71a4c2685625862dae21eb1
+#EXTINF:-1 tvg-id="a6508e6bbf28a72726225315a8bf15e8" tvg-chno="217" tvg-name="TV One CRIME & JUSTICE FAST CHANNEL" tvg-logo="https://fintv.a20labs.com/Items/a6508e6bbf28a72726225315a8bf15e8/Images/Primary?api_key=8b6b2ddee71a4c2685625862dae21eb1" group-title="Live TV",TV One CRIME & JUSTICE FAST CHANNEL
+https://fintv.a20labs.com/LiveTv/Channels/a6508e6bbf28a72726225315a8bf15e8/stream.m3u8?api_key=8b6b2ddee71a4c2685625862dae21eb1
+#EXTINF:-1 tvg-id="1472e14d11d0a12ca1f80da12909e87e" tvg-chno="218" tvg-name="World's Wildest Police Videos" tvg-logo="https://fintv.a20labs.com/Items/1472e14d11d0a12ca1f80da12909e87e/Images/Primary?api_key=8b6b2ddee71a4c2685625862dae21eb1" group-title="Live TV",World's Wildest Police Videos
+https://fintv.a20labs.com/LiveTv/Channels/1472e14d11d0a12ca1f80da12909e87e/stream.m3u8?api_key=8b6b2ddee71a4c2685625862dae21eb1
+#EXTINF:-1 tvg-id="c74450b8de1daa9dd8056ade035eccf4" tvg-chno="219" tvg-name="Investigation" tvg-logo="https://fintv.a20labs.com/Items/c74450b8de1daa9dd8056ade035eccf4/Images/Primary?api_key=8b6b2ddee71a4c2685625862dae21eb1" group-title="Live TV",Investigation
+https://fintv.a20labs.com/LiveTv/Channels/c74450b8de1daa9dd8056ade035eccf4/stream.m3u8?api_key=8b6b2ddee71a4c2685625862dae21eb1
+#EXTINF:-1 tvg-id="f19dedf287cf219f911a912caccc55e4" tvg-chno="220" tvg-name="Lawless by Lionsgate" tvg-logo="https://fintv.a20labs.com/Items/f19dedf287cf219f911a912caccc55e4/Images/Primary?api_key=8b6b2ddee71a4c2685625862dae21eb1" group-title="Live TV",Lawless by Lionsgate
+https://fintv.a20labs.com/LiveTv/Channels/f19dedf287cf219f911a912caccc55e4/stream.m3u8?api_key=8b6b2ddee71a4c2685625862dae21eb1
+#EXTINF:-1 tvg-id="dd37abca9737b619ab525dee63ea497b" tvg-chno="221" tvg-name="The F.B.I." tvg-logo="https://fintv.a20labs.com/Items/dd37abca9737b619ab525dee63ea497b/Images/Primary?api_key=8b6b2ddee71a4c2685625862dae21eb1" group-title="Live TV",The F.B.I.
+https://fintv.a20labs.com/LiveTv/Channels/dd37abca9737b619ab525dee63ea497b/stream.m3u8?api_key=8b6b2ddee71a4c2685625862dae21eb1
+#EXTINF:-1 tvg-id="e43e05da37b6d71615d11a17bef0ef72" tvg-chno="222" tvg-name="A&E Crime 360" tvg-logo="https://fintv.a20labs.com/Items/e43e05da37b6d71615d11a17bef0ef72/Images/Primary?api_key=8b6b2ddee71a4c2685625862dae21eb1" group-title="Live TV",A&E Crime 360
+https://fintv.a20labs.com/LiveTv/Channels/e43e05da37b6d71615d11a17bef0ef72/stream.m3u8?api_key=8b6b2ddee71a4c2685625862dae21eb1
+#EXTINF:-1 tvg-id="ae3990374593516e9972661bcc7788c4" tvg-chno="223" tvg-name="Live PD Presents" tvg-logo="https://fintv.a20labs.com/Items/ae3990374593516e9972661bcc7788c4/Images/Primary?api_key=8b6b2ddee71a4c2685625862dae21eb1" group-title="Live TV",Live PD Presents
+https://fintv.a20labs.com/LiveTv/Channels/ae3990374593516e9972661bcc7788c4/stream.m3u8?api_key=8b6b2ddee71a4c2685625862dae21eb1
+#EXTINF:-1 tvg-id="898088ac927c648e9280d62037791e3f" tvg-chno="224" tvg-name="The First 48 by A&E" tvg-logo="https://fintv.a20labs.com/Items/898088ac927c648e9280d62037791e3f/Images/Primary?api_key=8b6b2ddee71a4c2685625862dae21eb1" group-title="Live TV",The First 48 by A&E
+https://fintv.a20labs.com/LiveTv/Channels/898088ac927c648e9280d62037791e3f/stream.m3u8?api_key=8b6b2ddee71a4c2685625862dae21eb1
+#EXTINF:-1 tvg-id="c57e5b0895d681cfbb272263817e2113" tvg-chno="225" tvg-name="20/20" tvg-logo="https://fintv.a20labs.com/Items/c57e5b0895d681cfbb272263817e2113/Images/Primary?api_key=8b6b2ddee71a4c2685625862dae21eb1" group-title="Live TV",20/20
+https://fintv.a20labs.com/LiveTv/Channels/c57e5b0895d681cfbb272263817e2113/stream.m3u8?api_key=8b6b2ddee71a4c2685625862dae21eb1
+#EXTINF:-1 tvg-id="462e40a6618483c703d85f5dcac51bf0" tvg-chno="226" tvg-name="ION Plus" tvg-logo="https://fintv.a20labs.com/Items/462e40a6618483c703d85f5dcac51bf0/Images/Primary?api_key=8b6b2ddee71a4c2685625862dae21eb1" group-title="Live TV",ION Plus
+https://fintv.a20labs.com/LiveTv/Channels/462e40a6618483c703d85f5dcac51bf0/stream.m3u8?api_key=8b6b2ddee71a4c2685625862dae21eb1
+#EXTINF:-1 tvg-id="2cea5a676b35688e3df82f44d7a09e49" tvg-chno="227" tvg-name="Baywatch" tvg-logo="https://fintv.a20labs.com/Items/2cea5a676b35688e3df82f44d7a09e49/Images/Primary?api_key=8b6b2ddee71a4c2685625862dae21eb1" group-title="Live TV",Baywatch
+https://fintv.a20labs.com/LiveTv/Channels/2cea5a676b35688e3df82f44d7a09e49/stream.m3u8?api_key=8b6b2ddee71a4c2685625862dae21eb1
+#EXTINF:-1 tvg-id="0fc13d878290ae47dfcacee8907ee359" tvg-chno="228" tvg-name="Universal Action" tvg-logo="https://fintv.a20labs.com/Items/0fc13d878290ae47dfcacee8907ee359/Images/Primary?api_key=8b6b2ddee71a4c2685625862dae21eb1" group-title="Live TV",Universal Action
+https://fintv.a20labs.com/LiveTv/Channels/0fc13d878290ae47dfcacee8907ee359/stream.m3u8?api_key=8b6b2ddee71a4c2685625862dae21eb1
+#EXTINF:-1 tvg-id="8b5c4bff22938e492e13f30881324f2c" tvg-chno="229" tvg-name="ElectricNOW" tvg-logo="https://fintv.a20labs.com/Items/8b5c4bff22938e492e13f30881324f2c/Images/Primary?api_key=8b6b2ddee71a4c2685625862dae21eb1" group-title="Live TV",ElectricNOW
+https://fintv.a20labs.com/LiveTv/Channels/8b5c4bff22938e492e13f30881324f2c/stream.m3u8?api_key=8b6b2ddee71a4c2685625862dae21eb1
+#EXTINF:-1 tvg-id="5868b23de05341ba2505e401b67001e6" tvg-chno="230" tvg-name="Stories by AMC" tvg-logo="https://fintv.a20labs.com/Items/5868b23de05341ba2505e401b67001e6/Images/Primary?api_key=8b6b2ddee71a4c2685625862dae21eb1" group-title="Live TV",Stories by AMC
+https://fintv.a20labs.com/LiveTv/Channels/5868b23de05341ba2505e401b67001e6/stream.m3u8?api_key=8b6b2ddee71a4c2685625862dae21eb1
+#EXTINF:-1 tvg-id="e478d024b326c7a299c8c75ea6590063" tvg-chno="231" tvg-name="Nash Bridges Channel" tvg-logo="https://fintv.a20labs.com/Items/e478d024b326c7a299c8c75ea6590063/Images/Primary?api_key=8b6b2ddee71a4c2685625862dae21eb1" group-title="Live TV",Nash Bridges Channel
+https://fintv.a20labs.com/LiveTv/Channels/e478d024b326c7a299c8c75ea6590063/stream.m3u8?api_key=8b6b2ddee71a4c2685625862dae21eb1
+#EXTINF:-1 tvg-id="30b8313dcba11c5487e84f0a465f3d71" tvg-chno="232" tvg-name="Designated Survivor" tvg-logo="https://fintv.a20labs.com/Items/30b8313dcba11c5487e84f0a465f3d71/Images/Primary?api_key=8b6b2ddee71a4c2685625862dae21eb1" group-title="Live TV",Designated Survivor
+https://fintv.a20labs.com/LiveTv/Channels/30b8313dcba11c5487e84f0a465f3d71/stream.m3u8?api_key=8b6b2ddee71a4c2685625862dae21eb1
+#EXTINF:-1 tvg-id="27ef35316bde062f78137e617ca4f152" tvg-chno="233" tvg-name="Xena Warrior Princess" tvg-logo="https://fintv.a20labs.com/Items/27ef35316bde062f78137e617ca4f152/Images/Primary?api_key=8b6b2ddee71a4c2685625862dae21eb1" group-title="Live TV",Xena Warrior Princess
+https://fintv.a20labs.com/LiveTv/Channels/27ef35316bde062f78137e617ca4f152/stream.m3u8?api_key=8b6b2ddee71a4c2685625862dae21eb1
+#EXTINF:-1 tvg-id="5937bda96dc2563aa07d9a9c2ce8f497" tvg-chno="234" tvg-name="Demand Africa" tvg-logo="https://fintv.a20labs.com/Items/5937bda96dc2563aa07d9a9c2ce8f497/Images/Primary?api_key=8b6b2ddee71a4c2685625862dae21eb1" group-title="Live TV",Demand Africa
+https://fintv.a20labs.com/LiveTv/Channels/5937bda96dc2563aa07d9a9c2ce8f497/stream.m3u8?api_key=8b6b2ddee71a4c2685625862dae21eb1
+#EXTINF:-1 tvg-id="4c4ec62f39ae23b59b90467f146542ea" tvg-chno="235" tvg-name="Cent Action" tvg-logo="https://fintv.a20labs.com/Items/4c4ec62f39ae23b59b90467f146542ea/Images/Primary?api_key=8b6b2ddee71a4c2685625862dae21eb1" group-title="Live TV",Cent Action
+https://fintv.a20labs.com/LiveTv/Channels/4c4ec62f39ae23b59b90467f146542ea/stream.m3u8?api_key=8b6b2ddee71a4c2685625862dae21eb1
+#EXTINF:-1 tvg-id="5c92eac6e43ded5e4d8ab28f45c9b867" tvg-chno="236" tvg-name="Bizaar" tvg-logo="https://fintv.a20labs.com/Items/5c92eac6e43ded5e4d8ab28f45c9b867/Images/Primary?api_key=8b6b2ddee71a4c2685625862dae21eb1" group-title="Live TV",Bizaar
+https://fintv.a20labs.com/LiveTv/Channels/5c92eac6e43ded5e4d8ab28f45c9b867/stream.m3u8?api_key=8b6b2ddee71a4c2685625862dae21eb1
+#EXTINF:-1 tvg-id="185a2573ce6fbf8f8b099caea2c864c2" tvg-chno="237" tvg-name="GoldenTV" tvg-logo="https://fintv.a20labs.com/Items/185a2573ce6fbf8f8b099caea2c864c2/Images/Primary?api_key=8b6b2ddee71a4c2685625862dae21eb1" group-title="Live TV",GoldenTV
+https://fintv.a20labs.com/LiveTv/Channels/185a2573ce6fbf8f8b099caea2c864c2/stream.m3u8?api_key=8b6b2ddee71a4c2685625862dae21eb1
+#EXTINF:-1 tvg-id="ee428be0f6c306f2185ab6767f747869" tvg-chno="238" tvg-name="KOCOWA K-Drama" tvg-logo="https://fintv.a20labs.com/Items/ee428be0f6c306f2185ab6767f747869/Images/Primary?api_key=8b6b2ddee71a4c2685625862dae21eb1" group-title="Live TV",KOCOWA K-Drama
+https://fintv.a20labs.com/LiveTv/Channels/ee428be0f6c306f2185ab6767f747869/stream.m3u8?api_key=8b6b2ddee71a4c2685625862dae21eb1
+#EXTINF:-1 tvg-id="fe84edde2aed60d0fb64360cfb254964" tvg-chno="239" tvg-name="NEW Korean MOVIES & SERIES" tvg-logo="https://fintv.a20labs.com/Items/fe84edde2aed60d0fb64360cfb254964/Images/Primary?api_key=8b6b2ddee71a4c2685625862dae21eb1" group-title="Live TV",NEW Korean MOVIES & SERIES
+https://fintv.a20labs.com/LiveTv/Channels/fe84edde2aed60d0fb64360cfb254964/stream.m3u8?api_key=8b6b2ddee71a4c2685625862dae21eb1
+#EXTINF:-1 tvg-id="eda3d00529dcc6b6a17ed6a308196dfe" tvg-chno="240" tvg-name="Murdoch Mysteries" tvg-logo="https://fintv.a20labs.com/Items/eda3d00529dcc6b6a17ed6a308196dfe/Images/Primary?api_key=8b6b2ddee71a4c2685625862dae21eb1" group-title="Live TV",Murdoch Mysteries
+https://fintv.a20labs.com/LiveTv/Channels/eda3d00529dcc6b6a17ed6a308196dfe/stream.m3u8?api_key=8b6b2ddee71a4c2685625862dae21eb1
+#EXTINF:-1 tvg-id="5508c825ca0fc24750739aaed74af5dc" tvg-chno="241" tvg-name="Heartland" tvg-logo="https://fintv.a20labs.com/Items/5508c825ca0fc24750739aaed74af5dc/Images/Primary?api_key=8b6b2ddee71a4c2685625862dae21eb1" group-title="Live TV",Heartland
+https://fintv.a20labs.com/LiveTv/Channels/5508c825ca0fc24750739aaed74af5dc/stream.m3u8?api_key=8b6b2ddee71a4c2685625862dae21eb1
+#EXTINF:-1 tvg-id="c3a233c8bbcd3877c58f2ba6a166a4c2" tvg-chno="242" tvg-name="BBC Drama" tvg-logo="https://fintv.a20labs.com/Items/c3a233c8bbcd3877c58f2ba6a166a4c2/Images/Primary?api_key=8b6b2ddee71a4c2685625862dae21eb1" group-title="Live TV",BBC Drama
+https://fintv.a20labs.com/LiveTv/Channels/c3a233c8bbcd3877c58f2ba6a166a4c2/stream.m3u8?api_key=8b6b2ddee71a4c2685625862dae21eb1
+#EXTINF:-1 tvg-id="84e7ad6f0b48d0f58b21293f8538ab10" tvg-chno="243" tvg-name="Xumo Free Comedy TV" tvg-logo="https://fintv.a20labs.com/Items/84e7ad6f0b48d0f58b21293f8538ab10/Images/Primary?api_key=8b6b2ddee71a4c2685625862dae21eb1" group-title="Live TV",Xumo Free Comedy TV
+https://fintv.a20labs.com/LiveTv/Channels/84e7ad6f0b48d0f58b21293f8538ab10/stream.m3u8?api_key=8b6b2ddee71a4c2685625862dae21eb1
+#EXTINF:-1 tvg-id="605040df8f811dc2c6be5631c70ac89d" tvg-chno="244" tvg-name="Laff More" tvg-logo="https://fintv.a20labs.com/Items/605040df8f811dc2c6be5631c70ac89d/Images/Primary?api_key=8b6b2ddee71a4c2685625862dae21eb1" group-title="Live TV",Laff More
+https://fintv.a20labs.com/LiveTv/Channels/605040df8f811dc2c6be5631c70ac89d/stream.m3u8?api_key=8b6b2ddee71a4c2685625862dae21eb1
+#EXTINF:-1 tvg-id="d1db0cb9f37f0b88d0395636b6342e6e" tvg-chno="245" tvg-name="SNL Vault" tvg-logo="https://fintv.a20labs.com/Items/d1db0cb9f37f0b88d0395636b6342e6e/Images/Primary?api_key=8b6b2ddee71a4c2685625862dae21eb1" group-title="Live TV",SNL Vault
+https://fintv.a20labs.com/LiveTv/Channels/d1db0cb9f37f0b88d0395636b6342e6e/stream.m3u8?api_key=8b6b2ddee71a4c2685625862dae21eb1
+#EXTINF:-1 tvg-id="1932e9300a1859e3ea9a050f2e0b6f75" tvg-chno="246" tvg-name="NBC Comedy Vault" tvg-logo="https://fintv.a20labs.com/Items/1932e9300a1859e3ea9a050f2e0b6f75/Images/Primary?api_key=8b6b2ddee71a4c2685625862dae21eb1" group-title="Live TV",NBC Comedy Vault
+https://fintv.a20labs.com/LiveTv/Channels/1932e9300a1859e3ea9a050f2e0b6f75/stream.m3u8?api_key=8b6b2ddee71a4c2685625862dae21eb1
+#EXTINF:-1 tvg-id="092385aa0708e50c65252d45205844ca" tvg-chno="247" tvg-name="Saved by the Bell" tvg-logo="https://fintv.a20labs.com/Items/092385aa0708e50c65252d45205844ca/Images/Primary?api_key=8b6b2ddee71a4c2685625862dae21eb1" group-title="Live TV",Saved by the Bell
+https://fintv.a20labs.com/LiveTv/Channels/092385aa0708e50c65252d45205844ca/stream.m3u8?api_key=8b6b2ddee71a4c2685625862dae21eb1
+#EXTINF:-1 tvg-id="a6550398985afd4bcfe9f042f52fd0a4" tvg-chno="248" tvg-name="Are We There Yet?" tvg-logo="https://fintv.a20labs.com/Items/a6550398985afd4bcfe9f042f52fd0a4/Images/Primary?api_key=8b6b2ddee71a4c2685625862dae21eb1" group-title="Live TV",Are We There Yet?
+https://fintv.a20labs.com/LiveTv/Channels/a6550398985afd4bcfe9f042f52fd0a4/stream.m3u8?api_key=8b6b2ddee71a4c2685625862dae21eb1
+#EXTINF:-1 tvg-id="bf8690d353948a259758f3e604c20889" tvg-chno="249" tvg-name="LOL Network" tvg-logo="https://fintv.a20labs.com/Items/bf8690d353948a259758f3e604c20889/Images/Primary?api_key=8b6b2ddee71a4c2685625862dae21eb1" group-title="Live TV",LOL Network
+https://fintv.a20labs.com/LiveTv/Channels/bf8690d353948a259758f3e604c20889/stream.m3u8?api_key=8b6b2ddee71a4c2685625862dae21eb1
+#EXTINF:-1 tvg-id="919aefeb597365ff94b44cad9638ddb9" tvg-chno="250" tvg-name="FailArmy" tvg-logo="https://fintv.a20labs.com/Items/919aefeb597365ff94b44cad9638ddb9/Images/Primary?api_key=8b6b2ddee71a4c2685625862dae21eb1" group-title="Live TV",FailArmy
+https://fintv.a20labs.com/LiveTv/Channels/919aefeb597365ff94b44cad9638ddb9/stream.m3u8?api_key=8b6b2ddee71a4c2685625862dae21eb1
+#EXTINF:-1 tvg-id="e5f05b4bf1b1b9d616fcbaf04cdc3291" tvg-chno="251" tvg-name="Mystery Science Theater 3000 (MST3K)" tvg-logo="https://fintv.a20labs.com/Items/e5f05b4bf1b1b9d616fcbaf04cdc3291/Images/Primary?api_key=8b6b2ddee71a4c2685625862dae21eb1" group-title="Live TV",Mystery Science Theater 3000 (MST3K)
+https://fintv.a20labs.com/LiveTv/Channels/e5f05b4bf1b1b9d616fcbaf04cdc3291/stream.m3u8?api_key=8b6b2ddee71a4c2685625862dae21eb1
+#EXTINF:-1 tvg-id="d13e070a5685f7b80baed8dcfc3ced51" tvg-chno="252" tvg-name="Just for Laughs TV" tvg-logo="https://fintv.a20labs.com/Items/d13e070a5685f7b80baed8dcfc3ced51/Images/Primary?api_key=8b6b2ddee71a4c2685625862dae21eb1" group-title="Live TV",Just for Laughs TV
+https://fintv.a20labs.com/LiveTv/Channels/d13e070a5685f7b80baed8dcfc3ced51/stream.m3u8?api_key=8b6b2ddee71a4c2685625862dae21eb1
+#EXTINF:-1 tvg-id="cb903e4713c1d4df6a2e126bd8ec4869" tvg-chno="253" tvg-name="Comedy Dynamics" tvg-logo="https://fintv.a20labs.com/Items/cb903e4713c1d4df6a2e126bd8ec4869/Images/Primary?api_key=8b6b2ddee71a4c2685625862dae21eb1" group-title="Live TV",Comedy Dynamics
+https://fintv.a20labs.com/LiveTv/Channels/cb903e4713c1d4df6a2e126bd8ec4869/stream.m3u8?api_key=8b6b2ddee71a4c2685625862dae21eb1
+#EXTINF:-1 tvg-id="fe849e205e2600672bfa08b29709a4a2" tvg-chno="254" tvg-name="Just for Laughs Gags" tvg-logo="https://fintv.a20labs.com/Items/fe849e205e2600672bfa08b29709a4a2/Images/Primary?api_key=8b6b2ddee71a4c2685625862dae21eb1" group-title="Live TV",Just for Laughs Gags
+https://fintv.a20labs.com/LiveTv/Channels/fe849e205e2600672bfa08b29709a4a2/stream.m3u8?api_key=8b6b2ddee71a4c2685625862dae21eb1
+#EXTINF:-1 tvg-id="e4cc9d759e9954f7f72b10ed6b6ca4a2" tvg-chno="255" tvg-name="It's Showtime at the Apollo" tvg-logo="https://fintv.a20labs.com/Items/e4cc9d759e9954f7f72b10ed6b6ca4a2/Images/Primary?api_key=8b6b2ddee71a4c2685625862dae21eb1" group-title="Live TV",It's Showtime at the Apollo
+https://fintv.a20labs.com/LiveTv/Channels/e4cc9d759e9954f7f72b10ed6b6ca4a2/stream.m3u8?api_key=8b6b2ddee71a4c2685625862dae21eb1
+#EXTINF:-1 tvg-id="0fd10b3b9e62b4bb44309be5ca31712e" tvg-chno="256" tvg-name="Portlandia" tvg-logo="https://fintv.a20labs.com/Items/0fd10b3b9e62b4bb44309be5ca31712e/Images/Primary?api_key=8b6b2ddee71a4c2685625862dae21eb1" group-title="Live TV",Portlandia
+https://fintv.a20labs.com/LiveTv/Channels/0fd10b3b9e62b4bb44309be5ca31712e/stream.m3u8?api_key=8b6b2ddee71a4c2685625862dae21eb1
+#EXTINF:-1 tvg-id="7324e8efd2ebadc52bb2bccb499afe24" tvg-chno="257" tvg-name="Bounce XL" tvg-logo="https://fintv.a20labs.com/Items/7324e8efd2ebadc52bb2bccb499afe24/Images/Primary?api_key=8b6b2ddee71a4c2685625862dae21eb1" group-title="Live TV",Bounce XL
+https://fintv.a20labs.com/LiveTv/Channels/7324e8efd2ebadc52bb2bccb499afe24/stream.m3u8?api_key=8b6b2ddee71a4c2685625862dae21eb1
+#EXTINF:-1 tvg-id="1b2489956e726fe5fe8995e95418f6b8" tvg-chno="258" tvg-name="The Conners" tvg-logo="https://fintv.a20labs.com/Items/1b2489956e726fe5fe8995e95418f6b8/Images/Primary?api_key=8b6b2ddee71a4c2685625862dae21eb1" group-title="Live TV",The Conners
+https://fintv.a20labs.com/LiveTv/Channels/1b2489956e726fe5fe8995e95418f6b8/stream.m3u8?api_key=8b6b2ddee71a4c2685625862dae21eb1
+#EXTINF:-1 tvg-id="e6f70ccbce200bbb962a8409d5bb96d8" tvg-chno="259" tvg-name="WITZ Comedy TV" tvg-logo="https://fintv.a20labs.com/Items/e6f70ccbce200bbb962a8409d5bb96d8/Images/Primary?api_key=8b6b2ddee71a4c2685625862dae21eb1" group-title="Live TV",WITZ Comedy TV
+https://fintv.a20labs.com/LiveTv/Channels/e6f70ccbce200bbb962a8409d5bb96d8/stream.m3u8?api_key=8b6b2ddee71a4c2685625862dae21eb1
+#EXTINF:-1 tvg-id="8d66b3b9cfb5545ae59a46da8d53a2ed" tvg-chno="260" tvg-name="Hit Sitcoms" tvg-logo="https://fintv.a20labs.com/Items/8d66b3b9cfb5545ae59a46da8d53a2ed/Images/Primary?api_key=8b6b2ddee71a4c2685625862dae21eb1" group-title="Live TV",Hit Sitcoms
+https://fintv.a20labs.com/LiveTv/Channels/8d66b3b9cfb5545ae59a46da8d53a2ed/stream.m3u8?api_key=8b6b2ddee71a4c2685625862dae21eb1
+#EXTINF:-1 tvg-id="2631b5ec07fc8cb8366ff3016fef67f5" tvg-chno="261" tvg-name="Creator Television" tvg-logo="https://fintv.a20labs.com/Items/2631b5ec07fc8cb8366ff3016fef67f5/Images/Primary?api_key=8b6b2ddee71a4c2685625862dae21eb1" group-title="Live TV",Creator Television
+https://fintv.a20labs.com/LiveTv/Channels/2631b5ec07fc8cb8366ff3016fef67f5/stream.m3u8?api_key=8b6b2ddee71a4c2685625862dae21eb1
+#EXTINF:-1 tvg-id="42ab8aebb38846a78878442c93f95541" tvg-chno="262" tvg-name="PBS Nature" tvg-logo="https://fintv.a20labs.com/Items/42ab8aebb38846a78878442c93f95541/Images/Primary?api_key=8b6b2ddee71a4c2685625862dae21eb1" group-title="Live TV",PBS Nature
+https://fintv.a20labs.com/LiveTv/Channels/42ab8aebb38846a78878442c93f95541/stream.m3u8?api_key=8b6b2ddee71a4c2685625862dae21eb1
+#EXTINF:-1 tvg-id="22e75de2b1c74dd389b8cde21bddd525" tvg-chno="263" tvg-name="BBC Earth" tvg-logo="https://fintv.a20labs.com/Items/22e75de2b1c74dd389b8cde21bddd525/Images/Primary?api_key=8b6b2ddee71a4c2685625862dae21eb1" group-title="Live TV",BBC Earth
+https://fintv.a20labs.com/LiveTv/Channels/22e75de2b1c74dd389b8cde21bddd525/stream.m3u8?api_key=8b6b2ddee71a4c2685625862dae21eb1
+#EXTINF:-1 tvg-id="4393d38368b5bc8f4087510b7d62667e" tvg-chno="264" tvg-name="NatureVision" tvg-logo="https://fintv.a20labs.com/Items/4393d38368b5bc8f4087510b7d62667e/Images/Primary?api_key=8b6b2ddee71a4c2685625862dae21eb1" group-title="Live TV",NatureVision
+https://fintv.a20labs.com/LiveTv/Channels/4393d38368b5bc8f4087510b7d62667e/stream.m3u8?api_key=8b6b2ddee71a4c2685625862dae21eb1
+#EXTINF:-1 tvg-id="bf7b5fbc342eb3833e23117ec0df177c" tvg-chno="265" tvg-name="Stingray Naturescape" tvg-logo="https://fintv.a20labs.com/Items/bf7b5fbc342eb3833e23117ec0df177c/Images/Primary?api_key=8b6b2ddee71a4c2685625862dae21eb1" group-title="Live TV",Stingray Naturescape
+https://fintv.a20labs.com/LiveTv/Channels/bf7b5fbc342eb3833e23117ec0df177c/stream.m3u8?api_key=8b6b2ddee71a4c2685625862dae21eb1
+#EXTINF:-1 tvg-id="607d861e305f41c9cf17d824203cb1dd" tvg-chno="266" tvg-name="Love Nature" tvg-logo="https://fintv.a20labs.com/Items/607d861e305f41c9cf17d824203cb1dd/Images/Primary?api_key=8b6b2ddee71a4c2685625862dae21eb1" group-title="Live TV",Love Nature
+https://fintv.a20labs.com/LiveTv/Channels/607d861e305f41c9cf17d824203cb1dd/stream.m3u8?api_key=8b6b2ddee71a4c2685625862dae21eb1
+#EXTINF:-1 tvg-id="28f709be834f90d1e58656e2273a71e4" tvg-chno="267" tvg-name="WildEarth" tvg-logo="https://fintv.a20labs.com/Items/28f709be834f90d1e58656e2273a71e4/Images/Primary?api_key=8b6b2ddee71a4c2685625862dae21eb1" group-title="Live TV",WildEarth
+https://fintv.a20labs.com/LiveTv/Channels/28f709be834f90d1e58656e2273a71e4/stream.m3u8?api_key=8b6b2ddee71a4c2685625862dae21eb1
+#EXTINF:-1 tvg-id="9da33177477fe8f3b8e685c4eef4405d" tvg-chno="268" tvg-name="Love The Planet" tvg-logo="https://fintv.a20labs.com/Items/9da33177477fe8f3b8e685c4eef4405d/Images/Primary?api_key=8b6b2ddee71a4c2685625862dae21eb1" group-title="Live TV",Love The Planet
+https://fintv.a20labs.com/LiveTv/Channels/9da33177477fe8f3b8e685c4eef4405d/stream.m3u8?api_key=8b6b2ddee71a4c2685625862dae21eb1
+#EXTINF:-1 tvg-id="540db716e74fd4c8883ddc17e26a2e86" tvg-chno="269" tvg-name="Dog Whisperer" tvg-logo="https://fintv.a20labs.com/Items/540db716e74fd4c8883ddc17e26a2e86/Images/Primary?api_key=8b6b2ddee71a4c2685625862dae21eb1" group-title="Live TV",Dog Whisperer
+https://fintv.a20labs.com/LiveTv/Channels/540db716e74fd4c8883ddc17e26a2e86/stream.m3u8?api_key=8b6b2ddee71a4c2685625862dae21eb1
+#EXTINF:-1 tvg-id="d0914e3fc11d71f7258c420a97b6c11f" tvg-chno="270" tvg-name="The Pet Collective" tvg-logo="https://fintv.a20labs.com/Items/d0914e3fc11d71f7258c420a97b6c11f/Images/Primary?api_key=8b6b2ddee71a4c2685625862dae21eb1" group-title="Live TV",The Pet Collective
+https://fintv.a20labs.com/LiveTv/Channels/d0914e3fc11d71f7258c420a97b6c11f/stream.m3u8?api_key=8b6b2ddee71a4c2685625862dae21eb1
+#EXTINF:-1 tvg-id="93c72e5000844ab9d65e59dbd35f4eb9" tvg-chno="271" tvg-name="The Yorkshire Vet & Friends" tvg-logo="https://fintv.a20labs.com/Items/93c72e5000844ab9d65e59dbd35f4eb9/Images/Primary?api_key=8b6b2ddee71a4c2685625862dae21eb1" group-title="Live TV",The Yorkshire Vet & Friends
+https://fintv.a20labs.com/LiveTv/Channels/93c72e5000844ab9d65e59dbd35f4eb9/stream.m3u8?api_key=8b6b2ddee71a4c2685625862dae21eb1
+#EXTINF:-1 tvg-id="e35e335ea98b94c004ddae2dac1a1d03" tvg-chno="272" tvg-name="EarthXtra" tvg-logo="https://fintv.a20labs.com/Items/e35e335ea98b94c004ddae2dac1a1d03/Images/Primary?api_key=8b6b2ddee71a4c2685625862dae21eb1" group-title="Live TV",EarthXtra
+https://fintv.a20labs.com/LiveTv/Channels/e35e335ea98b94c004ddae2dac1a1d03/stream.m3u8?api_key=8b6b2ddee71a4c2685625862dae21eb1
+#EXTINF:-1 tvg-id="9897db654bb4c476a50d2c551d4090a5" tvg-chno="273" tvg-name="Bark TV" tvg-logo="https://fintv.a20labs.com/Items/9897db654bb4c476a50d2c551d4090a5/Images/Primary?api_key=8b6b2ddee71a4c2685625862dae21eb1" group-title="Live TV",Bark TV
+https://fintv.a20labs.com/LiveTv/Channels/9897db654bb4c476a50d2c551d4090a5/stream.m3u8?api_key=8b6b2ddee71a4c2685625862dae21eb1
+#EXTINF:-1 tvg-id="6d6c73062d88b9bca1cffaaf1db4bde7" tvg-chno="274" tvg-name="The Lucky Dog Channel" tvg-logo="https://fintv.a20labs.com/Items/6d6c73062d88b9bca1cffaaf1db4bde7/Images/Primary?api_key=8b6b2ddee71a4c2685625862dae21eb1" group-title="Live TV",The Lucky Dog Channel
+https://fintv.a20labs.com/LiveTv/Channels/6d6c73062d88b9bca1cffaaf1db4bde7/stream.m3u8?api_key=8b6b2ddee71a4c2685625862dae21eb1
+#EXTINF:-1 tvg-id="77d310da109aa1cd1c67ee6bf16472e3" tvg-chno="275" tvg-name="The Jack Hanna Channel" tvg-logo="https://fintv.a20labs.com/Items/77d310da109aa1cd1c67ee6bf16472e3/Images/Primary?api_key=8b6b2ddee71a4c2685625862dae21eb1" group-title="Live TV",The Jack Hanna Channel
+https://fintv.a20labs.com/LiveTv/Channels/77d310da109aa1cd1c67ee6bf16472e3/stream.m3u8?api_key=8b6b2ddee71a4c2685625862dae21eb1
+#EXTINF:-1 tvg-id="d1d46e11169f61b2bc56d7a02929a47d" tvg-chno="276" tvg-name="McLeod's Daughters" tvg-logo="https://fintv.a20labs.com/Items/d1d46e11169f61b2bc56d7a02929a47d/Images/Primary?api_key=8b6b2ddee71a4c2685625862dae21eb1" group-title="Live TV",McLeod's Daughters
+https://fintv.a20labs.com/LiveTv/Channels/d1d46e11169f61b2bc56d7a02929a47d/stream.m3u8?api_key=8b6b2ddee71a4c2685625862dae21eb1
+#EXTINF:-1 tvg-id="5def6ad5a9547d5045047e187840e22c" tvg-chno="277" tvg-name="Grit Xtra" tvg-logo="https://fintv.a20labs.com/Items/5def6ad5a9547d5045047e187840e22c/Images/Primary?api_key=8b6b2ddee71a4c2685625862dae21eb1" group-title="Live TV",Grit Xtra
+https://fintv.a20labs.com/LiveTv/Channels/5def6ad5a9547d5045047e187840e22c/stream.m3u8?api_key=8b6b2ddee71a4c2685625862dae21eb1
+#EXTINF:-1 tvg-id="dbc5642f8a4f47554252aabed6aa108c" tvg-chno="278" tvg-name="Western Bound Wrangled by INSP" tvg-logo="https://fintv.a20labs.com/Items/dbc5642f8a4f47554252aabed6aa108c/Images/Primary?api_key=8b6b2ddee71a4c2685625862dae21eb1" group-title="Live TV",Western Bound Wrangled by INSP
+https://fintv.a20labs.com/LiveTv/Channels/dbc5642f8a4f47554252aabed6aa108c/stream.m3u8?api_key=8b6b2ddee71a4c2685625862dae21eb1
+#EXTINF:-1 tvg-id="c2266df68369b844c3493b099e1f4ebc" tvg-chno="279" tvg-name="The Rifleman" tvg-logo="https://fintv.a20labs.com/Items/c2266df68369b844c3493b099e1f4ebc/Images/Primary?api_key=8b6b2ddee71a4c2685625862dae21eb1" group-title="Live TV",The Rifleman
+https://fintv.a20labs.com/LiveTv/Channels/c2266df68369b844c3493b099e1f4ebc/stream.m3u8?api_key=8b6b2ddee71a4c2685625862dae21eb1
+#EXTINF:-1 tvg-id="e4e6569703555dd9fccf9b6ad75fc9f0" tvg-chno="280" tvg-name="Little House on the Prairie" tvg-logo="https://fintv.a20labs.com/Items/e4e6569703555dd9fccf9b6ad75fc9f0/Images/Primary?api_key=8b6b2ddee71a4c2685625862dae21eb1" group-title="Live TV",Little House on the Prairie
+https://fintv.a20labs.com/LiveTv/Channels/e4e6569703555dd9fccf9b6ad75fc9f0/stream.m3u8?api_key=8b6b2ddee71a4c2685625862dae21eb1
+#EXTINF:-1 tvg-id="bae52caa02ee27db5ff527f76bc61f84" tvg-chno="281" tvg-name="Universal Westerns" tvg-logo="https://fintv.a20labs.com/Items/bae52caa02ee27db5ff527f76bc61f84/Images/Primary?api_key=8b6b2ddee71a4c2685625862dae21eb1" group-title="Live TV",Universal Westerns
+https://fintv.a20labs.com/LiveTv/Channels/bae52caa02ee27db5ff527f76bc61f84/stream.m3u8?api_key=8b6b2ddee71a4c2685625862dae21eb1
+#EXTINF:-1 tvg-id="7912aba0171f9f4e3464cc2169ca781d" tvg-chno="282" tvg-name="Circle Country" tvg-logo="https://fintv.a20labs.com/Items/7912aba0171f9f4e3464cc2169ca781d/Images/Primary?api_key=8b6b2ddee71a4c2685625862dae21eb1" group-title="Live TV",Circle Country
+https://fintv.a20labs.com/LiveTv/Channels/7912aba0171f9f4e3464cc2169ca781d/stream.m3u8?api_key=8b6b2ddee71a4c2685625862dae21eb1
+#EXTINF:-1 tvg-id="b99b769d844d068b9bedfc43c850c6e0" tvg-chno="283" tvg-name="Wild West TV" tvg-logo="https://fintv.a20labs.com/Items/b99b769d844d068b9bedfc43c850c6e0/Images/Primary?api_key=8b6b2ddee71a4c2685625862dae21eb1" group-title="Live TV",Wild West TV
+https://fintv.a20labs.com/LiveTv/Channels/b99b769d844d068b9bedfc43c850c6e0/stream.m3u8?api_key=8b6b2ddee71a4c2685625862dae21eb1
+#EXTINF:-1 tvg-id="be59b1dc1c90a3fb764b342cb74bea4d" tvg-chno="284" tvg-name="At Home with Family Handyman" tvg-logo="https://fintv.a20labs.com/Items/be59b1dc1c90a3fb764b342cb74bea4d/Images/Primary?api_key=8b6b2ddee71a4c2685625862dae21eb1" group-title="Live TV",At Home with Family Handyman
+https://fintv.a20labs.com/LiveTv/Channels/be59b1dc1c90a3fb764b342cb74bea4d/stream.m3u8?api_key=8b6b2ddee71a4c2685625862dae21eb1
+#EXTINF:-1 tvg-id="a9994d06fcd6b32b05971bb9d0fa369b" tvg-chno="285" tvg-name="BBC Home & Garden" tvg-logo="https://fintv.a20labs.com/Items/a9994d06fcd6b32b05971bb9d0fa369b/Images/Primary?api_key=8b6b2ddee71a4c2685625862dae21eb1" group-title="Live TV",BBC Home & Garden
+https://fintv.a20labs.com/LiveTv/Channels/a9994d06fcd6b32b05971bb9d0fa369b/stream.m3u8?api_key=8b6b2ddee71a4c2685625862dae21eb1
+#EXTINF:-1 tvg-id="8ad16292c05a4fc62b86e4fd0c99d5dd" tvg-chno="286" tvg-name="CraftsyTV" tvg-logo="https://fintv.a20labs.com/Items/8ad16292c05a4fc62b86e4fd0c99d5dd/Images/Primary?api_key=8b6b2ddee71a4c2685625862dae21eb1" group-title="Live TV",CraftsyTV
+https://fintv.a20labs.com/LiveTv/Channels/8ad16292c05a4fc62b86e4fd0c99d5dd/stream.m3u8?api_key=8b6b2ddee71a4c2685625862dae21eb1
+#EXTINF:-1 tvg-id="f9f496c909b17cd8d388521fdde50a0f" tvg-chno="287" tvg-name="Gardening with Monty Don" tvg-logo="https://fintv.a20labs.com/Items/f9f496c909b17cd8d388521fdde50a0f/Images/Primary?api_key=8b6b2ddee71a4c2685625862dae21eb1" group-title="Live TV",Gardening with Monty Don
+https://fintv.a20labs.com/LiveTv/Channels/f9f496c909b17cd8d388521fdde50a0f/stream.m3u8?api_key=8b6b2ddee71a4c2685625862dae21eb1
+#EXTINF:-1 tvg-id="2e9fbd3b06cfbca372bdfcfb66ac5a58" tvg-chno="288" tvg-name="Property & Reno" tvg-logo="https://fintv.a20labs.com/Items/2e9fbd3b06cfbca372bdfcfb66ac5a58/Images/Primary?api_key=8b6b2ddee71a4c2685625862dae21eb1" group-title="Live TV",Property & Reno
+https://fintv.a20labs.com/LiveTv/Channels/2e9fbd3b06cfbca372bdfcfb66ac5a58/stream.m3u8?api_key=8b6b2ddee71a4c2685625862dae21eb1
+#EXTINF:-1 tvg-id="5636a3a04605ab1ff7ab6a4dbbd38ea8" tvg-chno="289" tvg-name="Million Dollar Listing Vault" tvg-logo="https://fintv.a20labs.com/Items/5636a3a04605ab1ff7ab6a4dbbd38ea8/Images/Primary?api_key=8b6b2ddee71a4c2685625862dae21eb1" group-title="Live TV",Million Dollar Listing Vault
+https://fintv.a20labs.com/LiveTv/Channels/5636a3a04605ab1ff7ab6a4dbbd38ea8/stream.m3u8?api_key=8b6b2ddee71a4c2685625862dae21eb1
+#EXTINF:-1 tvg-id="e93f3fb7d6a3337002a9f1a10c5ad187" tvg-chno="290" tvg-name="This Old House" tvg-logo="https://fintv.a20labs.com/Items/e93f3fb7d6a3337002a9f1a10c5ad187/Images/Primary?api_key=8b6b2ddee71a4c2685625862dae21eb1" group-title="Live TV",This Old House
+https://fintv.a20labs.com/LiveTv/Channels/e93f3fb7d6a3337002a9f1a10c5ad187/stream.m3u8?api_key=8b6b2ddee71a4c2685625862dae21eb1
+#EXTINF:-1 tvg-id="5f70e44fac577e6bffcbc7d43d5dd33c" tvg-chno="291" tvg-name="The Design Network" tvg-logo="https://fintv.a20labs.com/Items/5f70e44fac577e6bffcbc7d43d5dd33c/Images/Primary?api_key=8b6b2ddee71a4c2685625862dae21eb1" group-title="Live TV",The Design Network
+https://fintv.a20labs.com/LiveTv/Channels/5f70e44fac577e6bffcbc7d43d5dd33c/stream.m3u8?api_key=8b6b2ddee71a4c2685625862dae21eb1
+#EXTINF:-1 tvg-id="24258c31ca2a1a88503221b861ddd2a4" tvg-chno="292" tvg-name="NBC LX Home" tvg-logo="https://fintv.a20labs.com/Items/24258c31ca2a1a88503221b861ddd2a4/Images/Primary?api_key=8b6b2ddee71a4c2685625862dae21eb1" group-title="Live TV",NBC LX Home
+https://fintv.a20labs.com/LiveTv/Channels/24258c31ca2a1a88503221b861ddd2a4/stream.m3u8?api_key=8b6b2ddee71a4c2685625862dae21eb1
+#EXTINF:-1 tvg-id="9c2e4532768efafa3fe187124001fd0c" tvg-chno="293" tvg-name="Homeful" tvg-logo="https://fintv.a20labs.com/Items/9c2e4532768efafa3fe187124001fd0c/Images/Primary?api_key=8b6b2ddee71a4c2685625862dae21eb1" group-title="Live TV",Homeful
+https://fintv.a20labs.com/LiveTv/Channels/9c2e4532768efafa3fe187124001fd0c/stream.m3u8?api_key=8b6b2ddee71a4c2685625862dae21eb1
+#EXTINF:-1 tvg-id="c29da18c67a3239d4ca1e08b6f4c68d4" tvg-chno="294" tvg-name="Today's Homeowner" tvg-logo="https://fintv.a20labs.com/Items/c29da18c67a3239d4ca1e08b6f4c68d4/Images/Primary?api_key=8b6b2ddee71a4c2685625862dae21eb1" group-title="Live TV",Today's Homeowner
+https://fintv.a20labs.com/LiveTv/Channels/c29da18c67a3239d4ca1e08b6f4c68d4/stream.m3u8?api_key=8b6b2ddee71a4c2685625862dae21eb1
+#EXTINF:-1 tvg-id="516953486e4c8340599a04bacdf44d7d" tvg-chno="295" tvg-name="Places & Spaces" tvg-logo="https://fintv.a20labs.com/Items/516953486e4c8340599a04bacdf44d7d/Images/Primary?api_key=8b6b2ddee71a4c2685625862dae21eb1" group-title="Live TV",Places & Spaces
+https://fintv.a20labs.com/LiveTv/Channels/516953486e4c8340599a04bacdf44d7d/stream.m3u8?api_key=8b6b2ddee71a4c2685625862dae21eb1
+#EXTINF:-1 tvg-id="e857e1fee87c8e712848433e40b5e647" tvg-chno="296" tvg-name="Tastemade Home" tvg-logo="https://fintv.a20labs.com/Items/e857e1fee87c8e712848433e40b5e647/Images/Primary?api_key=8b6b2ddee71a4c2685625862dae21eb1" group-title="Live TV",Tastemade Home
+https://fintv.a20labs.com/LiveTv/Channels/e857e1fee87c8e712848433e40b5e647/stream.m3u8?api_key=8b6b2ddee71a4c2685625862dae21eb1
+#EXTINF:-1 tvg-id="64596908c85e47c8ea6c9932a20f09c0" tvg-chno="297" tvg-name="Home. Made. Nation" tvg-logo="https://fintv.a20labs.com/Items/64596908c85e47c8ea6c9932a20f09c0/Images/Primary?api_key=8b6b2ddee71a4c2685625862dae21eb1" group-title="Live TV",Home. Made. Nation
+https://fintv.a20labs.com/LiveTv/Channels/64596908c85e47c8ea6c9932a20f09c0/stream.m3u8?api_key=8b6b2ddee71a4c2685625862dae21eb1
+#EXTINF:-1 tvg-id="33c5dfe025871fb8486b3cf5e494f591" tvg-chno="298" tvg-name="Tiny House Nation" tvg-logo="https://fintv.a20labs.com/Items/33c5dfe025871fb8486b3cf5e494f591/Images/Primary?api_key=8b6b2ddee71a4c2685625862dae21eb1" group-title="Live TV",Tiny House Nation
+https://fintv.a20labs.com/LiveTv/Channels/33c5dfe025871fb8486b3cf5e494f591/stream.m3u8?api_key=8b6b2ddee71a4c2685625862dae21eb1
+#EXTINF:-1 tvg-id="fabf0a6af9c377789f5e634ff21cc4d1" tvg-chno="299" tvg-name="@Home DIY" tvg-logo="https://fintv.a20labs.com/Items/fabf0a6af9c377789f5e634ff21cc4d1/Images/Primary?api_key=8b6b2ddee71a4c2685625862dae21eb1" group-title="Live TV",@Home DIY
+https://fintv.a20labs.com/LiveTv/Channels/fabf0a6af9c377789f5e634ff21cc4d1/stream.m3u8?api_key=8b6b2ddee71a4c2685625862dae21eb1
+#EXTINF:-1 tvg-id="d333762a17c31178aee11177c4093ae8" tvg-chno="300" tvg-name="The Price is Right: The Barker Era" tvg-logo="https://fintv.a20labs.com/Items/d333762a17c31178aee11177c4093ae8/Images/Primary?api_key=8b6b2ddee71a4c2685625862dae21eb1" group-title="Live TV",The Price is Right: The Barker Era
+https://fintv.a20labs.com/LiveTv/Channels/d333762a17c31178aee11177c4093ae8/stream.m3u8?api_key=8b6b2ddee71a4c2685625862dae21eb1
+#EXTINF:-1 tvg-id="228768ecca9d71f6d45ac9a57e4ed740" tvg-chno="301" tvg-name="Supermarket Sweep" tvg-logo="https://fintv.a20labs.com/Items/228768ecca9d71f6d45ac9a57e4ed740/Images/Primary?api_key=8b6b2ddee71a4c2685625862dae21eb1" group-title="Live TV",Supermarket Sweep
+https://fintv.a20labs.com/LiveTv/Channels/228768ecca9d71f6d45ac9a57e4ed740/stream.m3u8?api_key=8b6b2ddee71a4c2685625862dae21eb1
+#EXTINF:-1 tvg-id="49960f8a95850519d4f1fc8f0605aa80" tvg-chno="302" tvg-name="Fear Factor" tvg-logo="https://fintv.a20labs.com/Items/49960f8a95850519d4f1fc8f0605aa80/Images/Primary?api_key=8b6b2ddee71a4c2685625862dae21eb1" group-title="Live TV",Fear Factor
+https://fintv.a20labs.com/LiveTv/Channels/49960f8a95850519d4f1fc8f0605aa80/stream.m3u8?api_key=8b6b2ddee71a4c2685625862dae21eb1
+#EXTINF:-1 tvg-id="5af3dfe32fdac093e9ad4d033153cc64" tvg-chno="303" tvg-name="The Celebrity Name Game Channel" tvg-logo="https://fintv.a20labs.com/Items/5af3dfe32fdac093e9ad4d033153cc64/Images/Primary?api_key=8b6b2ddee71a4c2685625862dae21eb1" group-title="Live TV",The Celebrity Name Game Channel
+https://fintv.a20labs.com/LiveTv/Channels/5af3dfe32fdac093e9ad4d033153cc64/stream.m3u8?api_key=8b6b2ddee71a4c2685625862dae21eb1
+#EXTINF:-1 tvg-id="924c07d5c573c31aceafe39d36e103c2" tvg-chno="304" tvg-name="Family Feud" tvg-logo="https://fintv.a20labs.com/Items/924c07d5c573c31aceafe39d36e103c2/Images/Primary?api_key=8b6b2ddee71a4c2685625862dae21eb1" group-title="Live TV",Family Feud
+https://fintv.a20labs.com/LiveTv/Channels/924c07d5c573c31aceafe39d36e103c2/stream.m3u8?api_key=8b6b2ddee71a4c2685625862dae21eb1
+#EXTINF:-1 tvg-id="dedc4fed14eff750b5c6defd5cbe3044" tvg-chno="305" tvg-name="BUZZR" tvg-logo="https://fintv.a20labs.com/Items/dedc4fed14eff750b5c6defd5cbe3044/Images/Primary?api_key=8b6b2ddee71a4c2685625862dae21eb1" group-title="Live TV",BUZZR
+https://fintv.a20labs.com/LiveTv/Channels/dedc4fed14eff750b5c6defd5cbe3044/stream.m3u8?api_key=8b6b2ddee71a4c2685625862dae21eb1
+#EXTINF:-1 tvg-id="947f2ba4db5e4d73bb0f3dcb927429a1" tvg-chno="306" tvg-name="Words or Less" tvg-logo="https://fintv.a20labs.com/Items/947f2ba4db5e4d73bb0f3dcb927429a1/Images/Primary?api_key=8b6b2ddee71a4c2685625862dae21eb1" group-title="Live TV",Words or Less
+https://fintv.a20labs.com/LiveTv/Channels/947f2ba4db5e4d73bb0f3dcb927429a1/stream.m3u8?api_key=8b6b2ddee71a4c2685625862dae21eb1
+#EXTINF:-1 tvg-id="80d27b76264f481f4d9738a761fa1381" tvg-chno="307" tvg-name="American Ninja Warrior" tvg-logo="https://fintv.a20labs.com/Items/80d27b76264f481f4d9738a761fa1381/Images/Primary?api_key=8b6b2ddee71a4c2685625862dae21eb1" group-title="Live TV",American Ninja Warrior
+https://fintv.a20labs.com/LiveTv/Channels/80d27b76264f481f4d9738a761fa1381/stream.m3u8?api_key=8b6b2ddee71a4c2685625862dae21eb1
+#EXTINF:-1 tvg-id="738c558bb11380ab578c455c19afc085" tvg-chno="308" tvg-name="Family Feud Classic" tvg-logo="https://fintv.a20labs.com/Items/738c558bb11380ab578c455c19afc085/Images/Primary?api_key=8b6b2ddee71a4c2685625862dae21eb1" group-title="Live TV",Family Feud Classic
+https://fintv.a20labs.com/LiveTv/Channels/738c558bb11380ab578c455c19afc085/stream.m3u8?api_key=8b6b2ddee71a4c2685625862dae21eb1
+#EXTINF:-1 tvg-id="bd99bb92b867ce0336ef0cfb5a0922b4" tvg-chno="309" tvg-name="America's Got Talent" tvg-logo="https://fintv.a20labs.com/Items/bd99bb92b867ce0336ef0cfb5a0922b4/Images/Primary?api_key=8b6b2ddee71a4c2685625862dae21eb1" group-title="Live TV",America's Got Talent
+https://fintv.a20labs.com/LiveTv/Channels/bd99bb92b867ce0336ef0cfb5a0922b4/stream.m3u8?api_key=8b6b2ddee71a4c2685625862dae21eb1
+#EXTINF:-1 tvg-id="91b3146773cef990a7182b4812d3e5fd" tvg-chno="310" tvg-name="Xumo Free Food TV" tvg-logo="https://fintv.a20labs.com/Items/91b3146773cef990a7182b4812d3e5fd/Images/Primary?api_key=8b6b2ddee71a4c2685625862dae21eb1" group-title="Live TV",Xumo Free Food TV
+https://fintv.a20labs.com/LiveTv/Channels/91b3146773cef990a7182b4812d3e5fd/stream.m3u8?api_key=8b6b2ddee71a4c2685625862dae21eb1
+#EXTINF:-1 tvg-id="974b55e70a17eac4ee855051766ff56a" tvg-chno="311" tvg-name="Lidia's Kitchen" tvg-logo="https://fintv.a20labs.com/Items/974b55e70a17eac4ee855051766ff56a/Images/Primary?api_key=8b6b2ddee71a4c2685625862dae21eb1" group-title="Live TV",Lidia's Kitchen
+https://fintv.a20labs.com/LiveTv/Channels/974b55e70a17eac4ee855051766ff56a/stream.m3u8?api_key=8b6b2ddee71a4c2685625862dae21eb1
+#EXTINF:-1 tvg-id="73d8665f0dd849f756ad5fef215489bc" tvg-chno="312" tvg-name="The Jamie Oliver Channel" tvg-logo="https://fintv.a20labs.com/Items/73d8665f0dd849f756ad5fef215489bc/Images/Primary?api_key=8b6b2ddee71a4c2685625862dae21eb1" group-title="Live TV",The Jamie Oliver Channel
+https://fintv.a20labs.com/LiveTv/Channels/73d8665f0dd849f756ad5fef215489bc/stream.m3u8?api_key=8b6b2ddee71a4c2685625862dae21eb1
+#EXTINF:-1 tvg-id="0e8d123bd29d0b0198bb8406a04939df" tvg-chno="313" tvg-name="BBC Food" tvg-logo="https://fintv.a20labs.com/Items/0e8d123bd29d0b0198bb8406a04939df/Images/Primary?api_key=8b6b2ddee71a4c2685625862dae21eb1" group-title="Live TV",BBC Food
+https://fintv.a20labs.com/LiveTv/Channels/0e8d123bd29d0b0198bb8406a04939df/stream.m3u8?api_key=8b6b2ddee71a4c2685625862dae21eb1
+#EXTINF:-1 tvg-id="59ba6df6de1854fdaf4a365b09b1337e" tvg-chno="314" tvg-name="Las Vegas" tvg-logo="https://fintv.a20labs.com/Items/59ba6df6de1854fdaf4a365b09b1337e/Images/Primary?api_key=8b6b2ddee71a4c2685625862dae21eb1" group-title="Live TV",Las Vegas
+https://fintv.a20labs.com/LiveTv/Channels/59ba6df6de1854fdaf4a365b09b1337e/stream.m3u8?api_key=8b6b2ddee71a4c2685625862dae21eb1
+#EXTINF:-1 tvg-id="db76eda17cac7b1c1c7eefed921d17f5" tvg-chno="315" tvg-name="Tastemade" tvg-logo="https://fintv.a20labs.com/Items/db76eda17cac7b1c1c7eefed921d17f5/Images/Primary?api_key=8b6b2ddee71a4c2685625862dae21eb1" group-title="Live TV",Tastemade
+https://fintv.a20labs.com/LiveTv/Channels/db76eda17cac7b1c1c7eefed921d17f5/stream.m3u8?api_key=8b6b2ddee71a4c2685625862dae21eb1
+#EXTINF:-1 tvg-id="5fdbecc9a5d6b78980af9c662db30791" tvg-chno="316" tvg-name="GustoTV" tvg-logo="https://fintv.a20labs.com/Items/5fdbecc9a5d6b78980af9c662db30791/Images/Primary?api_key=8b6b2ddee71a4c2685625862dae21eb1" group-title="Live TV",GustoTV
+https://fintv.a20labs.com/LiveTv/Channels/5fdbecc9a5d6b78980af9c662db30791/stream.m3u8?api_key=8b6b2ddee71a4c2685625862dae21eb1
+#EXTINF:-1 tvg-id="eb928d7e005dec8634f1b5a105ebc22c" tvg-chno="317" tvg-name="America's Test Kitchen" tvg-logo="https://fintv.a20labs.com/Items/eb928d7e005dec8634f1b5a105ebc22c/Images/Primary?api_key=8b6b2ddee71a4c2685625862dae21eb1" group-title="Live TV",America's Test Kitchen
+https://fintv.a20labs.com/LiveTv/Channels/eb928d7e005dec8634f1b5a105ebc22c/stream.m3u8?api_key=8b6b2ddee71a4c2685625862dae21eb1
+#EXTINF:-1 tvg-id="9ca1b6cd65786ff670288635a3ccecc9" tvg-chno="318" tvg-name="Hungry" tvg-logo="https://fintv.a20labs.com/Items/9ca1b6cd65786ff670288635a3ccecc9/Images/Primary?api_key=8b6b2ddee71a4c2685625862dae21eb1" group-title="Live TV",Hungry
+https://fintv.a20labs.com/LiveTv/Channels/9ca1b6cd65786ff670288635a3ccecc9/stream.m3u8?api_key=8b6b2ddee71a4c2685625862dae21eb1
+#EXTINF:-1 tvg-id="34db85eb82a20c9ec9f9f78218368646" tvg-chno="319" tvg-name="Fork & Flight" tvg-logo="https://fintv.a20labs.com/Items/34db85eb82a20c9ec9f9f78218368646/Images/Primary?api_key=8b6b2ddee71a4c2685625862dae21eb1" group-title="Live TV",Fork & Flight
+https://fintv.a20labs.com/LiveTv/Channels/34db85eb82a20c9ec9f9f78218368646/stream.m3u8?api_key=8b6b2ddee71a4c2685625862dae21eb1
+#EXTINF:-1 tvg-id="05be8ce06edb0a2ab849d08330b9bb1e" tvg-chno="320" tvg-name="Cook's Country Channel" tvg-logo="https://fintv.a20labs.com/Items/05be8ce06edb0a2ab849d08330b9bb1e/Images/Primary?api_key=8b6b2ddee71a4c2685625862dae21eb1" group-title="Live TV",Cook's Country Channel
+https://fintv.a20labs.com/LiveTv/Channels/05be8ce06edb0a2ab849d08330b9bb1e/stream.m3u8?api_key=8b6b2ddee71a4c2685625862dae21eb1
+#EXTINF:-1 tvg-id="4bab97d65986c864a046c80f8408ef36" tvg-chno="321" tvg-name="Sweet Escapes" tvg-logo="https://fintv.a20labs.com/Items/4bab97d65986c864a046c80f8408ef36/Images/Primary?api_key=8b6b2ddee71a4c2685625862dae21eb1" group-title="Live TV",Sweet Escapes
+https://fintv.a20labs.com/LiveTv/Channels/4bab97d65986c864a046c80f8408ef36/stream.m3u8?api_key=8b6b2ddee71a4c2685625862dae21eb1
+#EXTINF:-1 tvg-id="b48bb1417a994c8edc57fe04c4e69b7f" tvg-chno="322" tvg-name="Bizarre Foods with Andrew Zimmern" tvg-logo="https://fintv.a20labs.com/Items/b48bb1417a994c8edc57fe04c4e69b7f/Images/Primary?api_key=8b6b2ddee71a4c2685625862dae21eb1" group-title="Live TV",Bizarre Foods with Andrew Zimmern
+https://fintv.a20labs.com/LiveTv/Channels/b48bb1417a994c8edc57fe04c4e69b7f/stream.m3u8?api_key=8b6b2ddee71a4c2685625862dae21eb1
+#EXTINF:-1 tvg-id="82799d9e0124dfdec20e34a18b5d3a29" tvg-chno="323" tvg-name="Come Dine With Me" tvg-logo="https://fintv.a20labs.com/Items/82799d9e0124dfdec20e34a18b5d3a29/Images/Primary?api_key=8b6b2ddee71a4c2685625862dae21eb1" group-title="Live TV",Come Dine With Me
+https://fintv.a20labs.com/LiveTv/Channels/82799d9e0124dfdec20e34a18b5d3a29/stream.m3u8?api_key=8b6b2ddee71a4c2685625862dae21eb1
+#EXTINF:-1 tvg-id="7fe08db93d3f7f9976890cb719af7850" tvg-chno="324" tvg-name="The Emeril Lagasse Channel" tvg-logo="https://fintv.a20labs.com/Items/7fe08db93d3f7f9976890cb719af7850/Images/Primary?api_key=8b6b2ddee71a4c2685625862dae21eb1" group-title="Live TV",The Emeril Lagasse Channel
+https://fintv.a20labs.com/LiveTv/Channels/7fe08db93d3f7f9976890cb719af7850/stream.m3u8?api_key=8b6b2ddee71a4c2685625862dae21eb1
+#EXTINF:-1 tvg-id="ea3214d7fb4da6d619ffa149bdf0763e" tvg-chno="325" tvg-name="Xumo Free Travel & Lifestyle TV" tvg-logo="https://fintv.a20labs.com/Items/ea3214d7fb4da6d619ffa149bdf0763e/Images/Primary?api_key=8b6b2ddee71a4c2685625862dae21eb1" group-title="Live TV",Xumo Free Travel & Lifestyle TV
+https://fintv.a20labs.com/LiveTv/Channels/ea3214d7fb4da6d619ffa149bdf0763e/stream.m3u8?api_key=8b6b2ddee71a4c2685625862dae21eb1
+#EXTINF:-1 tvg-id="f7f7959d96b41bd7451e4bd35b9f63e6" tvg-chno="326" tvg-name="PBS Antiques Roadshow" tvg-logo="https://fintv.a20labs.com/Items/f7f7959d96b41bd7451e4bd35b9f63e6/Images/Primary?api_key=8b6b2ddee71a4c2685625862dae21eb1" group-title="Live TV",PBS Antiques Roadshow
+https://fintv.a20labs.com/LiveTv/Channels/f7f7959d96b41bd7451e4bd35b9f63e6/stream.m3u8?api_key=8b6b2ddee71a4c2685625862dae21eb1
+#EXTINF:-1 tvg-id="b6b889e37892d95b56db5790cf2ab3f6" tvg-chno="327" tvg-name="Tastemade Travel Channel" tvg-logo="https://fintv.a20labs.com/Items/b6b889e37892d95b56db5790cf2ab3f6/Images/Primary?api_key=8b6b2ddee71a4c2685625862dae21eb1" group-title="Live TV",Tastemade Travel Channel
+https://fintv.a20labs.com/LiveTv/Channels/b6b889e37892d95b56db5790cf2ab3f6/stream.m3u8?api_key=8b6b2ddee71a4c2685625862dae21eb1
+#EXTINF:-1 tvg-id="87d89e6e2738b46527bd180c412284ab" tvg-chno="328" tvg-name="HSN" tvg-logo="https://fintv.a20labs.com/Items/87d89e6e2738b46527bd180c412284ab/Images/Primary?api_key=8b6b2ddee71a4c2685625862dae21eb1" group-title="Live TV",HSN
+https://fintv.a20labs.com/LiveTv/Channels/87d89e6e2738b46527bd180c412284ab/stream.m3u8?api_key=8b6b2ddee71a4c2685625862dae21eb1
+#EXTINF:-1 tvg-id="bc8e211654c58824b24db753857509b2" tvg-chno="329" tvg-name="eScapes" tvg-logo="https://fintv.a20labs.com/Items/bc8e211654c58824b24db753857509b2/Images/Primary?api_key=8b6b2ddee71a4c2685625862dae21eb1" group-title="Live TV",eScapes
+https://fintv.a20labs.com/LiveTv/Channels/bc8e211654c58824b24db753857509b2/stream.m3u8?api_key=8b6b2ddee71a4c2685625862dae21eb1
+#EXTINF:-1 tvg-id="7f5bd9c07ea654fa0cf27b4b7dc1d55e" tvg-chno="330" tvg-name="QVC" tvg-logo="https://fintv.a20labs.com/Items/7f5bd9c07ea654fa0cf27b4b7dc1d55e/Images/Primary?api_key=8b6b2ddee71a4c2685625862dae21eb1" group-title="Live TV",QVC
+https://fintv.a20labs.com/LiveTv/Channels/7f5bd9c07ea654fa0cf27b4b7dc1d55e/stream.m3u8?api_key=8b6b2ddee71a4c2685625862dae21eb1
+#EXTINF:-1 tvg-id="d27a6fd7b1df6d75dec23ce887098d1a" tvg-chno="331" tvg-name="GoTraveler" tvg-logo="https://fintv.a20labs.com/Items/d27a6fd7b1df6d75dec23ce887098d1a/Images/Primary?api_key=8b6b2ddee71a4c2685625862dae21eb1" group-title="Live TV",GoTraveler
+https://fintv.a20labs.com/LiveTv/Channels/d27a6fd7b1df6d75dec23ce887098d1a/stream.m3u8?api_key=8b6b2ddee71a4c2685625862dae21eb1
+#EXTINF:-1 tvg-id="5b018ab1729031fbc878d1aa7b0d7f35" tvg-chno="332" tvg-name="ShopLC" tvg-logo="https://fintv.a20labs.com/Items/5b018ab1729031fbc878d1aa7b0d7f35/Images/Primary?api_key=8b6b2ddee71a4c2685625862dae21eb1" group-title="Live TV",ShopLC
+https://fintv.a20labs.com/LiveTv/Channels/5b018ab1729031fbc878d1aa7b0d7f35/stream.m3u8?api_key=8b6b2ddee71a4c2685625862dae21eb1
+#EXTINF:-1 tvg-id="2ca90a1811bd2198619037e3b6b95d1c" tvg-chno="333" tvg-name="JTV Jewelry Love" tvg-logo="https://fintv.a20labs.com/Items/2ca90a1811bd2198619037e3b6b95d1c/Images/Primary?api_key=8b6b2ddee71a4c2685625862dae21eb1" group-title="Live TV",JTV Jewelry Love
+https://fintv.a20labs.com/LiveTv/Channels/2ca90a1811bd2198619037e3b6b95d1c/stream.m3u8?api_key=8b6b2ddee71a4c2685625862dae21eb1
+#EXTINF:-1 tvg-id="387665403ffc9a2bc96da6a97c9950c2" tvg-chno="334" tvg-name="Antiques Road Trip" tvg-logo="https://fintv.a20labs.com/Items/387665403ffc9a2bc96da6a97c9950c2/Images/Primary?api_key=8b6b2ddee71a4c2685625862dae21eb1" group-title="Live TV",Antiques Road Trip
+https://fintv.a20labs.com/LiveTv/Channels/387665403ffc9a2bc96da6a97c9950c2/stream.m3u8?api_key=8b6b2ddee71a4c2685625862dae21eb1
+#EXTINF:-1 tvg-id="60c462b14f0ae3cbafe4b137a89a316f" tvg-chno="335" tvg-name="QVC2" tvg-logo="https://fintv.a20labs.com/Items/60c462b14f0ae3cbafe4b137a89a316f/Images/Primary?api_key=8b6b2ddee71a4c2685625862dae21eb1" group-title="Live TV",QVC2
+https://fintv.a20labs.com/LiveTv/Channels/60c462b14f0ae3cbafe4b137a89a316f/stream.m3u8?api_key=8b6b2ddee71a4c2685625862dae21eb1
+#EXTINF:-1 tvg-id="dfb6bd3204906390c536fad3257e57d3" tvg-chno="336" tvg-name="The Martha Stewart Channel" tvg-logo="https://fintv.a20labs.com/Items/dfb6bd3204906390c536fad3257e57d3/Images/Primary?api_key=8b6b2ddee71a4c2685625862dae21eb1" group-title="Live TV",The Martha Stewart Channel
+https://fintv.a20labs.com/LiveTv/Channels/dfb6bd3204906390c536fad3257e57d3/stream.m3u8?api_key=8b6b2ddee71a4c2685625862dae21eb1
+#EXTINF:-1 tvg-id="a4a23a5d0bca76209ea14eb29e5a7ce6" tvg-chno="337" tvg-name="Telemundo Al Día" tvg-logo="https://fintv.a20labs.com/Items/a4a23a5d0bca76209ea14eb29e5a7ce6/Images/Primary?api_key=8b6b2ddee71a4c2685625862dae21eb1" group-title="Live TV",Telemundo Al Día
+https://fintv.a20labs.com/LiveTv/Channels/a4a23a5d0bca76209ea14eb29e5a7ce6/stream.m3u8?api_key=8b6b2ddee71a4c2685625862dae21eb1
+#EXTINF:-1 tvg-id="1a7c224abad76969247832a90ccdd624" tvg-chno="338" tvg-name="Estrella News" tvg-logo="https://fintv.a20labs.com/Items/1a7c224abad76969247832a90ccdd624/Images/Primary?api_key=8b6b2ddee71a4c2685625862dae21eb1" group-title="Live TV",Estrella News
+https://fintv.a20labs.com/LiveTv/Channels/1a7c224abad76969247832a90ccdd624/stream.m3u8?api_key=8b6b2ddee71a4c2685625862dae21eb1
+#EXTINF:-1 tvg-id="1f7b8637e4e3e9200a04054986c815e8" tvg-chno="339" tvg-name="Telemundo Acción" tvg-logo="https://fintv.a20labs.com/Items/1f7b8637e4e3e9200a04054986c815e8/Images/Primary?api_key=8b6b2ddee71a4c2685625862dae21eb1" group-title="Live TV",Telemundo Acción
+https://fintv.a20labs.com/LiveTv/Channels/1f7b8637e4e3e9200a04054986c815e8/stream.m3u8?api_key=8b6b2ddee71a4c2685625862dae21eb1
+#EXTINF:-1 tvg-id="27ef4fca42697858944e8c8d2aeea01c" tvg-chno="340" tvg-name="Caso Cerrado" tvg-logo="https://fintv.a20labs.com/Items/27ef4fca42697858944e8c8d2aeea01c/Images/Primary?api_key=8b6b2ddee71a4c2685625862dae21eb1" group-title="Live TV",Caso Cerrado
+https://fintv.a20labs.com/LiveTv/Channels/27ef4fca42697858944e8c8d2aeea01c/stream.m3u8?api_key=8b6b2ddee71a4c2685625862dae21eb1
+#EXTINF:-1 tvg-id="de01feed089a71e58744051d882fcd9a" tvg-chno="341" tvg-name="Cine Romántico" tvg-logo="https://fintv.a20labs.com/Items/de01feed089a71e58744051d882fcd9a/Images/Primary?api_key=8b6b2ddee71a4c2685625862dae21eb1" group-title="Live TV",Cine Romántico
+https://fintv.a20labs.com/LiveTv/Channels/de01feed089a71e58744051d882fcd9a/stream.m3u8?api_key=8b6b2ddee71a4c2685625862dae21eb1
+#EXTINF:-1 tvg-id="1bd2fa29a36f8840042d3591113c1146" tvg-chno="342" tvg-name="Canela.TV Clasicos" tvg-logo="https://fintv.a20labs.com/Items/1bd2fa29a36f8840042d3591113c1146/Images/Primary?api_key=8b6b2ddee71a4c2685625862dae21eb1" group-title="Live TV",Canela.TV Clasicos
+https://fintv.a20labs.com/LiveTv/Channels/1bd2fa29a36f8840042d3591113c1146/stream.m3u8?api_key=8b6b2ddee71a4c2685625862dae21eb1
+#EXTINF:-1 tvg-id="aa4ec5e30d45d1fb274e7a40373ad0a5" tvg-chno="343" tvg-name="EstrellaTV" tvg-logo="https://fintv.a20labs.com/Items/aa4ec5e30d45d1fb274e7a40373ad0a5/Images/Primary?api_key=8b6b2ddee71a4c2685625862dae21eb1" group-title="Live TV",EstrellaTV
+https://fintv.a20labs.com/LiveTv/Channels/aa4ec5e30d45d1fb274e7a40373ad0a5/stream.m3u8?api_key=8b6b2ddee71a4c2685625862dae21eb1
+#EXTINF:-1 tvg-id="0d3f3fb21f700f19d21ccad7995f56c5" tvg-chno="344" tvg-name="AMERICATEVÉ" tvg-logo="https://fintv.a20labs.com/Items/0d3f3fb21f700f19d21ccad7995f56c5/Images/Primary?api_key=8b6b2ddee71a4c2685625862dae21eb1" group-title="Live TV",AMERICATEVÉ
+https://fintv.a20labs.com/LiveTv/Channels/0d3f3fb21f700f19d21ccad7995f56c5/stream.m3u8?api_key=8b6b2ddee71a4c2685625862dae21eb1
+#EXTINF:-1 tvg-id="c15dfe921b9de7347445cc893690c2e6" tvg-chno="345" tvg-name="FILMEX CLASICO" tvg-logo="https://fintv.a20labs.com/Items/c15dfe921b9de7347445cc893690c2e6/Images/Primary?api_key=8b6b2ddee71a4c2685625862dae21eb1" group-title="Live TV",FILMEX CLASICO
+https://fintv.a20labs.com/LiveTv/Channels/c15dfe921b9de7347445cc893690c2e6/stream.m3u8?api_key=8b6b2ddee71a4c2685625862dae21eb1
+#EXTINF:-1 tvg-id="5226d8df7202db3087cea4a7a3356fb5" tvg-chno="346" tvg-name="FILMEX" tvg-logo="https://fintv.a20labs.com/Items/5226d8df7202db3087cea4a7a3356fb5/Images/Primary?api_key=8b6b2ddee71a4c2685625862dae21eb1" group-title="Live TV",FILMEX
+https://fintv.a20labs.com/LiveTv/Channels/5226d8df7202db3087cea4a7a3356fb5/stream.m3u8?api_key=8b6b2ddee71a4c2685625862dae21eb1
+#EXTINF:-1 tvg-id="a200b44f77a91cd8f5e498539e3b30aa" tvg-chno="347" tvg-name="beIN SPORTS XTRA en Español" tvg-logo="https://fintv.a20labs.com/Items/a200b44f77a91cd8f5e498539e3b30aa/Images/Primary?api_key=8b6b2ddee71a4c2685625862dae21eb1" group-title="Live TV",beIN SPORTS XTRA en Español
+https://fintv.a20labs.com/LiveTv/Channels/a200b44f77a91cd8f5e498539e3b30aa/stream.m3u8?api_key=8b6b2ddee71a4c2685625862dae21eb1
+#EXTINF:-1 tvg-id="3edd743ac69fde33c19bf7290e6cac44" tvg-chno="348" tvg-name="Latino Vibes" tvg-logo="https://fintv.a20labs.com/Items/3edd743ac69fde33c19bf7290e6cac44/Images/Primary?api_key=8b6b2ddee71a4c2685625862dae21eb1" group-title="Live TV",Latino Vibes
+https://fintv.a20labs.com/LiveTv/Channels/3edd743ac69fde33c19bf7290e6cac44/stream.m3u8?api_key=8b6b2ddee71a4c2685625862dae21eb1
+#EXTINF:-1 tvg-id="e554b67b2ddf56faa53e7b869c704add" tvg-chno="349" tvg-name="Noticias Telemundo Ahora" tvg-logo="https://fintv.a20labs.com/Items/e554b67b2ddf56faa53e7b869c704add/Images/Primary?api_key=8b6b2ddee71a4c2685625862dae21eb1" group-title="Live TV",Noticias Telemundo Ahora
+https://fintv.a20labs.com/LiveTv/Channels/e554b67b2ddf56faa53e7b869c704add/stream.m3u8?api_key=8b6b2ddee71a4c2685625862dae21eb1
+#EXTINF:-1 tvg-id="6ce859351b041654434ab3aaa2c8f842" tvg-chno="350" tvg-name="Spectrum Noticias" tvg-logo="https://fintv.a20labs.com/Items/6ce859351b041654434ab3aaa2c8f842/Images/Primary?api_key=8b6b2ddee71a4c2685625862dae21eb1" group-title="Live TV",Spectrum Noticias
+https://fintv.a20labs.com/LiveTv/Channels/6ce859351b041654434ab3aaa2c8f842/stream.m3u8?api_key=8b6b2ddee71a4c2685625862dae21eb1
+#EXTINF:-1 tvg-id="cdd394693892ca94b1b84ae2535d0683" tvg-chno="351" tvg-name="LUCHA PLUS" tvg-logo="https://fintv.a20labs.com/Items/cdd394693892ca94b1b84ae2535d0683/Images/Primary?api_key=8b6b2ddee71a4c2685625862dae21eb1" group-title="Live TV",LUCHA PLUS
+https://fintv.a20labs.com/LiveTv/Channels/cdd394693892ca94b1b84ae2535d0683/stream.m3u8?api_key=8b6b2ddee71a4c2685625862dae21eb1
+#EXTINF:-1 tvg-id="86076ba5003da6a770b9a170bcc22b55" tvg-chno="352" tvg-name="Telemundo Deportes Ahora" tvg-logo="https://fintv.a20labs.com/Items/86076ba5003da6a770b9a170bcc22b55/Images/Primary?api_key=8b6b2ddee71a4c2685625862dae21eb1" group-title="Live TV",Telemundo Deportes Ahora
+https://fintv.a20labs.com/LiveTv/Channels/86076ba5003da6a770b9a170bcc22b55/stream.m3u8?api_key=8b6b2ddee71a4c2685625862dae21eb1
+#EXTINF:-1 tvg-id="5f21d105f4a66412de988728c0544c6a" tvg-chno="353" tvg-name="Xumo Free Reality TV" tvg-logo="https://fintv.a20labs.com/Items/5f21d105f4a66412de988728c0544c6a/Images/Primary?api_key=8b6b2ddee71a4c2685625862dae21eb1" group-title="Live TV",Xumo Free Reality TV
+https://fintv.a20labs.com/LiveTv/Channels/5f21d105f4a66412de988728c0544c6a/stream.m3u8?api_key=8b6b2ddee71a4c2685625862dae21eb1
+#EXTINF:-1 tvg-id="84a293c0b9f2c35bbdc4c905b132f834" tvg-chno="354" tvg-name="E! Keeping Up" tvg-logo="https://fintv.a20labs.com/Items/84a293c0b9f2c35bbdc4c905b132f834/Images/Primary?api_key=8b6b2ddee71a4c2685625862dae21eb1" group-title="Live TV",E! Keeping Up
+https://fintv.a20labs.com/LiveTv/Channels/84a293c0b9f2c35bbdc4c905b132f834/stream.m3u8?api_key=8b6b2ddee71a4c2685625862dae21eb1
+#EXTINF:-1 tvg-id="39ba6ddd489574cefb7d8bdfac3a4ef5" tvg-chno="355" tvg-name="Bad Girls Club" tvg-logo="https://fintv.a20labs.com/Items/39ba6ddd489574cefb7d8bdfac3a4ef5/Images/Primary?api_key=8b6b2ddee71a4c2685625862dae21eb1" group-title="Live TV",Bad Girls Club
+https://fintv.a20labs.com/LiveTv/Channels/39ba6ddd489574cefb7d8bdfac3a4ef5/stream.m3u8?api_key=8b6b2ddee71a4c2685625862dae21eb1
+#EXTINF:-1 tvg-id="78b38852fe4bbd63912390f63818e86f" tvg-chno="356" tvg-name="Bravo Vault" tvg-logo="https://fintv.a20labs.com/Items/78b38852fe4bbd63912390f63818e86f/Images/Primary?api_key=8b6b2ddee71a4c2685625862dae21eb1" group-title="Live TV",Bravo Vault
+https://fintv.a20labs.com/LiveTv/Channels/78b38852fe4bbd63912390f63818e86f/stream.m3u8?api_key=8b6b2ddee71a4c2685625862dae21eb1
+#EXTINF:-1 tvg-id="c21bb06f68d506e6074a6d4571350d8b" tvg-chno="357" tvg-name="Real Housewives Vault" tvg-logo="https://fintv.a20labs.com/Items/c21bb06f68d506e6074a6d4571350d8b/Images/Primary?api_key=8b6b2ddee71a4c2685625862dae21eb1" group-title="Live TV",Real Housewives Vault
+https://fintv.a20labs.com/LiveTv/Channels/c21bb06f68d506e6074a6d4571350d8b/stream.m3u8?api_key=8b6b2ddee71a4c2685625862dae21eb1
+#EXTINF:-1 tvg-id="bbdb01ee6998b6468820e2dd68891eea" tvg-chno="358" tvg-name="Cheaters" tvg-logo="https://fintv.a20labs.com/Items/bbdb01ee6998b6468820e2dd68891eea/Images/Primary?api_key=8b6b2ddee71a4c2685625862dae21eb1" group-title="Live TV",Cheaters
+https://fintv.a20labs.com/LiveTv/Channels/bbdb01ee6998b6468820e2dd68891eea/stream.m3u8?api_key=8b6b2ddee71a4c2685625862dae21eb1
+#EXTINF:-1 tvg-id="e063bcc7afb16fc6ea1babd26bf55af0" tvg-chno="359" tvg-name="Matched Married Meet by Lifetime" tvg-logo="https://fintv.a20labs.com/Items/e063bcc7afb16fc6ea1babd26bf55af0/Images/Primary?api_key=8b6b2ddee71a4c2685625862dae21eb1" group-title="Live TV",Matched Married Meet by Lifetime
+https://fintv.a20labs.com/LiveTv/Channels/e063bcc7afb16fc6ea1babd26bf55af0/stream.m3u8?api_key=8b6b2ddee71a4c2685625862dae21eb1
+#EXTINF:-1 tvg-id="bbe9ee27c969c388c930a908aa2fe48f" tvg-chno="360" tvg-name="Storage Wars by A&E" tvg-logo="https://fintv.a20labs.com/Items/bbe9ee27c969c388c930a908aa2fe48f/Images/Primary?api_key=8b6b2ddee71a4c2685625862dae21eb1" group-title="Live TV",Storage Wars by A&E
+https://fintv.a20labs.com/LiveTv/Channels/bbe9ee27c969c388c930a908aa2fe48f/stream.m3u8?api_key=8b6b2ddee71a4c2685625862dae21eb1
+#EXTINF:-1 tvg-id="627b677c766c1c85b818dd9a88637056" tvg-chno="361" tvg-name="Ice Road Truckers by History" tvg-logo="https://fintv.a20labs.com/Items/627b677c766c1c85b818dd9a88637056/Images/Primary?api_key=8b6b2ddee71a4c2685625862dae21eb1" group-title="Live TV",Ice Road Truckers by History
+https://fintv.a20labs.com/LiveTv/Channels/627b677c766c1c85b818dd9a88637056/stream.m3u8?api_key=8b6b2ddee71a4c2685625862dae21eb1
+#EXTINF:-1 tvg-id="362df0944e7a95540a69c4c4271d58b6" tvg-chno="362" tvg-name="Real Disaster Channel" tvg-logo="https://fintv.a20labs.com/Items/362df0944e7a95540a69c4c4271d58b6/Images/Primary?api_key=8b6b2ddee71a4c2685625862dae21eb1" group-title="Live TV",Real Disaster Channel
+https://fintv.a20labs.com/LiveTv/Channels/362df0944e7a95540a69c4c4271d58b6/stream.m3u8?api_key=8b6b2ddee71a4c2685625862dae21eb1
+#EXTINF:-1 tvg-id="bce71417c635f7fd207e1e8ce387925b" tvg-chno="363" tvg-name="Dog the Bounty Hunter" tvg-logo="https://fintv.a20labs.com/Items/bce71417c635f7fd207e1e8ce387925b/Images/Primary?api_key=8b6b2ddee71a4c2685625862dae21eb1" group-title="Live TV",Dog the Bounty Hunter
+https://fintv.a20labs.com/LiveTv/Channels/bce71417c635f7fd207e1e8ce387925b/stream.m3u8?api_key=8b6b2ddee71a4c2685625862dae21eb1
+#EXTINF:-1 tvg-id="51477c29607b2daf3a1be0f79a3dd1a0" tvg-chno="364" tvg-name="Backstage" tvg-logo="https://fintv.a20labs.com/Items/51477c29607b2daf3a1be0f79a3dd1a0/Images/Primary?api_key=8b6b2ddee71a4c2685625862dae21eb1" group-title="Live TV",Backstage
+https://fintv.a20labs.com/LiveTv/Channels/51477c29607b2daf3a1be0f79a3dd1a0/stream.m3u8?api_key=8b6b2ddee71a4c2685625862dae21eb1
+#EXTINF:-1 tvg-id="86ee28fda64cc9f692d948d2f87c4c09" tvg-chno="365" tvg-name="Dance Moms by Lifetime" tvg-logo="https://fintv.a20labs.com/Items/86ee28fda64cc9f692d948d2f87c4c09/Images/Primary?api_key=8b6b2ddee71a4c2685625862dae21eb1" group-title="Live TV",Dance Moms by Lifetime
+https://fintv.a20labs.com/LiveTv/Channels/86ee28fda64cc9f692d948d2f87c4c09/stream.m3u8?api_key=8b6b2ddee71a4c2685625862dae21eb1
+#EXTINF:-1 tvg-id="002297ab880d50feacd369ab6d6851b4" tvg-chno="366" tvg-name="All Weddings We TV" tvg-logo="https://fintv.a20labs.com/Items/002297ab880d50feacd369ab6d6851b4/Images/Primary?api_key=8b6b2ddee71a4c2685625862dae21eb1" group-title="Live TV",All Weddings We TV
+https://fintv.a20labs.com/LiveTv/Channels/002297ab880d50feacd369ab6d6851b4/stream.m3u8?api_key=8b6b2ddee71a4c2685625862dae21eb1
+#EXTINF:-1 tvg-id="861eaa24de09e76932022b5db6bfab12" tvg-chno="367" tvg-name="Hell's Kitchen" tvg-logo="https://fintv.a20labs.com/Items/861eaa24de09e76932022b5db6bfab12/Images/Primary?api_key=8b6b2ddee71a4c2685625862dae21eb1" group-title="Live TV",Hell's Kitchen
+https://fintv.a20labs.com/LiveTv/Channels/861eaa24de09e76932022b5db6bfab12/stream.m3u8?api_key=8b6b2ddee71a4c2685625862dae21eb1
+#EXTINF:-1 tvg-id="efaacf7c918dc382fa1449e056b8c340" tvg-chno="368" tvg-name="Untold Stories of the ER" tvg-logo="https://fintv.a20labs.com/Items/efaacf7c918dc382fa1449e056b8c340/Images/Primary?api_key=8b6b2ddee71a4c2685625862dae21eb1" group-title="Live TV",Untold Stories of the ER
+https://fintv.a20labs.com/LiveTv/Channels/efaacf7c918dc382fa1449e056b8c340/stream.m3u8?api_key=8b6b2ddee71a4c2685625862dae21eb1
+#EXTINF:-1 tvg-id="3f25cd0b5f653ed91c86e0f95d0b8dc1" tvg-chno="369" tvg-name="Rig TV" tvg-logo="https://fintv.a20labs.com/Items/3f25cd0b5f653ed91c86e0f95d0b8dc1/Images/Primary?api_key=8b6b2ddee71a4c2685625862dae21eb1" group-title="Live TV",Rig TV
+https://fintv.a20labs.com/LiveTv/Channels/3f25cd0b5f653ed91c86e0f95d0b8dc1/stream.m3u8?api_key=8b6b2ddee71a4c2685625862dae21eb1
+#EXTINF:-1 tvg-id="e30a27287d667b5e753586d58a3480eb" tvg-chno="370" tvg-name="All Reality We TV" tvg-logo="https://fintv.a20labs.com/Items/e30a27287d667b5e753586d58a3480eb/Images/Primary?api_key=8b6b2ddee71a4c2685625862dae21eb1" group-title="Live TV",All Reality We TV
+https://fintv.a20labs.com/LiveTv/Channels/e30a27287d667b5e753586d58a3480eb/stream.m3u8?api_key=8b6b2ddee71a4c2685625862dae21eb1
+#EXTINF:-1 tvg-id="361139efc63c01cd5a2f0ce0ef435a18" tvg-chno="371" tvg-name="The Osbournes" tvg-logo="https://fintv.a20labs.com/Items/361139efc63c01cd5a2f0ce0ef435a18/Images/Primary?api_key=8b6b2ddee71a4c2685625862dae21eb1" group-title="Live TV",The Osbournes
+https://fintv.a20labs.com/LiveTv/Channels/361139efc63c01cd5a2f0ce0ef435a18/stream.m3u8?api_key=8b6b2ddee71a4c2685625862dae21eb1
+#EXTINF:-1 tvg-id="5075887417ef687053f6137c3eb1c542" tvg-chno="372" tvg-name="Extreme Jobs" tvg-logo="https://fintv.a20labs.com/Items/5075887417ef687053f6137c3eb1c542/Images/Primary?api_key=8b6b2ddee71a4c2685625862dae21eb1" group-title="Live TV",Extreme Jobs
+https://fintv.a20labs.com/LiveTv/Channels/5075887417ef687053f6137c3eb1c542/stream.m3u8?api_key=8b6b2ddee71a4c2685625862dae21eb1
+#EXTINF:-1 tvg-id="2509ff8a2d7edf3e57e43a4e6ff62125" tvg-chno="373" tvg-name="World of Love Island" tvg-logo="https://fintv.a20labs.com/Items/2509ff8a2d7edf3e57e43a4e6ff62125/Images/Primary?api_key=8b6b2ddee71a4c2685625862dae21eb1" group-title="Live TV",World of Love Island
+https://fintv.a20labs.com/LiveTv/Channels/2509ff8a2d7edf3e57e43a4e6ff62125/stream.m3u8?api_key=8b6b2ddee71a4c2685625862dae21eb1
+#EXTINF:-1 tvg-id="061d82ac8c0b56509da3127cbcd756d4" tvg-chno="374" tvg-name="Say Yes to the Dress" tvg-logo="https://fintv.a20labs.com/Items/061d82ac8c0b56509da3127cbcd756d4/Images/Primary?api_key=8b6b2ddee71a4c2685625862dae21eb1" group-title="Live TV",Say Yes to the Dress
+https://fintv.a20labs.com/LiveTv/Channels/061d82ac8c0b56509da3127cbcd756d4/stream.m3u8?api_key=8b6b2ddee71a4c2685625862dae21eb1
+#EXTINF:-1 tvg-id="6c7374ed6f26961eb24453073d8c3e88" tvg-chno="375" tvg-name="Bachelor Nation" tvg-logo="https://fintv.a20labs.com/Items/6c7374ed6f26961eb24453073d8c3e88/Images/Primary?api_key=8b6b2ddee71a4c2685625862dae21eb1" group-title="Live TV",Bachelor Nation
+https://fintv.a20labs.com/LiveTv/Channels/6c7374ed6f26961eb24453073d8c3e88/stream.m3u8?api_key=8b6b2ddee71a4c2685625862dae21eb1
+#EXTINF:-1 tvg-id="f54caa9542668cf438b3e33aff5e3108" tvg-chno="376" tvg-name="MythBusters" tvg-logo="https://fintv.a20labs.com/Items/f54caa9542668cf438b3e33aff5e3108/Images/Primary?api_key=8b6b2ddee71a4c2685625862dae21eb1" group-title="Live TV",MythBusters
+https://fintv.a20labs.com/LiveTv/Channels/f54caa9542668cf438b3e33aff5e3108/stream.m3u8?api_key=8b6b2ddee71a4c2685625862dae21eb1
+#EXTINF:-1 tvg-id="d0a5b6bca8439c9d32f151fb0324e3cd" tvg-chno="377" tvg-name="Highway Thru Hell" tvg-logo="https://fintv.a20labs.com/Items/d0a5b6bca8439c9d32f151fb0324e3cd/Images/Primary?api_key=8b6b2ddee71a4c2685625862dae21eb1" group-title="Live TV",Highway Thru Hell
+https://fintv.a20labs.com/LiveTv/Channels/d0a5b6bca8439c9d32f151fb0324e3cd/stream.m3u8?api_key=8b6b2ddee71a4c2685625862dae21eb1
+#EXTINF:-1 tvg-id="fef00c1b336bb1b1b4cf7d5c208a1868" tvg-chno="378" tvg-name="Family Affair Channel" tvg-logo="https://fintv.a20labs.com/Items/fef00c1b336bb1b1b4cf7d5c208a1868/Images/Primary?api_key=8b6b2ddee71a4c2685625862dae21eb1" group-title="Live TV",Family Affair Channel
+https://fintv.a20labs.com/LiveTv/Channels/fef00c1b336bb1b1b4cf7d5c208a1868/stream.m3u8?api_key=8b6b2ddee71a4c2685625862dae21eb1
+#EXTINF:-1 tvg-id="39d99a6bc26f326ef668200d454c3403" tvg-chno="379" tvg-name="Lassie" tvg-logo="https://fintv.a20labs.com/Items/39d99a6bc26f326ef668200d454c3403/Images/Primary?api_key=8b6b2ddee71a4c2685625862dae21eb1" group-title="Live TV",Lassie
+https://fintv.a20labs.com/LiveTv/Channels/39d99a6bc26f326ef668200d454c3403/stream.m3u8?api_key=8b6b2ddee71a4c2685625862dae21eb1
+#EXTINF:-1 tvg-id="db465321ad26384009fe390e06169177" tvg-chno="380" tvg-name="Johnny Carson TV" tvg-logo="https://fintv.a20labs.com/Items/db465321ad26384009fe390e06169177/Images/Primary?api_key=8b6b2ddee71a4c2685625862dae21eb1" group-title="Live TV",Johnny Carson TV
+https://fintv.a20labs.com/LiveTv/Channels/db465321ad26384009fe390e06169177/stream.m3u8?api_key=8b6b2ddee71a4c2685625862dae21eb1
+#EXTINF:-1 tvg-id="b7e76374cc138e09048f69f36638af17" tvg-chno="381" tvg-name="RiffTrax" tvg-logo="https://fintv.a20labs.com/Items/b7e76374cc138e09048f69f36638af17/Images/Primary?api_key=8b6b2ddee71a4c2685625862dae21eb1" group-title="Live TV",RiffTrax
+https://fintv.a20labs.com/LiveTv/Channels/b7e76374cc138e09048f69f36638af17/stream.m3u8?api_key=8b6b2ddee71a4c2685625862dae21eb1
+#EXTINF:-1 tvg-id="f15d05ff7ca4fdddbf9045d25f7d68a1" tvg-chno="382" tvg-name="Leave It to Beaver" tvg-logo="https://fintv.a20labs.com/Items/f15d05ff7ca4fdddbf9045d25f7d68a1/Images/Primary?api_key=8b6b2ddee71a4c2685625862dae21eb1" group-title="Live TV",Leave It to Beaver
+https://fintv.a20labs.com/LiveTv/Channels/f15d05ff7ca4fdddbf9045d25f7d68a1/stream.m3u8?api_key=8b6b2ddee71a4c2685625862dae21eb1
+#EXTINF:-1 tvg-id="1cc3270f90836ab992f3a102f68fa39b" tvg-chno="383" tvg-name="The Carol Burnett Show" tvg-logo="https://fintv.a20labs.com/Items/1cc3270f90836ab992f3a102f68fa39b/Images/Primary?api_key=8b6b2ddee71a4c2685625862dae21eb1" group-title="Live TV",The Carol Burnett Show
+https://fintv.a20labs.com/LiveTv/Channels/1cc3270f90836ab992f3a102f68fa39b/stream.m3u8?api_key=8b6b2ddee71a4c2685625862dae21eb1
+#EXTINF:-1 tvg-id="89479fc6b068619906ceb8f2167c493f" tvg-chno="384" tvg-name="Combat War Channel" tvg-logo="https://fintv.a20labs.com/Items/89479fc6b068619906ceb8f2167c493f/Images/Primary?api_key=8b6b2ddee71a4c2685625862dae21eb1" group-title="Live TV",Combat War Channel
+https://fintv.a20labs.com/LiveTv/Channels/89479fc6b068619906ceb8f2167c493f/stream.m3u8?api_key=8b6b2ddee71a4c2685625862dae21eb1
+#EXTINF:-1 tvg-id="79c75caa615e37e463e57526c087f9a8" tvg-chno="385" tvg-name="Cosmic Frontiers" tvg-logo="https://fintv.a20labs.com/Items/79c75caa615e37e463e57526c087f9a8/Images/Primary?api_key=8b6b2ddee71a4c2685625862dae21eb1" group-title="Live TV",Cosmic Frontiers
+https://fintv.a20labs.com/LiveTv/Channels/79c75caa615e37e463e57526c087f9a8/stream.m3u8?api_key=8b6b2ddee71a4c2685625862dae21eb1
+#EXTINF:-1 tvg-id="6034dd9eae170267bdb078c910dccde7" tvg-chno="386" tvg-name="True History Channel" tvg-logo="https://fintv.a20labs.com/Items/6034dd9eae170267bdb078c910dccde7/Images/Primary?api_key=8b6b2ddee71a4c2685625862dae21eb1" group-title="Live TV",True History Channel
+https://fintv.a20labs.com/LiveTv/Channels/6034dd9eae170267bdb078c910dccde7/stream.m3u8?api_key=8b6b2ddee71a4c2685625862dae21eb1
+#EXTINF:-1 tvg-id="24a29e52ef8350045c9a8d6c442e0618" tvg-chno="387" tvg-name="Curiosity Now" tvg-logo="https://fintv.a20labs.com/Items/24a29e52ef8350045c9a8d6c442e0618/Images/Primary?api_key=8b6b2ddee71a4c2685625862dae21eb1" group-title="Live TV",Curiosity Now
+https://fintv.a20labs.com/LiveTv/Channels/24a29e52ef8350045c9a8d6c442e0618/stream.m3u8?api_key=8b6b2ddee71a4c2685625862dae21eb1
+#EXTINF:-1 tvg-id="cf3f583d8cfe83e85594accca66b3e12" tvg-chno="388" tvg-name="CNN Originals" tvg-logo="https://fintv.a20labs.com/Items/cf3f583d8cfe83e85594accca66b3e12/Images/Primary?api_key=8b6b2ddee71a4c2685625862dae21eb1" group-title="Live TV",CNN Originals
+https://fintv.a20labs.com/LiveTv/Channels/cf3f583d8cfe83e85594accca66b3e12/stream.m3u8?api_key=8b6b2ddee71a4c2685625862dae21eb1
+#EXTINF:-1 tvg-id="f9c059e578f24d5b117d2cd041c1387d" tvg-chno="389" tvg-name="How To" tvg-logo="https://fintv.a20labs.com/Items/f9c059e578f24d5b117d2cd041c1387d/Images/Primary?api_key=8b6b2ddee71a4c2685625862dae21eb1" group-title="Live TV",How To
+https://fintv.a20labs.com/LiveTv/Channels/f9c059e578f24d5b117d2cd041c1387d/stream.m3u8?api_key=8b6b2ddee71a4c2685625862dae21eb1
+#EXTINF:-1 tvg-id="5ef67e4d95661346d04128693fbe6da0" tvg-chno="390" tvg-name="Declassified" tvg-logo="https://fintv.a20labs.com/Items/5ef67e4d95661346d04128693fbe6da0/Images/Primary?api_key=8b6b2ddee71a4c2685625862dae21eb1" group-title="Live TV",Declassified
+https://fintv.a20labs.com/LiveTv/Channels/5ef67e4d95661346d04128693fbe6da0/stream.m3u8?api_key=8b6b2ddee71a4c2685625862dae21eb1
+#EXTINF:-1 tvg-id="aae7c204587bc1cf8aaf20eecf165eef" tvg-chno="391" tvg-name="Modern Marvels by History" tvg-logo="https://fintv.a20labs.com/Items/aae7c204587bc1cf8aaf20eecf165eef/Images/Primary?api_key=8b6b2ddee71a4c2685625862dae21eb1" group-title="Live TV",Modern Marvels by History
+https://fintv.a20labs.com/LiveTv/Channels/aae7c204587bc1cf8aaf20eecf165eef/stream.m3u8?api_key=8b6b2ddee71a4c2685625862dae21eb1
+#EXTINF:-1 tvg-id="5c234cc7c7fb723cc03d1ecec654a5b1" tvg-chno="392" tvg-name="Dove" tvg-logo="https://fintv.a20labs.com/Items/5c234cc7c7fb723cc03d1ecec654a5b1/Images/Primary?api_key=8b6b2ddee71a4c2685625862dae21eb1" group-title="Live TV",Dove
+https://fintv.a20labs.com/LiveTv/Channels/5c234cc7c7fb723cc03d1ecec654a5b1/stream.m3u8?api_key=8b6b2ddee71a4c2685625862dae21eb1
+#EXTINF:-1 tvg-id="9726939d7d1bbc8529480e2b48f91c4c" tvg-chno="393" tvg-name="FAITHOPE" tvg-logo="https://fintv.a20labs.com/Items/9726939d7d1bbc8529480e2b48f91c4c/Images/Primary?api_key=8b6b2ddee71a4c2685625862dae21eb1" group-title="Live TV",FAITHOPE
+https://fintv.a20labs.com/LiveTv/Channels/9726939d7d1bbc8529480e2b48f91c4c/stream.m3u8?api_key=8b6b2ddee71a4c2685625862dae21eb1
+#EXTINF:-1 tvg-id="d8fcff33894cbafb21ea6e9bee72b8e8" tvg-chno="394" tvg-name="STELLAR" tvg-logo="https://fintv.a20labs.com/Items/d8fcff33894cbafb21ea6e9bee72b8e8/Images/Primary?api_key=8b6b2ddee71a4c2685625862dae21eb1" group-title="Live TV",STELLAR
+https://fintv.a20labs.com/LiveTv/Channels/d8fcff33894cbafb21ea6e9bee72b8e8/stream.m3u8?api_key=8b6b2ddee71a4c2685625862dae21eb1
+#EXTINF:-1 tvg-id="c43adcb5c95a31fccc5b3cdd8ccd11ad" tvg-chno="395" tvg-name="Trinity Broadcasting Network" tvg-logo="https://fintv.a20labs.com/Items/c43adcb5c95a31fccc5b3cdd8ccd11ad/Images/Primary?api_key=8b6b2ddee71a4c2685625862dae21eb1" group-title="Live TV",Trinity Broadcasting Network
+https://fintv.a20labs.com/LiveTv/Channels/c43adcb5c95a31fccc5b3cdd8ccd11ad/stream.m3u8?api_key=8b6b2ddee71a4c2685625862dae21eb1
+#EXTINF:-1 tvg-id="339cf7d4071a3d556f6e0877887fa75e" tvg-chno="396" tvg-name="JLTV" tvg-logo="https://fintv.a20labs.com/Items/339cf7d4071a3d556f6e0877887fa75e/Images/Primary?api_key=8b6b2ddee71a4c2685625862dae21eb1" group-title="Live TV",JLTV
+https://fintv.a20labs.com/LiveTv/Channels/339cf7d4071a3d556f6e0877887fa75e/stream.m3u8?api_key=8b6b2ddee71a4c2685625862dae21eb1
+#EXTINF:-1 tvg-id="330877f6a6b902d327666175dc6121c5" tvg-chno="397" tvg-name="Joel Osteen Network" tvg-logo="https://fintv.a20labs.com/Items/330877f6a6b902d327666175dc6121c5/Images/Primary?api_key=8b6b2ddee71a4c2685625862dae21eb1" group-title="Live TV",Joel Osteen Network
+https://fintv.a20labs.com/LiveTv/Channels/330877f6a6b902d327666175dc6121c5/stream.m3u8?api_key=8b6b2ddee71a4c2685625862dae21eb1
+#EXTINF:-1 tvg-id="d97f1ce87e090b466f5faefb6f49de39" tvg-chno="398" tvg-name="Highway to Heaven" tvg-logo="https://fintv.a20labs.com/Items/d97f1ce87e090b466f5faefb6f49de39/Images/Primary?api_key=8b6b2ddee71a4c2685625862dae21eb1" group-title="Live TV",Highway to Heaven
+https://fintv.a20labs.com/LiveTv/Channels/d97f1ce87e090b466f5faefb6f49de39/stream.m3u8?api_key=8b6b2ddee71a4c2685625862dae21eb1
+#EXTINF:-1 tvg-id="14220c62f76b3006a6877d4ec1f2f363" tvg-chno="399" tvg-name="Pure Flix TV" tvg-logo="https://fintv.a20labs.com/Items/14220c62f76b3006a6877d4ec1f2f363/Images/Primary?api_key=8b6b2ddee71a4c2685625862dae21eb1" group-title="Live TV",Pure Flix TV
+https://fintv.a20labs.com/LiveTv/Channels/14220c62f76b3006a6877d4ec1f2f363/stream.m3u8?api_key=8b6b2ddee71a4c2685625862dae21eb1
+#EXTINF:-1 tvg-id="bc9f2cf3f173acea65486b9118e865f5" tvg-chno="400" tvg-name="Impact Gospel" tvg-logo="https://fintv.a20labs.com/Items/bc9f2cf3f173acea65486b9118e865f5/Images/Primary?api_key=8b6b2ddee71a4c2685625862dae21eb1" group-title="Live TV",Impact Gospel
+https://fintv.a20labs.com/LiveTv/Channels/bc9f2cf3f173acea65486b9118e865f5/stream.m3u8?api_key=8b6b2ddee71a4c2685625862dae21eb1
+#EXTINF:-1 tvg-id="42e50e4f1f6eece36804e90621428dad" tvg-chno="401" tvg-name="In Touch +" tvg-logo="https://fintv.a20labs.com/Items/42e50e4f1f6eece36804e90621428dad/Images/Primary?api_key=8b6b2ddee71a4c2685625862dae21eb1" group-title="Live TV",In Touch +
+https://fintv.a20labs.com/LiveTv/Channels/42e50e4f1f6eece36804e90621428dad/stream.m3u8?api_key=8b6b2ddee71a4c2685625862dae21eb1
+#EXTINF:-1 tvg-id="e8b5c1dd173cc52987e8316862931e8b" tvg-chno="402" tvg-name="Xumo Free Kids TV" tvg-logo="https://fintv.a20labs.com/Items/e8b5c1dd173cc52987e8316862931e8b/Images/Primary?api_key=8b6b2ddee71a4c2685625862dae21eb1" group-title="Live TV",Xumo Free Kids TV
+https://fintv.a20labs.com/LiveTv/Channels/e8b5c1dd173cc52987e8316862931e8b/stream.m3u8?api_key=8b6b2ddee71a4c2685625862dae21eb1
+#EXTINF:-1 tvg-id="78046b05a1602cec0597bf20cf36ddc1" tvg-chno="403" tvg-name="Baby Shark TV" tvg-logo="https://fintv.a20labs.com/Items/78046b05a1602cec0597bf20cf36ddc1/Images/Primary?api_key=8b6b2ddee71a4c2685625862dae21eb1" group-title="Live TV",Baby Shark TV
+https://fintv.a20labs.com/LiveTv/Channels/78046b05a1602cec0597bf20cf36ddc1/stream.m3u8?api_key=8b6b2ddee71a4c2685625862dae21eb1
+#EXTINF:-1 tvg-id="89a33bc17bbc4a53439c269899ce51ea" tvg-chno="404" tvg-name="Ninja Kidz TV" tvg-logo="https://fintv.a20labs.com/Items/89a33bc17bbc4a53439c269899ce51ea/Images/Primary?api_key=8b6b2ddee71a4c2685625862dae21eb1" group-title="Live TV",Ninja Kidz TV
+https://fintv.a20labs.com/LiveTv/Channels/89a33bc17bbc4a53439c269899ce51ea/stream.m3u8?api_key=8b6b2ddee71a4c2685625862dae21eb1
+#EXTINF:-1 tvg-id="a54577235da4588d4474093acb16c318" tvg-chno="405" tvg-name="Barney and Friends" tvg-logo="https://fintv.a20labs.com/Items/a54577235da4588d4474093acb16c318/Images/Primary?api_key=8b6b2ddee71a4c2685625862dae21eb1" group-title="Live TV",Barney and Friends
+https://fintv.a20labs.com/LiveTv/Channels/a54577235da4588d4474093acb16c318/stream.m3u8?api_key=8b6b2ddee71a4c2685625862dae21eb1
+#EXTINF:-1 tvg-id="f85983f4d07236b8e10d0b36cd436813" tvg-chno="406" tvg-name="All Babies Channel" tvg-logo="https://fintv.a20labs.com/Items/f85983f4d07236b8e10d0b36cd436813/Images/Primary?api_key=8b6b2ddee71a4c2685625862dae21eb1" group-title="Live TV",All Babies Channel
+https://fintv.a20labs.com/LiveTv/Channels/f85983f4d07236b8e10d0b36cd436813/stream.m3u8?api_key=8b6b2ddee71a4c2685625862dae21eb1
+#EXTINF:-1 tvg-id="b878b186f0fc53348ee486825086c039" tvg-chno="407" tvg-name="Toon Goggles" tvg-logo="https://fintv.a20labs.com/Items/b878b186f0fc53348ee486825086c039/Images/Primary?api_key=8b6b2ddee71a4c2685625862dae21eb1" group-title="Live TV",Toon Goggles
+https://fintv.a20labs.com/LiveTv/Channels/b878b186f0fc53348ee486825086c039/stream.m3u8?api_key=8b6b2ddee71a4c2685625862dae21eb1
+#EXTINF:-1 tvg-id="36412fe5f1a4dec638f3e48d7c273942" tvg-chno="408" tvg-name="Rainbow Rangers" tvg-logo="https://fintv.a20labs.com/Items/36412fe5f1a4dec638f3e48d7c273942/Images/Primary?api_key=8b6b2ddee71a4c2685625862dae21eb1" group-title="Live TV",Rainbow Rangers
+https://fintv.a20labs.com/LiveTv/Channels/36412fe5f1a4dec638f3e48d7c273942/stream.m3u8?api_key=8b6b2ddee71a4c2685625862dae21eb1
+#EXTINF:-1 tvg-id="625ce37edbba3b40333db1b4731f270c" tvg-chno="409" tvg-name="Teletubbies" tvg-logo="https://fintv.a20labs.com/Items/625ce37edbba3b40333db1b4731f270c/Images/Primary?api_key=8b6b2ddee71a4c2685625862dae21eb1" group-title="Live TV",Teletubbies
+https://fintv.a20labs.com/LiveTv/Channels/625ce37edbba3b40333db1b4731f270c/stream.m3u8?api_key=8b6b2ddee71a4c2685625862dae21eb1
+#EXTINF:-1 tvg-id="6a63f46b81a829bd26cb2550b8e4e347" tvg-chno="410" tvg-name="Sensical Jr." tvg-logo="https://fintv.a20labs.com/Items/6a63f46b81a829bd26cb2550b8e4e347/Images/Primary?api_key=8b6b2ddee71a4c2685625862dae21eb1" group-title="Live TV",Sensical Jr.
+https://fintv.a20labs.com/LiveTv/Channels/6a63f46b81a829bd26cb2550b8e4e347/stream.m3u8?api_key=8b6b2ddee71a4c2685625862dae21eb1
+#EXTINF:-1 tvg-id="ef2176574e6fee1f769cf7ac857782e6" tvg-chno="411" tvg-name="Shaun the Sheep & Friends" tvg-logo="https://fintv.a20labs.com/Items/ef2176574e6fee1f769cf7ac857782e6/Images/Primary?api_key=8b6b2ddee71a4c2685625862dae21eb1" group-title="Live TV",Shaun the Sheep & Friends
+https://fintv.a20labs.com/LiveTv/Channels/ef2176574e6fee1f769cf7ac857782e6/stream.m3u8?api_key=8b6b2ddee71a4c2685625862dae21eb1
+#EXTINF:-1 tvg-id="6b2eab674c403a4bae8b2f8352ab9e7d" tvg-chno="412" tvg-name="OK Gamer" tvg-logo="https://fintv.a20labs.com/Items/6b2eab674c403a4bae8b2f8352ab9e7d/Images/Primary?api_key=8b6b2ddee71a4c2685625862dae21eb1" group-title="Live TV",OK Gamer
+https://fintv.a20labs.com/LiveTv/Channels/6b2eab674c403a4bae8b2f8352ab9e7d/stream.m3u8?api_key=8b6b2ddee71a4c2685625862dae21eb1
+#EXTINF:-1 tvg-id="335eab33e7dbc2124f589ee3767dea01" tvg-chno="413" tvg-name="Power Rangers" tvg-logo="https://fintv.a20labs.com/Items/335eab33e7dbc2124f589ee3767dea01/Images/Primary?api_key=8b6b2ddee71a4c2685625862dae21eb1" group-title="Live TV",Power Rangers
+https://fintv.a20labs.com/LiveTv/Channels/335eab33e7dbc2124f589ee3767dea01/stream.m3u8?api_key=8b6b2ddee71a4c2685625862dae21eb1
+#EXTINF:-1 tvg-id="48a540b5cfcf7c02c202547bac318b37" tvg-chno="414" tvg-name="My Little Pony" tvg-logo="https://fintv.a20labs.com/Items/48a540b5cfcf7c02c202547bac318b37/Images/Primary?api_key=8b6b2ddee71a4c2685625862dae21eb1" group-title="Live TV",My Little Pony
+https://fintv.a20labs.com/LiveTv/Channels/48a540b5cfcf7c02c202547bac318b37/stream.m3u8?api_key=8b6b2ddee71a4c2685625862dae21eb1
+#EXTINF:-1 tvg-id="66532f2a5e9b226a027bf5ef071949e4" tvg-chno="415" tvg-name="Transformers" tvg-logo="https://fintv.a20labs.com/Items/66532f2a5e9b226a027bf5ef071949e4/Images/Primary?api_key=8b6b2ddee71a4c2685625862dae21eb1" group-title="Live TV",Transformers
+https://fintv.a20labs.com/LiveTv/Channels/66532f2a5e9b226a027bf5ef071949e4/stream.m3u8?api_key=8b6b2ddee71a4c2685625862dae21eb1
+#EXTINF:-1 tvg-id="316e4f43f047c2592fa604be591e83da" tvg-chno="416" tvg-name="Vice Entertainment" tvg-logo="https://fintv.a20labs.com/Items/316e4f43f047c2592fa604be591e83da/Images/Primary?api_key=8b6b2ddee71a4c2685625862dae21eb1" group-title="Live TV",Vice Entertainment
+https://fintv.a20labs.com/LiveTv/Channels/316e4f43f047c2592fa604be591e83da/stream.m3u8?api_key=8b6b2ddee71a4c2685625862dae21eb1
+#EXTINF:-1 tvg-id="6bf57608ceef8a69f1265c989bc2d7cf" tvg-chno="417" tvg-name="Revry" tvg-logo="https://fintv.a20labs.com/Items/6bf57608ceef8a69f1265c989bc2d7cf/Images/Primary?api_key=8b6b2ddee71a4c2685625862dae21eb1" group-title="Live TV",Revry
+https://fintv.a20labs.com/LiveTv/Channels/6bf57608ceef8a69f1265c989bc2d7cf/stream.m3u8?api_key=8b6b2ddee71a4c2685625862dae21eb1
+#EXTINF:-1 tvg-id="2e645d0ebb3309cdc1d335b81cb24e0e" tvg-chno="418" tvg-name="ET" tvg-logo="https://fintv.a20labs.com/Items/2e645d0ebb3309cdc1d335b81cb24e0e/Images/Primary?api_key=8b6b2ddee71a4c2685625862dae21eb1" group-title="Live TV",ET
+https://fintv.a20labs.com/LiveTv/Channels/2e645d0ebb3309cdc1d335b81cb24e0e/stream.m3u8?api_key=8b6b2ddee71a4c2685625862dae21eb1
+#EXTINF:-1 tvg-id="d5e374d86e41718f4c864964a6de318c" tvg-chno="419" tvg-name="OUTtv Proud" tvg-logo="https://fintv.a20labs.com/Items/d5e374d86e41718f4c864964a6de318c/Images/Primary?api_key=8b6b2ddee71a4c2685625862dae21eb1" group-title="Live TV",OUTtv Proud
+https://fintv.a20labs.com/LiveTv/Channels/d5e374d86e41718f4c864964a6de318c/stream.m3u8?api_key=8b6b2ddee71a4c2685625862dae21eb1
+#EXTINF:-1 tvg-id="46482644965fa3748fd2032cadc25a2d" tvg-chno="420" tvg-name="TV One Stars & Stories" tvg-logo="https://fintv.a20labs.com/Items/46482644965fa3748fd2032cadc25a2d/Images/Primary?api_key=8b6b2ddee71a4c2685625862dae21eb1" group-title="Live TV",TV One Stars & Stories
+https://fintv.a20labs.com/LiveTv/Channels/46482644965fa3748fd2032cadc25a2d/stream.m3u8?api_key=8b6b2ddee71a4c2685625862dae21eb1
+#EXTINF:-1 tvg-id="c898fb9a48ba5078cea9e559e8f8656a" tvg-chno="421" tvg-name="The Graham Norton Show" tvg-logo="https://fintv.a20labs.com/Items/c898fb9a48ba5078cea9e559e8f8656a/Images/Primary?api_key=8b6b2ddee71a4c2685625862dae21eb1" group-title="Live TV",The Graham Norton Show
+https://fintv.a20labs.com/LiveTv/Channels/c898fb9a48ba5078cea9e559e8f8656a/stream.m3u8?api_key=8b6b2ddee71a4c2685625862dae21eb1
+#EXTINF:-1 tvg-id="db4038c1339a5c73f8bfd0acd2a07e93" tvg-chno="422" tvg-name="Wendy Williams" tvg-logo="https://fintv.a20labs.com/Items/db4038c1339a5c73f8bfd0acd2a07e93/Images/Primary?api_key=8b6b2ddee71a4c2685625862dae21eb1" group-title="Live TV",Wendy Williams
+https://fintv.a20labs.com/LiveTv/Channels/db4038c1339a5c73f8bfd0acd2a07e93/stream.m3u8?api_key=8b6b2ddee71a4c2685625862dae21eb1
+#EXTINF:-1 tvg-id="402046c24b7e3404d2ca7e48e1155807" tvg-chno="423" tvg-name="The Ellen Channel" tvg-logo="https://fintv.a20labs.com/Items/402046c24b7e3404d2ca7e48e1155807/Images/Primary?api_key=8b6b2ddee71a4c2685625862dae21eb1" group-title="Live TV",The Ellen Channel
+https://fintv.a20labs.com/LiveTv/Channels/402046c24b7e3404d2ca7e48e1155807/stream.m3u8?api_key=8b6b2ddee71a4c2685625862dae21eb1
+#EXTINF:-1 tvg-id="7c67df2ba3011867dbd9ed37e413f59d" tvg-chno="424" tvg-name="Dr. Phil" tvg-logo="https://fintv.a20labs.com/Items/7c67df2ba3011867dbd9ed37e413f59d/Images/Primary?api_key=8b6b2ddee71a4c2685625862dae21eb1" group-title="Live TV",Dr. Phil
+https://fintv.a20labs.com/LiveTv/Channels/7c67df2ba3011867dbd9ed37e413f59d/stream.m3u8?api_key=8b6b2ddee71a4c2685625862dae21eb1
+#EXTINF:-1 tvg-id="c25bae08275ddcfff84b2c5b423d1be3" tvg-chno="425" tvg-name="Divorce Court" tvg-logo="https://fintv.a20labs.com/Items/c25bae08275ddcfff84b2c5b423d1be3/Images/Primary?api_key=8b6b2ddee71a4c2685625862dae21eb1" group-title="Live TV",Divorce Court
+https://fintv.a20labs.com/LiveTv/Channels/c25bae08275ddcfff84b2c5b423d1be3/stream.m3u8?api_key=8b6b2ddee71a4c2685625862dae21eb1
+#EXTINF:-1 tvg-id="9e6654ce2ba123b5f7726d4cf23c22e0" tvg-chno="426" tvg-name="Nosey" tvg-logo="https://fintv.a20labs.com/Items/9e6654ce2ba123b5f7726d4cf23c22e0/Images/Primary?api_key=8b6b2ddee71a4c2685625862dae21eb1" group-title="Live TV",Nosey
+https://fintv.a20labs.com/LiveTv/Channels/9e6654ce2ba123b5f7726d4cf23c22e0/stream.m3u8?api_key=8b6b2ddee71a4c2685625862dae21eb1
+#EXTINF:-1 tvg-id="40c67c75412cf77c84bda4a796b4e6cf" tvg-chno="427" tvg-name="Confess by Nosey" tvg-logo="https://fintv.a20labs.com/Items/40c67c75412cf77c84bda4a796b4e6cf/Images/Primary?api_key=8b6b2ddee71a4c2685625862dae21eb1" group-title="Live TV",Confess by Nosey
+https://fintv.a20labs.com/LiveTv/Channels/40c67c75412cf77c84bda4a796b4e6cf/stream.m3u8?api_key=8b6b2ddee71a4c2685625862dae21eb1
+#EXTINF:-1 tvg-id="3f30188936a99da29bbd2a6b102c08c2" tvg-chno="428" tvg-name="The Bold and the Beautiful" tvg-logo="https://fintv.a20labs.com/Items/3f30188936a99da29bbd2a6b102c08c2/Images/Primary?api_key=8b6b2ddee71a4c2685625862dae21eb1" group-title="Live TV",The Bold and the Beautiful
+https://fintv.a20labs.com/LiveTv/Channels/3f30188936a99da29bbd2a6b102c08c2/stream.m3u8?api_key=8b6b2ddee71a4c2685625862dae21eb1
+#EXTINF:-1 tvg-id="1234fccc1ddd0c95f12bd51e7f8e3fbe" tvg-chno="429" tvg-name="iHeart90s" tvg-logo="https://fintv.a20labs.com/Items/1234fccc1ddd0c95f12bd51e7f8e3fbe/Images/Primary?api_key=8b6b2ddee71a4c2685625862dae21eb1" group-title="Live TV",iHeart90s
+https://fintv.a20labs.com/LiveTv/Channels/1234fccc1ddd0c95f12bd51e7f8e3fbe/stream.m3u8?api_key=8b6b2ddee71a4c2685625862dae21eb1
+#EXTINF:-1 tvg-id="b40f6af2ba092d03da1bc7e00789654b" tvg-chno="430" tvg-name="iHeartCountry" tvg-logo="https://fintv.a20labs.com/Items/b40f6af2ba092d03da1bc7e00789654b/Images/Primary?api_key=8b6b2ddee71a4c2685625862dae21eb1" group-title="Live TV",iHeartCountry
+https://fintv.a20labs.com/LiveTv/Channels/b40f6af2ba092d03da1bc7e00789654b/stream.m3u8?api_key=8b6b2ddee71a4c2685625862dae21eb1
+#EXTINF:-1 tvg-id="f089e5a8c2a89681989fd8bcec38a053" tvg-chno="431" tvg-name="iHeartRadio Hip Hop Beats" tvg-logo="https://fintv.a20labs.com/Items/f089e5a8c2a89681989fd8bcec38a053/Images/Primary?api_key=8b6b2ddee71a4c2685625862dae21eb1" group-title="Live TV",iHeartRadio Hip Hop Beats
+https://fintv.a20labs.com/LiveTv/Channels/f089e5a8c2a89681989fd8bcec38a053/stream.m3u8?api_key=8b6b2ddee71a4c2685625862dae21eb1
+#EXTINF:-1 tvg-id="c5d9decabe0e7047830c11f9976b5cbe" tvg-chno="432" tvg-name="iHeartCountry Classics" tvg-logo="https://fintv.a20labs.com/Items/c5d9decabe0e7047830c11f9976b5cbe/Images/Primary?api_key=8b6b2ddee71a4c2685625862dae21eb1" group-title="Live TV",iHeartCountry Classics
+https://fintv.a20labs.com/LiveTv/Channels/c5d9decabe0e7047830c11f9976b5cbe/stream.m3u8?api_key=8b6b2ddee71a4c2685625862dae21eb1
+#EXTINF:-1 tvg-id="e2d530de47c45e52f31cd0bf8fcfc7b1" tvg-chno="433" tvg-name="Stingray Hit List" tvg-logo="https://fintv.a20labs.com/Items/e2d530de47c45e52f31cd0bf8fcfc7b1/Images/Primary?api_key=8b6b2ddee71a4c2685625862dae21eb1" group-title="Live TV",Stingray Hit List
+https://fintv.a20labs.com/LiveTv/Channels/e2d530de47c45e52f31cd0bf8fcfc7b1/stream.m3u8?api_key=8b6b2ddee71a4c2685625862dae21eb1
+#EXTINF:-1 tvg-id="1973ad4215c94841c2bec31431e5a91d" tvg-chno="434" tvg-name="Stingray Hot Country" tvg-logo="https://fintv.a20labs.com/Items/1973ad4215c94841c2bec31431e5a91d/Images/Primary?api_key=8b6b2ddee71a4c2685625862dae21eb1" group-title="Live TV",Stingray Hot Country
+https://fintv.a20labs.com/LiveTv/Channels/1973ad4215c94841c2bec31431e5a91d/stream.m3u8?api_key=8b6b2ddee71a4c2685625862dae21eb1
+#EXTINF:-1 tvg-id="c655fe635fa1ff12e52091a409f30602" tvg-chno="435" tvg-name="Stingray Classic Rock" tvg-logo="https://fintv.a20labs.com/Items/c655fe635fa1ff12e52091a409f30602/Images/Primary?api_key=8b6b2ddee71a4c2685625862dae21eb1" group-title="Live TV",Stingray Classic Rock
+https://fintv.a20labs.com/LiveTv/Channels/c655fe635fa1ff12e52091a409f30602/stream.m3u8?api_key=8b6b2ddee71a4c2685625862dae21eb1
+#EXTINF:-1 tvg-id="1bfb37d437259f3ecf2d10d19327f920" tvg-chno="436" tvg-name="Stingray Greatest Hits" tvg-logo="https://fintv.a20labs.com/Items/1bfb37d437259f3ecf2d10d19327f920/Images/Primary?api_key=8b6b2ddee71a4c2685625862dae21eb1" group-title="Live TV",Stingray Greatest Hits
+https://fintv.a20labs.com/LiveTv/Channels/1bfb37d437259f3ecf2d10d19327f920/stream.m3u8?api_key=8b6b2ddee71a4c2685625862dae21eb1
+#EXTINF:-1 tvg-id="d205c744939cfad5ede99b44a4868625" tvg-chno="437" tvg-name="Stingray Soul Storm" tvg-logo="https://fintv.a20labs.com/Items/d205c744939cfad5ede99b44a4868625/Images/Primary?api_key=8b6b2ddee71a4c2685625862dae21eb1" group-title="Live TV",Stingray Soul Storm
+https://fintv.a20labs.com/LiveTv/Channels/d205c744939cfad5ede99b44a4868625/stream.m3u8?api_key=8b6b2ddee71a4c2685625862dae21eb1
+#EXTINF:-1 tvg-id="84b883321e9f5abb42ed30b7739e3ce3" tvg-chno="438" tvg-name="Stingray Remember the 80s" tvg-logo="https://fintv.a20labs.com/Items/84b883321e9f5abb42ed30b7739e3ce3/Images/Primary?api_key=8b6b2ddee71a4c2685625862dae21eb1" group-title="Live TV",Stingray Remember the 80s
+https://fintv.a20labs.com/LiveTv/Channels/84b883321e9f5abb42ed30b7739e3ce3/stream.m3u8?api_key=8b6b2ddee71a4c2685625862dae21eb1
+#EXTINF:-1 tvg-id="58ad0c5e0e5bf8bd7b0039790ff00942" tvg-chno="439" tvg-name="CBS News Boston" tvg-logo="https://fintv.a20labs.com/Items/58ad0c5e0e5bf8bd7b0039790ff00942/Images/Primary?api_key=8b6b2ddee71a4c2685625862dae21eb1" group-title="Live TV",CBS News Boston
+https://fintv.a20labs.com/LiveTv/Channels/58ad0c5e0e5bf8bd7b0039790ff00942/stream.m3u8?api_key=8b6b2ddee71a4c2685625862dae21eb1
+#EXTINF:-1 tvg-id="660d4a5369195580ecd96f1d3f180fa5" tvg-chno="440" tvg-name="WSB Atlanta" tvg-logo="https://fintv.a20labs.com/Items/660d4a5369195580ecd96f1d3f180fa5/Images/Primary?api_key=8b6b2ddee71a4c2685625862dae21eb1" group-title="Live TV",WSB Atlanta
+https://fintv.a20labs.com/LiveTv/Channels/660d4a5369195580ecd96f1d3f180fa5/stream.m3u8?api_key=8b6b2ddee71a4c2685625862dae21eb1
+#EXTINF:-1 tvg-id="f8d608c7ead0e951dc72e384366e77a5" tvg-chno="441" tvg-name="Boston 25" tvg-logo="https://fintv.a20labs.com/Items/f8d608c7ead0e951dc72e384366e77a5/Images/Primary?api_key=8b6b2ddee71a4c2685625862dae21eb1" group-title="Live TV",Boston 25
+https://fintv.a20labs.com/LiveTv/Channels/f8d608c7ead0e951dc72e384366e77a5/stream.m3u8?api_key=8b6b2ddee71a4c2685625862dae21eb1
+#EXTINF:-1 tvg-id="534ad5fd82264d2571d3f23e18d64844" tvg-chno="442" tvg-name="Action News Jax" tvg-logo="https://fintv.a20labs.com/Items/534ad5fd82264d2571d3f23e18d64844/Images/Primary?api_key=8b6b2ddee71a4c2685625862dae21eb1" group-title="Live TV",Action News Jax
+https://fintv.a20labs.com/LiveTv/Channels/534ad5fd82264d2571d3f23e18d64844/stream.m3u8?api_key=8b6b2ddee71a4c2685625862dae21eb1
+#EXTINF:-1 tvg-id="a850e381371c1760091e0216e139098a" tvg-chno="443" tvg-name="CBS News Chicago" tvg-logo="https://fintv.a20labs.com/Items/a850e381371c1760091e0216e139098a/Images/Primary?api_key=8b6b2ddee71a4c2685625862dae21eb1" group-title="Live TV",CBS News Chicago
+https://fintv.a20labs.com/LiveTv/Channels/a850e381371c1760091e0216e139098a/stream.m3u8?api_key=8b6b2ddee71a4c2685625862dae21eb1
+#EXTINF:-1 tvg-id="2cccad5801edce576a60adccfcdbb66e" tvg-chno="444" tvg-name="KIRO Seattle" tvg-logo="https://fintv.a20labs.com/Items/2cccad5801edce576a60adccfcdbb66e/Images/Primary?api_key=8b6b2ddee71a4c2685625862dae21eb1" group-title="Live TV",KIRO Seattle
+https://fintv.a20labs.com/LiveTv/Channels/2cccad5801edce576a60adccfcdbb66e/stream.m3u8?api_key=8b6b2ddee71a4c2685625862dae21eb1
+#EXTINF:-1 tvg-id="ac8d9e4fa626fb919836c67bf0be73be" tvg-chno="445" tvg-name="WPXI Pittsburgh" tvg-logo="https://fintv.a20labs.com/Items/ac8d9e4fa626fb919836c67bf0be73be/Images/Primary?api_key=8b6b2ddee71a4c2685625862dae21eb1" group-title="Live TV",WPXI Pittsburgh
+https://fintv.a20labs.com/LiveTv/Channels/ac8d9e4fa626fb919836c67bf0be73be/stream.m3u8?api_key=8b6b2ddee71a4c2685625862dae21eb1
+#EXTINF:-1 tvg-id="43bc6e14d782ddc177e23a092bf51456" tvg-chno="446" tvg-name="CBS News Bay Area" tvg-logo="https://fintv.a20labs.com/Items/43bc6e14d782ddc177e23a092bf51456/Images/Primary?api_key=8b6b2ddee71a4c2685625862dae21eb1" group-title="Live TV",CBS News Bay Area
+https://fintv.a20labs.com/LiveTv/Channels/43bc6e14d782ddc177e23a092bf51456/stream.m3u8?api_key=8b6b2ddee71a4c2685625862dae21eb1
+#EXTINF:-1 tvg-id="95c89123448bbe735c459dfe8628c433" tvg-chno="447" tvg-name="CBS News New York" tvg-logo="https://fintv.a20labs.com/Items/95c89123448bbe735c459dfe8628c433/Images/Primary?api_key=8b6b2ddee71a4c2685625862dae21eb1" group-title="Live TV",CBS News New York
+https://fintv.a20labs.com/LiveTv/Channels/95c89123448bbe735c459dfe8628c433/stream.m3u8?api_key=8b6b2ddee71a4c2685625862dae21eb1
+#EXTINF:-1 tvg-id="91547fa9a5a8f53997c2444c2791b3ff" tvg-chno="448" tvg-name="NBC 10 Boston News" tvg-logo="https://fintv.a20labs.com/Items/91547fa9a5a8f53997c2444c2791b3ff/Images/Primary?api_key=8b6b2ddee71a4c2685625862dae21eb1" group-title="Live TV",NBC 10 Boston News
+https://fintv.a20labs.com/LiveTv/Channels/91547fa9a5a8f53997c2444c2791b3ff/stream.m3u8?api_key=8b6b2ddee71a4c2685625862dae21eb1
+#EXTINF:-1 tvg-id="ce1e0e0f6ce3ed826cae82ac668d6fdd" tvg-chno="449" tvg-name="WFTV Orlando" tvg-logo="https://fintv.a20labs.com/Items/ce1e0e0f6ce3ed826cae82ac668d6fdd/Images/Primary?api_key=8b6b2ddee71a4c2685625862dae21eb1" group-title="Live TV",WFTV Orlando
+https://fintv.a20labs.com/LiveTv/Channels/ce1e0e0f6ce3ed826cae82ac668d6fdd/stream.m3u8?api_key=8b6b2ddee71a4c2685625862dae21eb1
+#EXTINF:-1 tvg-id="a87117ecd7d9b6cdc6bd35795f8ad240" tvg-chno="450" tvg-name="CBS News Los Angeles" tvg-logo="https://fintv.a20labs.com/Items/a87117ecd7d9b6cdc6bd35795f8ad240/Images/Primary?api_key=8b6b2ddee71a4c2685625862dae21eb1" group-title="Live TV",CBS News Los Angeles
+https://fintv.a20labs.com/LiveTv/Channels/a87117ecd7d9b6cdc6bd35795f8ad240/stream.m3u8?api_key=8b6b2ddee71a4c2685625862dae21eb1
+#EXTINF:-1 tvg-id="f02e6836080df9806496093bb99d2ad4" tvg-chno="451" tvg-name="NBC 5 Chicago News" tvg-logo="https://fintv.a20labs.com/Items/f02e6836080df9806496093bb99d2ad4/Images/Primary?api_key=8b6b2ddee71a4c2685625862dae21eb1" group-title="Live TV",NBC 5 Chicago News
+https://fintv.a20labs.com/LiveTv/Channels/f02e6836080df9806496093bb99d2ad4/stream.m3u8?api_key=8b6b2ddee71a4c2685625862dae21eb1
+#EXTINF:-1 tvg-id="0627651ac9f5c64dbef9a6abc2c2b897" tvg-chno="452" tvg-name="NBC 4 Washington News" tvg-logo="https://fintv.a20labs.com/Items/0627651ac9f5c64dbef9a6abc2c2b897/Images/Primary?api_key=8b6b2ddee71a4c2685625862dae21eb1" group-title="Live TV",NBC 4 Washington News
+https://fintv.a20labs.com/LiveTv/Channels/0627651ac9f5c64dbef9a6abc2c2b897/stream.m3u8?api_key=8b6b2ddee71a4c2685625862dae21eb1
+#EXTINF:-1 tvg-id="4d62c28d7ff4ff49ad632df4fc2e15ef" tvg-chno="453" tvg-name="NBC 10 Philadelphia News" tvg-logo="https://fintv.a20labs.com/Items/4d62c28d7ff4ff49ad632df4fc2e15ef/Images/Primary?api_key=8b6b2ddee71a4c2685625862dae21eb1" group-title="Live TV",NBC 10 Philadelphia News
+https://fintv.a20labs.com/LiveTv/Channels/4d62c28d7ff4ff49ad632df4fc2e15ef/stream.m3u8?api_key=8b6b2ddee71a4c2685625862dae21eb1
+#EXTINF:-1 tvg-id="1168ca40ed01dd418b9cd4269cf6a150" tvg-chno="454" tvg-name="NBC 4 New York News" tvg-logo="https://fintv.a20labs.com/Items/1168ca40ed01dd418b9cd4269cf6a150/Images/Primary?api_key=8b6b2ddee71a4c2685625862dae21eb1" group-title="Live TV",NBC 4 New York News
+https://fintv.a20labs.com/LiveTv/Channels/1168ca40ed01dd418b9cd4269cf6a150/stream.m3u8?api_key=8b6b2ddee71a4c2685625862dae21eb1
+#EXTINF:-1 tvg-id="e4913dc8eced7a0e93efb26654bed753" tvg-chno="455" tvg-name="Telemundo Noticias Florida" tvg-logo="https://fintv.a20labs.com/Items/e4913dc8eced7a0e93efb26654bed753/Images/Primary?api_key=8b6b2ddee71a4c2685625862dae21eb1" group-title="Live TV",Telemundo Noticias Florida
+https://fintv.a20labs.com/LiveTv/Channels/e4913dc8eced7a0e93efb26654bed753/stream.m3u8?api_key=8b6b2ddee71a4c2685625862dae21eb1
+#EXTINF:-1 tvg-id="2fef993327469960180d85ce8e6ae85e" tvg-chno="456" tvg-name="NBC 6 South Florida News" tvg-logo="https://fintv.a20labs.com/Items/2fef993327469960180d85ce8e6ae85e/Images/Primary?api_key=8b6b2ddee71a4c2685625862dae21eb1" group-title="Live TV",NBC 6 South Florida News
+https://fintv.a20labs.com/LiveTv/Channels/2fef993327469960180d85ce8e6ae85e/stream.m3u8?api_key=8b6b2ddee71a4c2685625862dae21eb1
+#EXTINF:-1 tvg-id="26adb0477dad21ebe24d75dff9c5991f" tvg-chno="457" tvg-name="Telemundo Noticias Noreste" tvg-logo="https://fintv.a20labs.com/Items/26adb0477dad21ebe24d75dff9c5991f/Images/Primary?api_key=8b6b2ddee71a4c2685625862dae21eb1" group-title="Live TV",Telemundo Noticias Noreste
+https://fintv.a20labs.com/LiveTv/Channels/26adb0477dad21ebe24d75dff9c5991f/stream.m3u8?api_key=8b6b2ddee71a4c2685625862dae21eb1
+#EXTINF:-1 tvg-id="1043e55a7df5df411cad5ce0d13b5680" tvg-chno="458" tvg-name="WSOC Charlotte" tvg-logo="https://fintv.a20labs.com/Items/1043e55a7df5df411cad5ce0d13b5680/Images/Primary?api_key=8b6b2ddee71a4c2685625862dae21eb1" group-title="Live TV",WSOC Charlotte
+https://fintv.a20labs.com/LiveTv/Channels/1043e55a7df5df411cad5ce0d13b5680/stream.m3u8?api_key=8b6b2ddee71a4c2685625862dae21eb1
+#EXTINF:-1 tvg-id="8dd85ae60b26ed32a42ebc3955bee392" tvg-chno="459" tvg-name="NBC Bay Area News" tvg-logo="https://fintv.a20labs.com/Items/8dd85ae60b26ed32a42ebc3955bee392/Images/Primary?api_key=8b6b2ddee71a4c2685625862dae21eb1" group-title="Live TV",NBC Bay Area News
+https://fintv.a20labs.com/LiveTv/Channels/8dd85ae60b26ed32a42ebc3955bee392/stream.m3u8?api_key=8b6b2ddee71a4c2685625862dae21eb1
+#EXTINF:-1 tvg-id="d26712ac9ec16a375440a745257e9e04" tvg-chno="460" tvg-name="News 12 New York" tvg-logo="https://fintv.a20labs.com/Items/d26712ac9ec16a375440a745257e9e04/Images/Primary?api_key=8b6b2ddee71a4c2685625862dae21eb1" group-title="Live TV",News 12 New York
+https://fintv.a20labs.com/LiveTv/Channels/d26712ac9ec16a375440a745257e9e04/stream.m3u8?api_key=8b6b2ddee71a4c2685625862dae21eb1
+#EXTINF:-1 tvg-id="cd52e2f566c7532d0eb45a07228596eb" tvg-chno="461" tvg-name="NBC 5 Dallas-Fort Worth News" tvg-logo="https://fintv.a20labs.com/Items/cd52e2f566c7532d0eb45a07228596eb/Images/Primary?api_key=8b6b2ddee71a4c2685625862dae21eb1" group-title="Live TV",NBC 5 Dallas-Fort Worth News
+https://fintv.a20labs.com/LiveTv/Channels/cd52e2f566c7532d0eb45a07228596eb/stream.m3u8?api_key=8b6b2ddee71a4c2685625862dae21eb1
+#EXTINF:-1 tvg-id="83268ef5dc7165e6cef976564315989a" tvg-chno="462" tvg-name="Telemundo Noticias California" tvg-logo="https://fintv.a20labs.com/Items/83268ef5dc7165e6cef976564315989a/Images/Primary?api_key=8b6b2ddee71a4c2685625862dae21eb1" group-title="Live TV",Telemundo Noticias California
+https://fintv.a20labs.com/LiveTv/Channels/83268ef5dc7165e6cef976564315989a/stream.m3u8?api_key=8b6b2ddee71a4c2685625862dae21eb1
+#EXTINF:-1 tvg-id="e03546372e16ccc9840b2658562c058d" tvg-chno="463" tvg-name="Telemundo Noticias Texas" tvg-logo="https://fintv.a20labs.com/Items/e03546372e16ccc9840b2658562c058d/Images/Primary?api_key=8b6b2ddee71a4c2685625862dae21eb1" group-title="Live TV",Telemundo Noticias Texas
+https://fintv.a20labs.com/LiveTv/Channels/e03546372e16ccc9840b2658562c058d/stream.m3u8?api_key=8b6b2ddee71a4c2685625862dae21eb1
+#EXTINF:-1 tvg-id="ec7b96c8d923165b9e1d1a93b54763f3" tvg-chno="464" tvg-name="NBC 4 Los Angeles News" tvg-logo="https://fintv.a20labs.com/Items/ec7b96c8d923165b9e1d1a93b54763f3/Images/Primary?api_key=8b6b2ddee71a4c2685625862dae21eb1" group-title="Live TV",NBC 4 Los Angeles News
+https://fintv.a20labs.com/LiveTv/Channels/ec7b96c8d923165b9e1d1a93b54763f3/stream.m3u8?api_key=8b6b2ddee71a4c2685625862dae21eb1
+#EXTINF:-1 tvg-id="b5b7fb025458fba6f8a30b8d64b1fd73" tvg-chno="465" tvg-name="NBC 7 San Diego News" tvg-logo="https://fintv.a20labs.com/Items/b5b7fb025458fba6f8a30b8d64b1fd73/Images/Primary?api_key=8b6b2ddee71a4c2685625862dae21eb1" group-title="Live TV",NBC 7 San Diego News
+https://fintv.a20labs.com/LiveTv/Channels/b5b7fb025458fba6f8a30b8d64b1fd73/stream.m3u8?api_key=8b6b2ddee71a4c2685625862dae21eb1
+#EXTINF:-1 tvg-id="0dff4b6b309cac99cd345cb336d33f66" tvg-chno="466" tvg-name="WHIO Dayton" tvg-logo="https://fintv.a20labs.com/Items/0dff4b6b309cac99cd345cb336d33f66/Images/Primary?api_key=8b6b2ddee71a4c2685625862dae21eb1" group-title="Live TV",WHIO Dayton
+https://fintv.a20labs.com/LiveTv/Channels/0dff4b6b309cac99cd345cb336d33f66/stream.m3u8?api_key=8b6b2ddee71a4c2685625862dae21eb1
+#EXTINF:-1 tvg-id="3b85df07a43ec4a0884d68f35dd73e1d" tvg-chno="467" tvg-name="NBC Connecticut News" tvg-logo="https://fintv.a20labs.com/Items/3b85df07a43ec4a0884d68f35dd73e1d/Images/Primary?api_key=8b6b2ddee71a4c2685625862dae21eb1" group-title="Live TV",NBC Connecticut News
+https://fintv.a20labs.com/LiveTv/Channels/3b85df07a43ec4a0884d68f35dd73e1d/stream.m3u8?api_key=8b6b2ddee71a4c2685625862dae21eb1
+#EXTINF:-1 tvg-id="e4ba87f8fc219e75595c51e75337d2a7" tvg-chno="468" tvg-name="FOX LOCAL Seattle" tvg-logo="https://fintv.a20labs.com/Items/e4ba87f8fc219e75595c51e75337d2a7/Images/Primary?api_key=8b6b2ddee71a4c2685625862dae21eb1" group-title="Live TV",FOX LOCAL Seattle
+https://fintv.a20labs.com/LiveTv/Channels/e4ba87f8fc219e75595c51e75337d2a7/stream.m3u8?api_key=8b6b2ddee71a4c2685625862dae21eb1
+#EXTINF:-1 tvg-id="af34411b90e4f33e32aa62484a353139" tvg-chno="469" tvg-name="FOX LOCAL Dallas-Fort Worth" tvg-logo="https://fintv.a20labs.com/Items/af34411b90e4f33e32aa62484a353139/Images/Primary?api_key=8b6b2ddee71a4c2685625862dae21eb1" group-title="Live TV",FOX LOCAL Dallas-Fort Worth
+https://fintv.a20labs.com/LiveTv/Channels/af34411b90e4f33e32aa62484a353139/stream.m3u8?api_key=8b6b2ddee71a4c2685625862dae21eb1
+#EXTINF:-1 tvg-id="8631a6c0b5945913bd07fd1d252d33b3" tvg-chno="470" tvg-name="FOX LOCAL Minneapolis" tvg-logo="https://fintv.a20labs.com/Items/8631a6c0b5945913bd07fd1d252d33b3/Images/Primary?api_key=8b6b2ddee71a4c2685625862dae21eb1" group-title="Live TV",FOX LOCAL Minneapolis
+https://fintv.a20labs.com/LiveTv/Channels/8631a6c0b5945913bd07fd1d252d33b3/stream.m3u8?api_key=8b6b2ddee71a4c2685625862dae21eb1
+#EXTINF:-1 tvg-id="98494273359df448a0e347d1e872fb2f" tvg-chno="471" tvg-name="FOX LOCAL Houston" tvg-logo="https://fintv.a20labs.com/Items/98494273359df448a0e347d1e872fb2f/Images/Primary?api_key=8b6b2ddee71a4c2685625862dae21eb1" group-title="Live TV",FOX LOCAL Houston
+https://fintv.a20labs.com/LiveTv/Channels/98494273359df448a0e347d1e872fb2f/stream.m3u8?api_key=8b6b2ddee71a4c2685625862dae21eb1
+#EXTINF:-1 tvg-id="0f9a4c575a5afa9d4c643be99326d8e7" tvg-chno="472" tvg-name="FOX LOCAL Phoenix" tvg-logo="https://fintv.a20labs.com/Items/0f9a4c575a5afa9d4c643be99326d8e7/Images/Primary?api_key=8b6b2ddee71a4c2685625862dae21eb1" group-title="Live TV",FOX LOCAL Phoenix
+https://fintv.a20labs.com/LiveTv/Channels/0f9a4c575a5afa9d4c643be99326d8e7/stream.m3u8?api_key=8b6b2ddee71a4c2685625862dae21eb1
+#EXTINF:-1 tvg-id="85eb687aa91ac6a8e7d8ba6921077683" tvg-chno="473" tvg-name="FOX LOCAL Austin" tvg-logo="https://fintv.a20labs.com/Items/85eb687aa91ac6a8e7d8ba6921077683/Images/Primary?api_key=8b6b2ddee71a4c2685625862dae21eb1" group-title="Live TV",FOX LOCAL Austin
+https://fintv.a20labs.com/LiveTv/Channels/85eb687aa91ac6a8e7d8ba6921077683/stream.m3u8?api_key=8b6b2ddee71a4c2685625862dae21eb1
+#EXTINF:-1 tvg-id="d031fab7f80baef340bcd99f422aab96" tvg-chno="474" tvg-name="FOX LOCAL Los Angeles" tvg-logo="https://fintv.a20labs.com/Items/d031fab7f80baef340bcd99f422aab96/Images/Primary?api_key=8b6b2ddee71a4c2685625862dae21eb1" group-title="Live TV",FOX LOCAL Los Angeles
+https://fintv.a20labs.com/LiveTv/Channels/d031fab7f80baef340bcd99f422aab96/stream.m3u8?api_key=8b6b2ddee71a4c2685625862dae21eb1
+#EXTINF:-1 tvg-id="abf8e89d28c131048b05f763105051be" tvg-chno="475" tvg-name="FOX LOCAL San Francisco" tvg-logo="https://fintv.a20labs.com/Items/abf8e89d28c131048b05f763105051be/Images/Primary?api_key=8b6b2ddee71a4c2685625862dae21eb1" group-title="Live TV",FOX LOCAL San Francisco
+https://fintv.a20labs.com/LiveTv/Channels/abf8e89d28c131048b05f763105051be/stream.m3u8?api_key=8b6b2ddee71a4c2685625862dae21eb1
+#EXTINF:-1 tvg-id="64b2141a96cf16c6dbcbafa3e7a9eeae" tvg-chno="476" tvg-name="FOX LOCAL Atlanta" tvg-logo="https://fintv.a20labs.com/Items/64b2141a96cf16c6dbcbafa3e7a9eeae/Images/Primary?api_key=8b6b2ddee71a4c2685625862dae21eb1" group-title="Live TV",FOX LOCAL Atlanta
+https://fintv.a20labs.com/LiveTv/Channels/64b2141a96cf16c6dbcbafa3e7a9eeae/stream.m3u8?api_key=8b6b2ddee71a4c2685625862dae21eb1
+#EXTINF:-1 tvg-id="e75b2146a0819ee42e921e9d5fcccc15" tvg-chno="477" tvg-name="FOX LOCAL Chicago" tvg-logo="https://fintv.a20labs.com/Items/e75b2146a0819ee42e921e9d5fcccc15/Images/Primary?api_key=8b6b2ddee71a4c2685625862dae21eb1" group-title="Live TV",FOX LOCAL Chicago
+https://fintv.a20labs.com/LiveTv/Channels/e75b2146a0819ee42e921e9d5fcccc15/stream.m3u8?api_key=8b6b2ddee71a4c2685625862dae21eb1
+#EXTINF:-1 tvg-id="f2a1ce0441ce0419257576f90bb6cfd5" tvg-chno="478" tvg-name="FOX LOCAL Milwaukee" tvg-logo="https://fintv.a20labs.com/Items/f2a1ce0441ce0419257576f90bb6cfd5/Images/Primary?api_key=8b6b2ddee71a4c2685625862dae21eb1" group-title="Live TV",FOX LOCAL Milwaukee
+https://fintv.a20labs.com/LiveTv/Channels/f2a1ce0441ce0419257576f90bb6cfd5/stream.m3u8?api_key=8b6b2ddee71a4c2685625862dae21eb1
+#EXTINF:-1 tvg-id="632ea8d6e5afcac51f9ccd128a1f12ba" tvg-chno="479" tvg-name="FOX LOCAL Detroit" tvg-logo="https://fintv.a20labs.com/Items/632ea8d6e5afcac51f9ccd128a1f12ba/Images/Primary?api_key=8b6b2ddee71a4c2685625862dae21eb1" group-title="Live TV",FOX LOCAL Detroit
+https://fintv.a20labs.com/LiveTv/Channels/632ea8d6e5afcac51f9ccd128a1f12ba/stream.m3u8?api_key=8b6b2ddee71a4c2685625862dae21eb1
+#EXTINF:-1 tvg-id="08b8940dd78fcc5c5b532a3518286722" tvg-chno="480" tvg-name="FOX LOCAL New York" tvg-logo="https://fintv.a20labs.com/Items/08b8940dd78fcc5c5b532a3518286722/Images/Primary?api_key=8b6b2ddee71a4c2685625862dae21eb1" group-title="Live TV",FOX LOCAL New York
+https://fintv.a20labs.com/LiveTv/Channels/08b8940dd78fcc5c5b532a3518286722/stream.m3u8?api_key=8b6b2ddee71a4c2685625862dae21eb1
+#EXTINF:-1 tvg-id="d841ee06f6c32c77501bade98fcd1faa" tvg-chno="481" tvg-name="FOX LOCAL Orlando" tvg-logo="https://fintv.a20labs.com/Items/d841ee06f6c32c77501bade98fcd1faa/Images/Primary?api_key=8b6b2ddee71a4c2685625862dae21eb1" group-title="Live TV",FOX LOCAL Orlando
+https://fintv.a20labs.com/LiveTv/Channels/d841ee06f6c32c77501bade98fcd1faa/stream.m3u8?api_key=8b6b2ddee71a4c2685625862dae21eb1
+#EXTINF:-1 tvg-id="16cfb0492f2a051b4534ff687e8a8f73" tvg-chno="482" tvg-name="FOX LOCAL Washington DC" tvg-logo="https://fintv.a20labs.com/Items/16cfb0492f2a051b4534ff687e8a8f73/Images/Primary?api_key=8b6b2ddee71a4c2685625862dae21eb1" group-title="Live TV",FOX LOCAL Washington DC
+https://fintv.a20labs.com/LiveTv/Channels/16cfb0492f2a051b4534ff687e8a8f73/stream.m3u8?api_key=8b6b2ddee71a4c2685625862dae21eb1
+#EXTINF:-1 tvg-id="8829a9f7c597dde3bdab72dc0e973af6" tvg-chno="483" tvg-name="FOX LOCAL Tampa Bay" tvg-logo="https://fintv.a20labs.com/Items/8829a9f7c597dde3bdab72dc0e973af6/Images/Primary?api_key=8b6b2ddee71a4c2685625862dae21eb1" group-title="Live TV",FOX LOCAL Tampa Bay
+https://fintv.a20labs.com/LiveTv/Channels/8829a9f7c597dde3bdab72dc0e973af6/stream.m3u8?api_key=8b6b2ddee71a4c2685625862dae21eb1
+#EXTINF:-1 tvg-id="59ad133a88b383f5e3603008cb535074" tvg-chno="484" tvg-name="FOX LOCAL Philadelphia" tvg-logo="https://fintv.a20labs.com/Items/59ad133a88b383f5e3603008cb535074/Images/Primary?api_key=8b6b2ddee71a4c2685625862dae21eb1" group-title="Live TV",FOX LOCAL Philadelphia
+https://fintv.a20labs.com/LiveTv/Channels/59ad133a88b383f5e3603008cb535074/stream.m3u8?api_key=8b6b2ddee71a4c2685625862dae21eb1
