@@ -1,131 +1,93 @@
-# 🔥 blazeSkin - FinTV Custom Jellyfin Skin
+# 🔥 blazeSkin Theme for Jellyfin
 
-A custom Jellyfin skin that enables **direct channel playback** - click a channel and it plays immediately without going to the info page first.
+A modern, dark theme for Jellyfin with **Blaze Orange** accent colors and **direct channel playback** for Live TV.
 
-## Quick Install (Recommended)
+Based on the [ElegantFin](https://github.com/lscambo13/ElegantFin) template structure.
 
-### Step 1: Add Custom CSS
+---
 
-Go to **Dashboard → General → Custom CSS** and paste:
+## ⭐ Features
+
+- 🎨 **Dark theme** with Blaze Orange (#FF6B00) accent
+- 📺 **Direct Play** - Click Live TV channels to play immediately (no info page)
+- ℹ️ **Info Button** - Hover to reveal info button for channel details
+- 🎯 **Modern UI** - Rounded corners, smooth animations, hover effects
+- 📱 **Responsive** - Works on mobile, desktop, and TV
+- ⚡ **Single Import** - One line CSS installation
+
+---
+
+## 👇 Quick Install
+
+### Step 1: Add Theme CSS
+
+**Dashboard → General (or Branding) → Custom CSS**
+
+Paste this single line:
 
 ```css
-@import url('https://cdn.jsdelivr.net/gh/A20Digital/iptv-master@main/jellyfin-skins/blazeSkin/dist/blazeSkin.css');
+@import url("https://cdn.jsdelivr.net/gh/A20Digital/iptv-master@main/jellyfin-skins/blazeSkin/Theme/blazeSkin-jellyfin-theme-build-latest-minified.css");
 ```
 
-### Step 2: Add Custom JavaScript
+### Step 2: Add Direct Play JavaScript (Optional)
 
-Install the **Jellyfin Branding Plugin**:
-1. Go to **Dashboard → Plugins → Catalog**
-2. Search for "Branding" and install it
-3. Go to **Dashboard → Plugins → Branding**
-4. In the JavaScript field, paste:
+For **click-to-play** on Live TV channels, install the **Branding plugin**:
+
+1. **Dashboard → Plugins → Catalog** → Search "Branding" → Install
+2. **Dashboard → Plugins → Branding** → JavaScript field:
 
 ```javascript
 const s = document.createElement('script');
-s.src = 'https://cdn.jsdelivr.net/gh/A20Digital/iptv-master@main/jellyfin-skins/blazeSkin/dist/blazeSkin.js';
+s.src = 'https://cdn.jsdelivr.net/gh/A20Digital/iptv-master@main/jellyfin-skins/blazeSkin/Theme/assets/js/direct-play.js';
 document.head.appendChild(s);
 ```
 
 ### Step 3: Clear Cache & Refresh
 
-Press `Ctrl+Shift+R` (or `Cmd+Shift+R` on Mac)
+Press `Ctrl+Shift+R` (Windows/Linux) or `Cmd+Shift+R` (Mac)
 
 ---
 
-## Features
+## 🎮 Usage
 
-| Feature | Description |
-|---------|-------------|
-| **Click to Play** | Click any channel card → plays immediately |
-| **Info Button** | ℹ️ icon appears on hover → click for channel details |
-| **Keyboard Shortcut** | Press `i` on focused channel for info |
-| **Now Playing** | Orange border on currently playing channel |
-| **Toast Notifications** | Shows "▶ Playing: Channel Name" |
-| **Blaze Orange Theme** | #FF6B00 accent color |
+| Action | Result |
+|--------|--------|
+| **Click channel card** | Plays immediately |
+| **Hover + click ℹ️** | Opens channel info page |
+| **Press `i` key** | Shows info for focused channel |
 
 ---
 
-## CDN URLs
+## 🧩 Customization
 
-| File | URL |
-|------|-----|
-| **CSS** | `https://cdn.jsdelivr.net/gh/A20Digital/iptv-master@main/jellyfin-skins/blazeSkin/dist/blazeSkin.css` |
-| **JS** | `https://cdn.jsdelivr.net/gh/A20Digital/iptv-master@main/jellyfin-skins/blazeSkin/dist/blazeSkin.js` |
+Override any CSS variable in your Custom CSS:
 
-### Alternative (GitHub Raw)
+```css
+@import url("https://cdn.jsdelivr.net/gh/A20Digital/iptv-master@main/jellyfin-skins/blazeSkin/Theme/blazeSkin-jellyfin-theme-build-latest-minified.css");
 
-| File | URL |
-|------|-----|
-| **CSS** | `https://raw.githubusercontent.com/A20Digital/iptv-master/main/jellyfin-skins/blazeSkin/dist/blazeSkin.css` |
-| **JS** | `https://raw.githubusercontent.com/A20Digital/iptv-master/main/jellyfin-skins/blazeSkin/dist/blazeSkin.js` |
-
----
-
-## Files
-
-| File | Description |
-|------|-------------|
-| `dist/blazeSkin.css` | Compiled CSS (use this) |
-| `dist/blazeSkin.js` | Compiled JS (use this) |
-| `skin.json` | Skin metadata |
-| `custom.css` | Source CSS |
-| `custom.js` | Source JS |
-
----
-
-## Configuration
-
-Edit the `BLAZE_CONFIG` object in `blazeSkin.js`:
-
-```javascript
-const BLAZE_CONFIG = {
-    debug: false,        // Enable console logging
-    toastDuration: 3000, // Toast display time (ms)
-    accentColor: '#FF6B00'
-};
+:root {
+    /* Change accent color */
+    --accentColor: #3B82F6;
+    --accentColorLight: #60A5FA;
+    --accentColorDark: #2563EB;
+}
 ```
 
 ---
 
-## Usage
+## 🔗 CDN URLs
 
-| Action | Result |
-|--------|--------|
-| Click channel | Plays immediately |
-| Click ℹ️ button | Opens channel info page |
-| Press `i` key | Opens info for focused channel |
-
----
-
-## Compatibility
-
-- Jellyfin 10.8.x - 10.11.x
-- Tested with Live TV from IPTV tuners
-- Works with M3U and HDHomeRun sources
+| File | URL |
+|------|-----|
+| **Theme CSS** | `https://cdn.jsdelivr.net/gh/A20Digital/iptv-master@main/jellyfin-skins/blazeSkin/Theme/blazeSkin-jellyfin-theme-build-latest-minified.css` |
+| **Direct Play JS** | `https://cdn.jsdelivr.net/gh/A20Digital/iptv-master@main/jellyfin-skins/blazeSkin/Theme/assets/js/direct-play.js` |
 
 ---
 
-## Troubleshooting
+## 👤 Author
 
-**Channels still go to info page:**
-- Clear browser cache (Ctrl+Shift+R)
-- Check browser console (F12) for errors
-- Ensure Branding plugin is installed and configured
+**A20Labs** - FinTV / BlazeNetworkTV Project
 
-**Info buttons not appearing:**
-- Verify JavaScript is loading (check console for "blazeSkin v1.0 loaded")
-- Try refreshing the page
-
-**Toast not showing:**
-- Check if CSS is loading correctly
-- May conflict with other skins
-
----
-
-## Author
-
-A20Labs - FinTV Project
-
-## License
+## 📄 License
 
 MIT License

@@ -1,0 +1,613 @@
+/* blazeSkin Theme for Jellyfin by A20Labs */
+/* Based on ElegantFin structure - A FinTV / BlazeNetworkTV Custom Theme */
+
+/* Add-ons: Uncomment to enable */
+/* @import url("https://cdn.jsdelivr.net/gh/A20Digital/iptv-master@main/jellyfin-skins/blazeSkin/Theme/assets/add-ons/direct-play.css"); */
+
+/* Inter Font Family */
+@import url("https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap");
+
+:root {
+    --blazeSkinFooterText: "blazeSkin v1.0.0";
+
+    /* ============================================
+       BASE THEME COLORS - BLAZE ORANGE ACCENT
+       ============================================ */
+    color-scheme: dark;
+    --darkerGradientPoint: #0d0d0d;
+    --darkerGradientPointAlpha: rgba(13, 13, 13, 0.90);
+    --lighterGradientPoint: #1a1a1a;
+    --lighterGradientPointAlpha: rgba(26, 26, 26, 0.90);
+    
+    /* Blaze Orange Accent */
+    --accentColor: #FF6B00;
+    --accentColorLight: #FF8C33;
+    --accentColorDark: #CC5500;
+    --accentColorAlpha: rgba(255, 107, 0, 0.3);
+    
+    /* Borders */
+    --borderColor: rgb(51, 51, 51);
+    --lighterBorderColor: rgb(255 255 255 / 15%);
+    --defaultBorder: 1px solid var(--borderColor);
+    --accentBorder: 2px solid var(--accentColor);
+    
+    /* Header & Navigation */
+    --headerColor: rgba(13, 13, 13, 0.85);
+    --headerColorGradient: linear-gradient(180deg, var(--darkerGradientPointAlpha) 0%, transparent 100%);
+    --drawerColor: rgba(13, 13, 13, 0.95);
+    
+    /* Buttons */
+    --btnSubmitColor: var(--accentColor);
+    --btnSubmitBorderColor: var(--accentColorLight);
+    --selectorBackgroundColor: rgb(40, 40, 40);
+    
+    /* Text */
+    --textColor: rgba(255, 255, 255, 0.95);
+    --dimTextColor: rgba(255, 255, 255, 0.65);
+    
+    /* Checkbox */
+    --checkboxCheckedBgColor: var(--accentColor);
+    --highlightOutlineColor: var(--accentColor);
+    
+    /* Gradients */
+    --backgroundGradient: linear-gradient(180deg, var(--lighterGradientPoint) 0%, var(--darkerGradientPoint) 100%);
+    --cardBackgroundGradient: linear-gradient(180deg, var(--darkerGradientPoint), var(--lighterGradientPoint) 25%);
+    --hoverGradient: linear-gradient(135deg, rgba(255, 107, 0, 0.2) 0%, rgba(255, 107, 0, 0.1) 100%);
+    --topOSDGradient: linear-gradient(180deg, rgba(0, 0, 0, 0.8) 0%, transparent 100%);
+    --bottomOSDGradient: linear-gradient(0deg, rgba(0, 0, 0, 0.9) 0%, transparent 100%);
+    
+    /* Radius */
+    --largestRadius: 1.5em;
+    --largerRadius: 1.25em;
+    --largeRadius: 1em;
+    --smallRadius: 0.5em;
+    --smallerRadius: 0.375em;
+    --smallestRadius: 0.25em;
+    
+    /* Shadows */
+    --cardShadow: 0 4px 20px rgba(0, 0, 0, 0.4);
+    --cardHoverShadow: 0 8px 30px rgba(255, 107, 0, 0.3);
+    --glowShadow: 0 0 20px rgba(255, 107, 0, 0.5);
+    
+    /* Blur */
+    --blurSmallest: blur(2px);
+    --blurDefault: blur(5px);
+    --blurLarge: blur(10px);
+    --blurLargest: blur(20px);
+    
+    /* Border Width */
+    --borderWidth: 1px;
+    
+    /* Side Padding */
+    --sidePadding: 3%;
+
+    /* ============================================
+       CUSTOMIZABLE OPTIONS
+       ============================================ */
+    
+    /* none: hides channel info button on hover [default];
+       block: always shows info button */
+    --channelInfoButtonVisibility: none;
+    
+    /* block: shows the play overlay on channel cards on hover [default];
+       none: hides it */
+    --channelPlayOverlayVisibility: block;
+    
+    /* use "" to enable card hover effect [default];
+       use none (without quotes) to disable it */
+    --cardHoverEffect: "";
+    
+    /* use 5em for fading app bar (seamless) [default];
+       use 4.6em for solid app bar (with border) */
+    --appBarHeight: 5em;
+    
+    /* Icon pack */
+    --iconPack: 'Material Icons Round', 'Material Icons';
+
+    /* Login Page */
+    --loginPageBgUrl: url("");
+    --loginPageText: "Welcome to FinTV";
+}
+
+/* ============================================
+   FONTS
+   ============================================ */
+
+html {
+    font-family: "Inter", -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 425;
+    font-style: normal;
+    -webkit-tap-highlight-color: transparent !important;
+}
+
+/* Material Icons Round */
+@font-face {
+    font-family: 'Material Icons Round';
+    font-style: normal;
+    font-weight: 100 700;
+    src: url(https://fonts.gstatic.com/s/materialsymbolsrounded/v222/sykg-zNym6YjUruM-QrEh7-nyTnjDwKNJ_190Fjzag.woff2) format('woff2');
+}
+
+.material-icons {
+    font-family: var(--iconPack);
+}
+
+/* ============================================
+   FOOTER BRANDING
+   ============================================ */
+
+.dashboardFooter::after {
+    content: var(--blazeSkinFooterText);
+    font-family: 'Inter', sans-serif;
+    font-size: 0.65em;
+    opacity: 0.5;
+    display: block;
+    margin-top: 0.5em;
+}
+
+/* ============================================
+   BACKGROUND & CONTAINERS
+   ============================================ */
+
+.backgroundContainer,
+.nowPlayingPlaylist,
+.nowPlayingContextMenu,
+html {
+    background: var(--backgroundGradient);
+}
+
+.backgroundContainer:not(.withBackdrop) {
+    background: var(--backgroundGradient);
+}
+
+.backgroundContainer.withBackdrop {
+    opacity: 0.95;
+    background: var(--backgroundGradient);
+}
+
+/* ============================================
+   HEADER & NAVIGATION
+   ============================================ */
+
+.skinHeader-blurred:not(.osdHeader):not(.semiTransparent) {
+    backdrop-filter: var(--blurLarge);
+    background: var(--headerColor);
+    border: var(--defaultBorder);
+    border-width: 0 0 var(--borderWidth) 0;
+}
+
+.skinHeader:not(.osdHeader) {
+    border-style: solid;
+    border-width: 0 0 var(--borderWidth) 0;
+    border-color: var(--borderColor);
+    transition: all 0.3s ease-in-out;
+}
+
+.headroom--unpinned {
+    transform: translateY(-3.5em);
+}
+
+.headerTabs.sectionTabs {
+    display: grid;
+    height: var(--appBarHeight);
+}
+
+/* Navigation Selected State */
+.navMenuOption.navMenuOption-selected {
+    background-color: var(--accentColorAlpha) !important;
+    border-left: 3px solid var(--accentColor);
+}
+
+.emby-tab-button-active {
+    color: var(--accentColor) !important;
+    border-bottom: 2px solid var(--accentColor) !important;
+}
+
+/* ============================================
+   CARDS & ITEMS
+   ============================================ */
+
+.itemsContainer,
+.vertical-list {
+    gap: 0.75em;
+}
+
+.card {
+    border-radius: var(--largeRadius);
+    overflow: hidden;
+    transition: transform 0.25s ease, box-shadow 0.25s ease;
+}
+
+.card:hover {
+    transform: scale(1.03);
+    box-shadow: var(--cardHoverShadow);
+}
+
+.cardBox {
+    border-radius: var(--largeRadius);
+    box-shadow: var(--cardShadow);
+    background: var(--cardBackgroundGradient);
+}
+
+.cardImageContainer {
+    border-radius: var(--largeRadius) var(--largeRadius) 0 0;
+}
+
+.cardOverlayContainer {
+    border-radius: var(--largeRadius);
+}
+
+.cardText {
+    padding: 0.5em 0.75em;
+}
+
+/* ============================================
+   LIVE TV CHANNEL CARDS - SPECIAL STYLING
+   ============================================ */
+
+.card[data-type="TvChannel"],
+.listItem[data-type="TvChannel"] {
+    cursor: pointer !important;
+    position: relative !important;
+}
+
+.card[data-type="TvChannel"]:hover {
+    transform: scale(1.05) !important;
+    box-shadow: var(--glowShadow) !important;
+    border: var(--accentBorder);
+}
+
+/* Play overlay on Live TV channels */
+.card[data-type="TvChannel"] .cardImageContainer {
+    position: relative !important;
+}
+
+.card[data-type="TvChannel"]:hover .cardImageContainer::after {
+    content: var(--channelPlayOverlayVisibility);
+    content: "▶";
+    display: var(--channelPlayOverlayVisibility);
+    position: absolute !important;
+    top: 50% !important;
+    left: 50% !important;
+    transform: translate(-50%, -50%) !important;
+    font-size: 3.5rem !important;
+    color: rgba(255, 255, 255, 0.95) !important;
+    text-shadow: 0 0 30px rgba(0, 0, 0, 0.9), 0 0 60px var(--accentColor) !important;
+    pointer-events: none !important;
+    z-index: 10 !important;
+    animation: pulseGlow 1.5s ease-in-out infinite;
+}
+
+@keyframes pulseGlow {
+    0%, 100% { text-shadow: 0 0 30px rgba(0, 0, 0, 0.9), 0 0 60px var(--accentColor); }
+    50% { text-shadow: 0 0 40px rgba(0, 0, 0, 0.9), 0 0 80px var(--accentColor); }
+}
+
+/* Now Playing indicator */
+.card[data-type="TvChannel"].blazeSkin-playing {
+    border: 3px solid var(--accentColor) !important;
+    box-shadow: var(--glowShadow) !important;
+}
+
+.card[data-type="TvChannel"].blazeSkin-playing::before {
+    content: "NOW PLAYING";
+    position: absolute;
+    top: 8px;
+    left: 8px;
+    background: var(--accentColor);
+    color: white;
+    font-size: 0.65em;
+    font-weight: 700;
+    padding: 3px 8px;
+    border-radius: var(--smallerRadius);
+    z-index: 100;
+    letter-spacing: 0.5px;
+}
+
+/* ============================================
+   INFO BUTTON (for blazeSkin direct play)
+   ============================================ */
+
+.blazeSkin-infoBtn {
+    position: absolute !important;
+    top: 8px !important;
+    right: 8px !important;
+    width: 32px !important;
+    height: 32px !important;
+    background: rgba(0, 0, 0, 0.85) !important;
+    border: 2px solid rgba(255, 255, 255, 0.5) !important;
+    border-radius: 50% !important;
+    color: white !important;
+    font-size: 18px !important;
+    font-weight: bold !important;
+    cursor: pointer !important;
+    display: flex !important;
+    align-items: center !important;
+    justify-content: center !important;
+    z-index: 100 !important;
+    transition: all 0.2s ease !important;
+    opacity: 0 !important;
+}
+
+.card[data-type="TvChannel"]:hover .blazeSkin-infoBtn {
+    opacity: 1 !important;
+}
+
+.blazeSkin-infoBtn:hover {
+    background: var(--accentColor) !important;
+    border-color: white !important;
+    transform: scale(1.15) !important;
+}
+
+/* ============================================
+   TOAST NOTIFICATION
+   ============================================ */
+
+.blazeSkin-toast {
+    position: fixed !important;
+    bottom: 100px !important;
+    left: 50% !important;
+    transform: translateX(-50%) !important;
+    background: rgba(13, 13, 13, 0.95) !important;
+    color: white !important;
+    padding: 16px 32px !important;
+    border-radius: var(--largeRadius) !important;
+    border-left: 4px solid var(--accentColor) !important;
+    box-shadow: 0 8px 32px rgba(0, 0, 0, 0.5) !important;
+    z-index: 99999 !important;
+    font-size: 16px !important;
+    font-weight: 500 !important;
+    animation: blazeToastIn 0.4s cubic-bezier(0.16, 1, 0.3, 1) !important;
+}
+
+@keyframes blazeToastIn {
+    from {
+        opacity: 0;
+        transform: translateX(-50%) translateY(30px) scale(0.95);
+    }
+    to {
+        opacity: 1;
+        transform: translateX(-50%) translateY(0) scale(1);
+    }
+}
+
+/* ============================================
+   BUTTONS
+   ============================================ */
+
+.raised,
+.emby-button.raised {
+    background: var(--selectorBackgroundColor);
+    border-radius: var(--smallRadius);
+    border: var(--defaultBorder);
+    transition: all 0.2s ease;
+}
+
+.raised:hover,
+.emby-button.raised:hover {
+    background: var(--accentColorAlpha);
+    border-color: var(--accentColor);
+}
+
+.button-submit,
+.emby-button.raised.emby-button-accent {
+    background: var(--accentColor) !important;
+    border-color: var(--accentColorLight) !important;
+}
+
+.button-submit:hover,
+.emby-button.raised.emby-button-accent:hover {
+    background: var(--accentColorLight) !important;
+}
+
+/* ============================================
+   PROGRESS BARS
+   ============================================ */
+
+.itemProgressBar {
+    background-color: rgba(255, 255, 255, 0.15) !important;
+    height: 4px;
+    overflow: hidden;
+    border-radius: var(--smallestRadius);
+}
+
+.itemProgressBar-inner {
+    background: linear-gradient(90deg, var(--accentColor), var(--accentColorLight)) !important;
+    border-radius: var(--smallestRadius);
+}
+
+/* ============================================
+   INDICATORS
+   ============================================ */
+
+.countIndicator,
+.fullSyncIndicator,
+.mediaSourceIndicator {
+    background: var(--accentColor);
+    border: var(--lighterBorderColor) solid 1px;
+    border-radius: var(--smallerRadius);
+}
+
+.playedIndicator {
+    background: rgb(34, 197, 94);
+    border: var(--lighterBorderColor) solid 1px;
+    border-radius: var(--smallerRadius);
+}
+
+/* ============================================
+   LIVE TV GUIDE
+   ============================================ */
+
+.guide-programCell {
+    border-radius: var(--smallerRadius);
+    transition: all 0.15s ease;
+}
+
+.guide-programCell.guide-activeProgram {
+    background: linear-gradient(135deg, var(--accentColor) 0%, var(--accentColorDark) 100%) !important;
+    box-shadow: 0 2px 10px var(--accentColorAlpha);
+}
+
+.guide-channelHeaderCell img {
+    max-height: 50px !important;
+    object-fit: contain !important;
+    border-radius: var(--smallerRadius);
+}
+
+/* ============================================
+   VIDEO OSD
+   ============================================ */
+
+.videoOsdBottom.videoOsdBottom-maincontrols {
+    background: var(--bottomOSDGradient);
+}
+
+.skinHeader-withBackground.osdHeader {
+    background: var(--topOSDGradient);
+}
+
+/* ============================================
+   DRAWER / SIDEBAR
+   ============================================ */
+
+.mainDrawer {
+    background: var(--drawerColor) !important;
+    backdrop-filter: var(--blurLarge);
+}
+
+.mainDrawer-scrollContainer {
+    background: transparent;
+}
+
+/* ============================================
+   DIALOGS & MODALS
+   ============================================ */
+
+.dialog,
+.formDialog {
+    background: var(--lighterGradientPoint) !important;
+    border: var(--defaultBorder);
+    border-radius: var(--largeRadius);
+    box-shadow: 0 20px 60px rgba(0, 0, 0, 0.5);
+}
+
+/* ============================================
+   INPUTS & SELECTS
+   ============================================ */
+
+.emby-input,
+.emby-textarea,
+.emby-select {
+    background: var(--selectorBackgroundColor) !important;
+    border: var(--defaultBorder) !important;
+    border-radius: var(--smallRadius) !important;
+    color: var(--textColor) !important;
+    transition: border-color 0.2s ease;
+}
+
+.emby-input:focus,
+.emby-textarea:focus,
+.emby-select:focus {
+    border-color: var(--accentColor) !important;
+    outline: none !important;
+}
+
+/* ============================================
+   CHECKBOXES
+   ============================================ */
+
+.emby-checkbox:checked + span + .checkboxOutline {
+    background-color: var(--checkboxCheckedBgColor) !important;
+    border-color: var(--checkboxCheckedBgColor) !important;
+}
+
+/* ============================================
+   LINKS
+   ============================================ */
+
+a {
+    color: var(--textColor);
+    transition: color 0.2s ease;
+}
+
+a:hover {
+    color: var(--accentColor) !important;
+}
+
+.button-link:hover {
+    color: var(--accentColor) !important;
+}
+
+/* ============================================
+   SCROLLBAR
+   ============================================ */
+
+::-webkit-scrollbar {
+    width: 8px;
+    height: 8px;
+}
+
+::-webkit-scrollbar-track {
+    background: var(--darkerGradientPoint);
+}
+
+::-webkit-scrollbar-thumb {
+    background: var(--borderColor);
+    border-radius: var(--smallRadius);
+}
+
+::-webkit-scrollbar-thumb:hover {
+    background: var(--accentColor);
+}
+
+/* ============================================
+   RESPONSIVE
+   ============================================ */
+
+@media (max-width: 768px) {
+    :root {
+        --sidePadding: 4%;
+        --appBarHeight: 4em;
+    }
+    
+    .card[data-type="TvChannel"]:hover .cardImageContainer::after {
+        font-size: 2.5rem !important;
+    }
+    
+    .blazeSkin-infoBtn {
+        width: 28px !important;
+        height: 28px !important;
+        font-size: 15px !important;
+    }
+    
+    .blazeSkin-toast {
+        padding: 12px 20px !important;
+        font-size: 14px !important;
+        bottom: 80px !important;
+    }
+}
+
+/* ============================================
+   ANIMATIONS
+   ============================================ */
+
+@keyframes fadeIn {
+    from { opacity: 0; }
+    to { opacity: 1; }
+}
+
+@keyframes slideUp {
+    from { 
+        opacity: 0;
+        transform: translateY(20px);
+    }
+    to { 
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+.itemsContainer > * {
+    animation: fadeIn 0.3s ease;
+}
