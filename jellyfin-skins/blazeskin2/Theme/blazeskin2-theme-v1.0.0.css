@@ -703,6 +703,53 @@ img.imgLogoIcon {
     display: none !important;
 }
 
+/* Replace "Jellyfin" text with "BSyd" in header */
+.headerLeft .pageTitle,
+.skinHeader .pageTitle,
+.pageTitleWithDefaultLogo .pageTitle,
+.headerTitleContainer .pageTitle {
+    visibility: hidden;
+    position: relative;
+}
+
+.headerLeft .pageTitle::after,
+.skinHeader .pageTitle::after,
+.pageTitleWithDefaultLogo .pageTitle::after,
+.headerTitleContainer .pageTitle::after {
+    content: "BSyd";
+    visibility: visible;
+    position: absolute;
+    left: 0;
+    font-weight: 600;
+    color: var(--textColor);
+}
+
+/* Dashboard header title */
+.dashboardDocument .pageTitle {
+    visibility: hidden;
+    position: relative;
+}
+
+.dashboardDocument .pageTitle::after {
+    content: "BSyd";
+    visibility: visible;
+    position: absolute;
+    left: 0;
+}
+
+/* Main title areas */
+.libraryPage .pageTitle[data-title="Jellyfin"],
+.homePage .pageTitle {
+    font-size: 0 !important;
+}
+
+.libraryPage .pageTitle[data-title="Jellyfin"]::after,
+.homePage .pageTitle::after {
+    content: "BSyd";
+    font-size: 1.5rem;
+    font-weight: 600;
+}
+
 #loginPage .padded-left.padded-right.padded-bottom-page {
     margin: 2em auto 0;
     width: 28em;
