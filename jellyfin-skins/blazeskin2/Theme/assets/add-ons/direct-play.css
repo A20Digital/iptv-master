@@ -1,0 +1,56 @@
+/* blazeskin2 Direct Play Add-on */
+/* Adds direct play functionality for Live TV channels */
+
+/* Click overlay for channel cards */
+.guide-channelHeaderCell,
+.programCell {
+    cursor: pointer;
+}
+
+/* Active program highlight */
+.programCell-active {
+    position: relative;
+}
+
+.programCell-active::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: linear-gradient(135deg, rgba(105, 42, 141, 0.2), transparent);
+    pointer-events: none;
+}
+
+/* Live indicator */
+.liveTvProgram .programCell-active::after {
+    content: 'LIVE';
+    position: absolute;
+    top: .25em;
+    right: .25em;
+    background: #e53935;
+    color: white;
+    font-size: .65em;
+    padding: .15em .4em;
+    border-radius: var(--smallerRadius);
+    font-weight: 600;
+}
+
+/* Channel logo styling */
+.guide-channelHeaderCell img {
+    max-height: 2.5em;
+    object-fit: contain;
+}
+
+/* Program time indicator */
+.programCell .programTime {
+    font-size: .75em;
+    color: var(--dimTextColor);
+}
+
+/* Currently playing indicator */
+.guide-currentTimeIndicatorBar {
+    background: var(--uiAccentColor);
+    width: 2px;
+}

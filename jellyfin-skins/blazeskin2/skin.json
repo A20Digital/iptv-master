@@ -1,0 +1,19 @@
+{
+    "name": "blazeskin2",
+    "version": "1.0.0",
+    "author": "A20Labs",
+    "description": "A modern, sleek Jellyfin theme with purple accents. Inspired by ElegantFin.",
+    "repository": "https://github.com/A20Digital/iptv-master",
+    "css": [
+        "Theme/blazeskin2-jellyfin-theme-build-latest-minified.css"
+    ],
+    "compatibility": {
+        "jellyfin": ">=10.9.0"
+    },
+    "tags": [
+        "dark",
+        "modern",
+        "purple",
+        "sleek"
+    ]
+}
