@@ -17,3 +17,15 @@ h1.logoImage::after,h3.logoImage::after,.pageTitleWithDefaultLogo::after{margin-
 
 /* Round edges 20px for all images and media */
 img,.cardImageContainer,.cardImage,.itemBackdrop,.detailImageContainer img,.primaryImageWrapper img,.cardContent,.listItemImage,.nowPlayingPageImage,.nowPlayingImage,.backdropImage,.detailLogo,.chapterCardImageContainer,.guideChannelImage,.headerUserButton img,.MuiAvatar-img,video,.videoOsdBottom video{border-radius:50px!important}
+
+/* Live TV Tab Reorder: Guide, Channels, Programs, Series, Schedule, Recordings */
+#liveTvPage .sectionTabs{display:flex!important}
+#liveTvPage .emby-tab-button[data-index="1"]{order:1!important}
+#liveTvPage .emby-tab-button[data-index="2"]{order:2!important}
+#liveTvPage .emby-tab-button[data-index="0"]{order:3!important}
+#liveTvPage .emby-tab-button[data-index="5"]{order:4!important}
+#liveTvPage .emby-tab-button[data-index="4"]{order:5!important}
+#liveTvPage .emby-tab-button[data-index="3"]{order:6!important}
+
+/* Live TV Program Cards - purple gradient placeholder */
+.programCard .cardPadder,.card[data-type="Program"] .cardPadder,.card[data-type="Timer"] .cardPadder{background:linear-gradient(135deg,#692a8d 0%,#1a1229 100%)!important}
