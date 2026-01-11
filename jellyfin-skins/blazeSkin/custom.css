@@ -1,0 +1,155 @@
+/*
+ * blazeSkin - FinTV Custom Skin
+ * Author: A20Labs
+ * 
+ * Custom CSS for enhanced Live TV experience
+ */
+
+/* ============================================
+   LIVE TV CHANNEL GRID ENHANCEMENTS
+   ============================================ */
+
+/* Make channel cards more clickable/prominent */
+.liveTvChannel {
+  cursor: pointer;
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.liveTvChannel:hover {
+  transform: scale(1.05);
+  box-shadow: 0 8px 25px rgba(255, 107, 0, 0.4);
+}
+
+/* Add play indicator on hover */
+.liveTvChannel:hover::after {
+  content: "▶";
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  font-size: 3rem;
+  color: rgba(255, 255, 255, 0.9);
+  text-shadow: 0 0 20px rgba(0, 0, 0, 0.8);
+  pointer-events: none;
+  z-index: 10;
+}
+
+/* Info button styling */
+.blazeSkin-infoBtn {
+  position: absolute;
+  top: 8px;
+  right: 8px;
+  width: 28px;
+  height: 28px;
+  background: rgba(0, 0, 0, 0.7);
+  border: 2px solid rgba(255, 255, 255, 0.6);
+  border-radius: 50%;
+  color: white;
+  font-size: 16px;
+  font-weight: bold;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  z-index: 20;
+  transition: all 0.2s ease;
+}
+
+.blazeSkin-infoBtn:hover {
+  background: rgba(255, 107, 0, 0.9);
+  border-color: white;
+  transform: scale(1.1);
+}
+
+/* ============================================
+   ACCENT COLOR - BLAZE ORANGE
+   ============================================ */
+
+/* Primary accent color */
+.skinHeader,
+.navMenuOption.navMenuOption-selected,
+.emby-button.raised:not(.emby-button-tv) {
+  background-color: #FF6B00 !important;
+}
+
+/* Focus/hover states */
+a:hover,
+.button-link:hover,
+.emby-tab-button:focus {
+  color: #FF6B00 !important;
+}
+
+/* Progress bars */
+.itemProgressBar-inner {
+  background-color: #FF6B00 !important;
+}
+
+/* ============================================
+   LIVE TV GUIDE IMPROVEMENTS
+   ============================================ */
+
+/* Current program highlight */
+.guide-programCell.guide-programCell-active {
+  background: linear-gradient(135deg, #FF6B00 0%, #FF8C00 100%) !important;
+}
+
+/* Channel logo sizing */
+.guide-channelHeaderCell img,
+.channelPrograms-channelCell img {
+  max-height: 50px;
+  object-fit: contain;
+}
+
+/* ============================================
+   NOW PLAYING INDICATOR
+   ============================================ */
+
+.liveTvChannel.now-playing {
+  border: 3px solid #FF6B00;
+  box-shadow: 0 0 15px rgba(255, 107, 0, 0.6);
+}
+
+/* ============================================
+   QUICK PLAY TOAST NOTIFICATION
+   ============================================ */
+
+.blazeSkin-toast {
+  position: fixed;
+  bottom: 80px;
+  left: 50%;
+  transform: translateX(-50%);
+  background: rgba(0, 0, 0, 0.9);
+  color: white;
+  padding: 12px 24px;
+  border-radius: 8px;
+  border-left: 4px solid #FF6B00;
+  z-index: 9999;
+  animation: toastSlide 0.3s ease;
+}
+
+@keyframes toastSlide {
+  from {
+    opacity: 0;
+    transform: translateX(-50%) translateY(20px);
+  }
+  to {
+    opacity: 1;
+    transform: translateX(-50%) translateY(0);
+  }
+}
+
+/* ============================================
+   RESPONSIVE ADJUSTMENTS
+   ============================================ */
+
+@media (max-width: 768px) {
+  .blazeSkin-infoBtn {
+    width: 24px;
+    height: 24px;
+    font-size: 14px;
+  }
+  
+  .liveTvChannel:hover::after {
+    font-size: 2rem;
+  }
+}
