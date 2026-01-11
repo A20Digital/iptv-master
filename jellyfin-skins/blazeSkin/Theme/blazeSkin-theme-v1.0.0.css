@@ -19,11 +19,11 @@
     --lighterGradientPoint: #1a1a1a;
     --lighterGradientPointAlpha: rgba(26, 26, 26, 0.90);
     
-    /* Blaze Orange Accent */
-    --accentColor: #FF6B00;
-    --accentColorLight: #FF8C33;
-    --accentColorDark: #CC5500;
-    --accentColorAlpha: rgba(255, 107, 0, 0.3);
+    /* Purple Accent */
+    --accentColor: #692a8d;
+    --accentColorLight: #8a4bae;
+    --accentColorDark: #4e1f6a;
+    --accentColorAlpha: rgba(105, 42, 141, 0.3);
     
     /* Borders */
     --borderColor: rgb(51, 51, 51);
@@ -52,7 +52,7 @@
     /* Gradients */
     --backgroundGradient: linear-gradient(180deg, var(--lighterGradientPoint) 0%, var(--darkerGradientPoint) 100%);
     --cardBackgroundGradient: linear-gradient(180deg, var(--darkerGradientPoint), var(--lighterGradientPoint) 25%);
-    --hoverGradient: linear-gradient(135deg, rgba(255, 107, 0, 0.2) 0%, rgba(255, 107, 0, 0.1) 100%);
+    --hoverGradient: linear-gradient(135deg, rgba(105, 42, 141, 0.2) 0%, rgba(105, 42, 141, 0.1) 100%);
     --topOSDGradient: linear-gradient(180deg, rgba(0, 0, 0, 0.8) 0%, transparent 100%);
     --bottomOSDGradient: linear-gradient(0deg, rgba(0, 0, 0, 0.9) 0%, transparent 100%);
     
@@ -66,8 +66,8 @@
     
     /* Shadows */
     --cardShadow: 0 4px 20px rgba(0, 0, 0, 0.4);
-    --cardHoverShadow: 0 8px 30px rgba(255, 107, 0, 0.3);
-    --glowShadow: 0 0 20px rgba(255, 107, 0, 0.5);
+    --cardHoverShadow: 0 8px 30px rgba(105, 42, 141, 0.3);
+    --glowShadow: 0 0 20px rgba(105, 42, 141, 0.5);
     
     /* Blur */
     --blurSmallest: blur(2px);
